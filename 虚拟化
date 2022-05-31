@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-31T11:38:17.808Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36 Edg/101.0.1210.53" etag="KTGxAU69QTr9SC6IjGKT" version="18.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-31T11:38:32.056Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36 Edg/101.0.1210.53" etag="CoC0SBWT761xDAPsHHjy" version="18.1.3" type="github">
   <diagram id="-Oojr6oZ0Btl4TRM4Hhd" name="Page-1">
     <mxGraphModel dx="1185" dy="655" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -68,37 +68,40 @@
           <mxGeometry x="40" y="180" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Mf5KNnNluvdRY598eTGz-28" value="VMM" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="30" y="370" width="60" height="30" as="geometry" />
+          <mxGeometry x="40" y="360" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Mf5KNnNluvdRY598eTGz-29" value="物理平台资源" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="30" y="500" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Mf5KNnNluvdRY598eTGz-30" value="VMM功能&lt;br&gt;资源管理/Provisioning/调度/用户接口" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#FFFFFF;verticalAlign=top;spacingTop=4;" vertex="1" parent="1">
-          <mxGeometry x="140" y="320" width="750" height="150" as="geometry" />
+        <mxCell id="Mf5KNnNluvdRY598eTGz-44" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="140" y="290" width="750" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="Mf5KNnNluvdRY598eTGz-36" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="140" y="380" width="750" height="110" as="geometry" />
+        <mxCell id="Mf5KNnNluvdRY598eTGz-30" value="VMM功能&lt;br&gt;资源管理/Provisioning/调度/用户接口" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#FFFFFF;verticalAlign=top;spacingTop=4;" vertex="1" parent="Mf5KNnNluvdRY598eTGz-44">
+          <mxGeometry width="750" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="Mf5KNnNluvdRY598eTGz-37" value="VT-x配置" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="160" y="420" width="160" height="60" as="geometry" />
+        <mxCell id="Mf5KNnNluvdRY598eTGz-36" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#FFFFFF;" vertex="1" parent="Mf5KNnNluvdRY598eTGz-44">
+          <mxGeometry y="60" width="750" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="Mf5KNnNluvdRY598eTGz-38" value="EPT配置" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="350" y="420" width="170" height="60" as="geometry" />
+        <mxCell id="Mf5KNnNluvdRY598eTGz-37" value="VT-x配置" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#FFFFFF;" vertex="1" parent="Mf5KNnNluvdRY598eTGz-44">
+          <mxGeometry x="20" y="100" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Mf5KNnNluvdRY598eTGz-39" value="DMA和中断重映射配置" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="550" y="420" width="165" height="60" as="geometry" />
+        <mxCell id="Mf5KNnNluvdRY598eTGz-38" value="EPT配置" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#FFFFFF;" vertex="1" parent="Mf5KNnNluvdRY598eTGz-44">
+          <mxGeometry x="210" y="100" width="170" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Mf5KNnNluvdRY598eTGz-40" value="输入输出设备模拟" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="720" y="420" width="155" height="60" as="geometry" />
+        <mxCell id="Mf5KNnNluvdRY598eTGz-39" value="DMA和中断重映射配置" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#FFFFFF;" vertex="1" parent="Mf5KNnNluvdRY598eTGz-44">
+          <mxGeometry x="410" y="100" width="165" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Mf5KNnNluvdRY598eTGz-41" value="CPU虚拟化" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="190" y="386" width="100" height="30" as="geometry" />
+        <mxCell id="Mf5KNnNluvdRY598eTGz-40" value="输入输出设备模拟" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#FFFFFF;" vertex="1" parent="Mf5KNnNluvdRY598eTGz-44">
+          <mxGeometry x="580" y="100" width="155" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Mf5KNnNluvdRY598eTGz-42" value="内存虚拟化&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22CPU%E8%99%9A%E6%8B%9F%E5%8C%96%22%20style%3D%22text%3Bhtml%3D1%3BstrokeColor%3Dnone%3BfillColor%3Dnone%3Balign%3Dcenter%3BverticalAlign%3Dmiddle%3BwhiteSpace%3Dwrap%3Brounded%3D0%3BfontSize%3D18%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22190%22%20y%3D%22386%22%20width%3D%22100%22%20height%3D%2230%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="376" y="386" width="100" height="30" as="geometry" />
+        <mxCell id="Mf5KNnNluvdRY598eTGz-41" value="CPU虚拟化" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="Mf5KNnNluvdRY598eTGz-44">
+          <mxGeometry x="50" y="66" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Mf5KNnNluvdRY598eTGz-43" value="输入输出设备虚拟化" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="620" y="386" width="188.5" height="30" as="geometry" />
+        <mxCell id="Mf5KNnNluvdRY598eTGz-42" value="内存虚拟化&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22CPU%E8%99%9A%E6%8B%9F%E5%8C%96%22%20style%3D%22text%3Bhtml%3D1%3BstrokeColor%3Dnone%3BfillColor%3Dnone%3Balign%3Dcenter%3BverticalAlign%3Dmiddle%3BwhiteSpace%3Dwrap%3Brounded%3D0%3BfontSize%3D18%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22190%22%20y%3D%22386%22%20width%3D%22100%22%20height%3D%2230%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="Mf5KNnNluvdRY598eTGz-44">
+          <mxGeometry x="236" y="66" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Mf5KNnNluvdRY598eTGz-43" value="输入输出设备虚拟化" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="Mf5KNnNluvdRY598eTGz-44">
+          <mxGeometry x="480" y="66" width="188.5" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
