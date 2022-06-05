@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-05T01:52:42.515Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.30" etag="p92uX34g5wS8teH14F6w" version="18.2.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-06-05T01:53:23.450Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.30" etag="zyxfyC2eJSVKcqBCt88N" version="18.2.0" type="github" pages="2">
   <diagram id="-Oojr6oZ0Btl4TRM4Hhd" name="Page-1">
     <mxGraphModel dx="1422" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -752,6 +752,12 @@
         </mxCell>
         <mxCell id="IvpcmUyKjDTErvkExJG4-18" value="定时器中断" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="190" y="390" width="70" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="IvpcmUyKjDTErvkExJG4-19" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="330" y="390" width="340" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="IvpcmUyKjDTErvkExJG4-20" value="vCPU队列" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="340" y="413.75" width="60" height="42.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
