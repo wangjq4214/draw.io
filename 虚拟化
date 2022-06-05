@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-05T02:02:53.643Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.30" etag="YESG1PAHM1wGDcIX_WjG" version="18.2.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-06-05T13:02:35.495Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.30" etag="knt3e-X59t59A1aT105m" version="18.2.0" type="github" pages="2">
   <diagram id="-Oojr6oZ0Btl4TRM4Hhd" name="Page-1">
     <mxGraphModel dx="1422" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -884,6 +884,11 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="559" y="217.5" as="sourcePoint" />
             <mxPoint x="443" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IvpcmUyKjDTErvkExJG4-60" value="客户机进程" style="swimlane;fontSize=18;align=left;startSize=30;spacingLeft=8;" vertex="1" parent="1">
+          <mxGeometry x="100" y="680" width="570" height="200" as="geometry">
+            <mxRectangle x="100" y="680" width="160" height="23" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
       </root>
