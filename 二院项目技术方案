@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-16T13:52:17.149Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.41" etag="JteVZtpCAINahaJ7YN9f" version="19.0.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-06-16T13:53:00.678Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.41" etag="qeKUZ2EseEGBA5baqAKV" version="19.0.0" type="github" pages="2">
   <diagram id="_DrysUYBCt5AwGMPfxF8" name="软件服务化集成平台">
     <mxGraphModel dx="1185" dy="655" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -224,25 +224,28 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="GvPUdgcEx0j2s7VXfwMj-79" value="容器运行平台" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="950" y="990" width="160" height="60" as="geometry" />
+          <mxGeometry x="950" y="990" width="180" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GvPUdgcEx0j2s7VXfwMj-80" value="可执行程序运行" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="1153" y="990" width="160" height="60" as="geometry" />
+          <mxGeometry x="1163" y="990" width="167" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GvPUdgcEx0j2s7VXfwMj-81" value="权限管理模块" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="1360" y="820" width="120" height="230" as="geometry" />
         </mxCell>
         <mxCell id="GvPUdgcEx0j2s7VXfwMj-82" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="950" y="720" width="530" height="80" as="geometry" />
+          <mxGeometry x="950" y="710" width="530" height="80" as="geometry" />
         </mxCell>
         <mxCell id="GvPUdgcEx0j2s7VXfwMj-84" value="外部调用" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="1330" y="730" width="120" height="60" as="geometry" />
+          <mxGeometry x="1330" y="720" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GvPUdgcEx0j2s7VXfwMj-85" value="web管理页面" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="980" y="730" width="130" height="60" as="geometry" />
+          <mxGeometry x="980" y="720" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GvPUdgcEx0j2s7VXfwMj-86" value="命令行接口" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="1153" y="730" width="130" height="60" as="geometry" />
+          <mxGeometry x="1153" y="720" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GvPUdgcEx0j2s7VXfwMj-87" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="950" y="820" width="380" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
