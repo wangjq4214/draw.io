@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-17T07:26:06.514Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.41" etag="IGtSnOnT2nSW9mDk2-OQ" version="19.0.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-06-17T08:08:29.353Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.41" etag="7GFvYOOq5JsOAXHIUt_z" version="19.0.0" type="github" pages="2">
   <diagram id="_DrysUYBCt5AwGMPfxF8" name="软件服务化集成平台">
     <mxGraphModel dx="1185" dy="655" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -302,6 +302,45 @@
           <mxGeometry x="80" y="185" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="GvPUdgcEx0j2s7VXfwMj-114" value="依赖关系查看" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="GvPUdgcEx0j2s7VXfwMj-101">
+          <mxGeometry x="200" y="185" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="GvPUdgcEx0j2s7VXfwMj-115" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="950" y="1460" width="530" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="GvPUdgcEx0j2s7VXfwMj-116" value="基础服务平台" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="GvPUdgcEx0j2s7VXfwMj-115">
+          <mxGeometry y="280" width="380" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GvPUdgcEx0j2s7VXfwMj-117" value="用户与权限管理模块" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="GvPUdgcEx0j2s7VXfwMj-115">
+          <mxGeometry x="410" y="110" width="120" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="GvPUdgcEx0j2s7VXfwMj-118" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="GvPUdgcEx0j2s7VXfwMj-115">
+          <mxGeometry width="530" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="GvPUdgcEx0j2s7VXfwMj-119" value="外部调用" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="GvPUdgcEx0j2s7VXfwMj-115">
+          <mxGeometry x="380" y="10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GvPUdgcEx0j2s7VXfwMj-120" value="web管理页面" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="GvPUdgcEx0j2s7VXfwMj-115">
+          <mxGeometry x="30" y="10" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GvPUdgcEx0j2s7VXfwMj-121" value="命令行接口" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="GvPUdgcEx0j2s7VXfwMj-115">
+          <mxGeometry x="203" y="10" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GvPUdgcEx0j2s7VXfwMj-122" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;dashed=1;" vertex="1" parent="GvPUdgcEx0j2s7VXfwMj-115">
+          <mxGeometry y="110" width="380" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="GvPUdgcEx0j2s7VXfwMj-123" value="服务查看" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="GvPUdgcEx0j2s7VXfwMj-115">
+          <mxGeometry x="20" y="125" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="GvPUdgcEx0j2s7VXfwMj-124" value="服务启停" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="GvPUdgcEx0j2s7VXfwMj-115">
+          <mxGeometry x="140" y="125" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="GvPUdgcEx0j2s7VXfwMj-125" value="健康监测" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="GvPUdgcEx0j2s7VXfwMj-115">
+          <mxGeometry x="260" y="125" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="GvPUdgcEx0j2s7VXfwMj-126" value="配置管理" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="GvPUdgcEx0j2s7VXfwMj-115">
+          <mxGeometry x="80" y="185" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="GvPUdgcEx0j2s7VXfwMj-127" value="依赖关系查看" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="GvPUdgcEx0j2s7VXfwMj-115">
           <mxGeometry x="200" y="185" width="100" height="50" as="geometry" />
         </mxCell>
       </root>
