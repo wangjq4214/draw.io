@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-06-18T07:51:40.570Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.41" etag="9VkL0WMSK5ntXJDkuO4K" version="19.0.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-06-18T08:42:44.141Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.41" etag="A8udyBbY1HmtY2czzRxh" version="19.0.0" type="github" pages="2">
   <diagram id="_DrysUYBCt5AwGMPfxF8" name="软件服务化集成平台">
-    <mxGraphModel dx="1716" dy="491" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1808" dy="542" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -705,7 +705,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="NMgppXym4V2f6jgkIknN-299" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="1860" y="740" width="674" height="525" as="geometry" />
+          <mxGeometry x="1860" y="740" width="926" height="790" as="geometry" />
         </mxCell>
         <mxCell id="NMgppXym4V2f6jgkIknN-252" value="权限模块" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fontSize=18;" vertex="1" parent="NMgppXym4V2f6jgkIknN-299">
           <mxGeometry x="138" width="100" height="420" as="geometry" />
@@ -1008,6 +1008,56 @@
         <mxCell id="NMgppXym4V2f6jgkIknN-382" value="返回调用结果" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0;exitY=0.95;rounded=0;fontSize=14;" edge="1" source="NMgppXym4V2f6jgkIknN-380" parent="NMgppXym4V2f6jgkIknN-387" target="NMgppXym4V2f6jgkIknN-374">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="495" y="316" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NMgppXym4V2f6jgkIknN-400" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1010" y="1930" width="416" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="NMgppXym4V2f6jgkIknN-401" value="健康监测模块" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fontSize=16;" vertex="1" parent="NMgppXym4V2f6jgkIknN-400">
+          <mxGeometry x="130" width="112" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="NMgppXym4V2f6jgkIknN-402" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fontSize=18;" vertex="1" parent="NMgppXym4V2f6jgkIknN-401">
+          <mxGeometry x="51" y="60" width="10" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="NMgppXym4V2f6jgkIknN-403" value="" style="shape=umlLifeline;participant=umlActor;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;fontSize=18;" vertex="1" parent="NMgppXym4V2f6jgkIknN-400">
+          <mxGeometry width="20" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="NMgppXym4V2f6jgkIknN-404" value="注册中心" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fontSize=16;" vertex="1" parent="NMgppXym4V2f6jgkIknN-400">
+          <mxGeometry x="316" width="100" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="NMgppXym4V2f6jgkIknN-405" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fontSize=16;" vertex="1" parent="NMgppXym4V2f6jgkIknN-404">
+          <mxGeometry x="45" y="110" width="10" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="NMgppXym4V2f6jgkIknN-406" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fontSize=16;" vertex="1" parent="NMgppXym4V2f6jgkIknN-404">
+          <mxGeometry x="50" y="160" width="10" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="NMgppXym4V2f6jgkIknN-407" value="查询注册信息" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;fontSize=16;exitX=1.154;exitY=0.156;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="NMgppXym4V2f6jgkIknN-404" source="NMgppXym4V2f6jgkIknN-405" target="NMgppXym4V2f6jgkIknN-406">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="55" y="320" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="85" y="135" />
+              <mxPoint x="85" y="160" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NMgppXym4V2f6jgkIknN-408" value="返回结果及权限" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0;exitY=0.95;rounded=0;fontSize=16;" edge="1" parent="NMgppXym4V2f6jgkIknN-400" source="NMgppXym4V2f6jgkIknN-402" target="NMgppXym4V2f6jgkIknN-403">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="113" y="136" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NMgppXym4V2f6jgkIknN-409" value="查询服务" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;rounded=0;fontSize=16;" edge="1" parent="NMgppXym4V2f6jgkIknN-400" source="NMgppXym4V2f6jgkIknN-403" target="NMgppXym4V2f6jgkIknN-402">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="113" y="60" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NMgppXym4V2f6jgkIknN-410" value="查询权限" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;rounded=0;fontSize=16;exitX=0.978;exitY=0.228;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="NMgppXym4V2f6jgkIknN-400" source="NMgppXym4V2f6jgkIknN-402" target="NMgppXym4V2f6jgkIknN-405">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="192" y="230" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NMgppXym4V2f6jgkIknN-411" value="返回结果" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0;exitY=0.95;rounded=0;fontSize=16;" edge="1" parent="NMgppXym4V2f6jgkIknN-400" source="NMgppXym4V2f6jgkIknN-405" target="NMgppXym4V2f6jgkIknN-402">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="291" y="306" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
