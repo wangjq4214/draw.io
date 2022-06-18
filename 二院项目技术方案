@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-18T05:37:02.243Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.41" etag="Gd09D3BR75g8l_nTUvFL" version="19.0.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-06-18T05:38:28.324Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.41" etag="bMpxGKqCy3xoSdHFHXY1" version="19.0.0" type="github" pages="2">
   <diagram id="_DrysUYBCt5AwGMPfxF8" name="软件服务化集成平台">
     <mxGraphModel dx="1374" dy="302" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -730,6 +730,9 @@
         <mxCell id="NMgppXym4V2f6jgkIknN-257" value="服务一" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="2016" y="585" width="100" height="420" as="geometry" />
         </mxCell>
+        <mxCell id="NMgppXym4V2f6jgkIknN-279" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fontSize=16;" vertex="1" parent="NMgppXym4V2f6jgkIknN-257">
+          <mxGeometry x="45" y="165" width="10" height="80" as="geometry" />
+        </mxCell>
         <mxCell id="NMgppXym4V2f6jgkIknN-261" value="服务二" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="2194" y="585" width="100" height="420" as="geometry" />
         </mxCell>
@@ -743,6 +746,19 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1860" y="719.2" as="sourcePoint" />
             <mxPoint x="1720" y="733" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NMgppXym4V2f6jgkIknN-280" value="添加Token" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;rounded=0;fontSize=16;exitX=0.985;exitY=0.536;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" target="NMgppXym4V2f6jgkIknN-279" parent="1" source="NMgppXym4V2f6jgkIknN-275">
+          <mxGeometry x="0.3587" relative="1" as="geometry">
+            <mxPoint x="1991" y="750" as="sourcePoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NMgppXym4V2f6jgkIknN-282" value="发起请求" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;fontSize=16;exitX=1.062;exitY=0.639;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.263;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry x="0.3572" width="80" relative="1" as="geometry">
+            <mxPoint x="1715.6200000000003" y="786.9950000000001" as="sourcePoint" />
+            <mxPoint x="2061" y="787.0400000000002" as="targetPoint" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
