@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-18T06:59:47.046Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.41" etag="TRxVanrrCb1D-EB1MY9H" version="19.0.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-06-18T07:51:40.570Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.41" etag="9VkL0WMSK5ntXJDkuO4K" version="19.0.0" type="github" pages="2">
   <diagram id="_DrysUYBCt5AwGMPfxF8" name="软件服务化集成平台">
     <mxGraphModel dx="1716" dy="491" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -874,7 +874,7 @@
         <mxCell id="NMgppXym4V2f6jgkIknN-348" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fontSize=14;" vertex="1" parent="NMgppXym4V2f6jgkIknN-346">
           <mxGeometry x="45" y="230" width="10" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="NMgppXym4V2f6jgkIknN-324" value="依赖查看模块" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fontSize=16;" vertex="1" parent="NMgppXym4V2f6jgkIknN-351">
+        <mxCell id="NMgppXym4V2f6jgkIknN-324" value="依赖查看模块" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fontSize=14;" vertex="1" parent="NMgppXym4V2f6jgkIknN-351">
           <mxGeometry x="130" width="112" height="330" as="geometry" />
         </mxCell>
         <mxCell id="NMgppXym4V2f6jgkIknN-342" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fontSize=14;" vertex="1" parent="NMgppXym4V2f6jgkIknN-324">
@@ -889,7 +889,7 @@
         <mxCell id="NMgppXym4V2f6jgkIknN-326" value="" style="shape=umlLifeline;participant=umlActor;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;fontSize=18;" vertex="1" parent="NMgppXym4V2f6jgkIknN-351">
           <mxGeometry width="20" height="330" as="geometry" />
         </mxCell>
-        <mxCell id="NMgppXym4V2f6jgkIknN-327" value="链路追踪模块" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fontSize=16;" vertex="1" parent="NMgppXym4V2f6jgkIknN-351">
+        <mxCell id="NMgppXym4V2f6jgkIknN-327" value="链路追踪模块" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fontSize=14;" vertex="1" parent="NMgppXym4V2f6jgkIknN-351">
           <mxGeometry x="316" width="114" height="330" as="geometry" />
         </mxCell>
         <mxCell id="NMgppXym4V2f6jgkIknN-336" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fontSize=16;" vertex="1" parent="NMgppXym4V2f6jgkIknN-351">
@@ -938,6 +938,76 @@
         <mxCell id="NMgppXym4V2f6jgkIknN-350" value="返回依赖关系" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0;exitY=0.95;rounded=0;fontSize=14;" edge="1" source="NMgppXym4V2f6jgkIknN-348" parent="NMgppXym4V2f6jgkIknN-351" target="NMgppXym4V2f6jgkIknN-342">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="495" y="296" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NMgppXym4V2f6jgkIknN-387" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1861" y="1970" width="620" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="NMgppXym4V2f6jgkIknN-353" value="注册中心" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fontSize=14;" vertex="1" parent="NMgppXym4V2f6jgkIknN-387">
+          <mxGeometry x="520" width="100" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="NMgppXym4V2f6jgkIknN-380" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fontSize=14;" vertex="1" parent="NMgppXym4V2f6jgkIknN-353">
+          <mxGeometry x="45" y="240" width="10" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NMgppXym4V2f6jgkIknN-356" value="服务启停模块" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fontSize=14;" vertex="1" parent="NMgppXym4V2f6jgkIknN-387">
+          <mxGeometry x="130" width="112" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="NMgppXym4V2f6jgkIknN-374" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fontSize=14;" vertex="1" parent="NMgppXym4V2f6jgkIknN-356">
+          <mxGeometry x="50" y="160" width="10" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="NMgppXym4V2f6jgkIknN-359" value="" style="shape=umlLifeline;participant=umlActor;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;fontSize=18;" vertex="1" parent="NMgppXym4V2f6jgkIknN-387">
+          <mxGeometry width="20" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="NMgppXym4V2f6jgkIknN-360" value="依赖查看模块" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fontSize=14;" vertex="1" parent="NMgppXym4V2f6jgkIknN-387">
+          <mxGeometry x="316" width="114" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="NMgppXym4V2f6jgkIknN-385" value="Opt" style="shape=umlFrame;whiteSpace=wrap;html=1;fontSize=14;fontColor=default;labelBackgroundColor=none;width=53;height=30;" vertex="1" parent="NMgppXym4V2f6jgkIknN-360">
+          <mxGeometry x="-190" y="150" width="270" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NMgppXym4V2f6jgkIknN-371" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fontSize=14;" vertex="1" parent="NMgppXym4V2f6jgkIknN-360">
+          <mxGeometry x="52" y="60" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NMgppXym4V2f6jgkIknN-377" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fontSize=14;" vertex="1" parent="NMgppXym4V2f6jgkIknN-360">
+          <mxGeometry x="51" y="170" width="10" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="NMgppXym4V2f6jgkIknN-372" value="检查依赖" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;rounded=0;fontSize=14;" edge="1" target="NMgppXym4V2f6jgkIknN-371" parent="NMgppXym4V2f6jgkIknN-387" source="NMgppXym4V2f6jgkIknN-359">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="298" y="60" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NMgppXym4V2f6jgkIknN-373" value="返回被依赖的服务" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0;exitY=0.95;rounded=0;fontSize=14;" edge="1" source="NMgppXym4V2f6jgkIknN-371" parent="NMgppXym4V2f6jgkIknN-387" target="NMgppXym4V2f6jgkIknN-359">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="298" y="136" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NMgppXym4V2f6jgkIknN-375" value="关闭或开启服务" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;rounded=0;fontSize=14;" edge="1" target="NMgppXym4V2f6jgkIknN-374" parent="NMgppXym4V2f6jgkIknN-387" source="NMgppXym4V2f6jgkIknN-359">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="110" y="160" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NMgppXym4V2f6jgkIknN-376" value="返回调用结果" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0;exitY=0.95;rounded=0;fontSize=14;" edge="1" source="NMgppXym4V2f6jgkIknN-374" parent="NMgppXym4V2f6jgkIknN-387" target="NMgppXym4V2f6jgkIknN-359">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="110" y="236" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NMgppXym4V2f6jgkIknN-378" value="更新依赖图" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;rounded=0;fontSize=14;" edge="1" target="NMgppXym4V2f6jgkIknN-377" parent="NMgppXym4V2f6jgkIknN-387" source="NMgppXym4V2f6jgkIknN-374">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="297" y="170" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NMgppXym4V2f6jgkIknN-379" value="返回结果" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0;exitY=0.95;rounded=0;fontSize=14;" edge="1" source="NMgppXym4V2f6jgkIknN-377" parent="NMgppXym4V2f6jgkIknN-387" target="NMgppXym4V2f6jgkIknN-374">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="297" y="246" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NMgppXym4V2f6jgkIknN-381" value="关闭或开始或开启服务" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;rounded=0;fontSize=14;" edge="1" target="NMgppXym4V2f6jgkIknN-380" parent="NMgppXym4V2f6jgkIknN-387" source="NMgppXym4V2f6jgkIknN-374">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="495" y="240" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NMgppXym4V2f6jgkIknN-382" value="返回调用结果" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0;exitY=0.95;rounded=0;fontSize=14;" edge="1" source="NMgppXym4V2f6jgkIknN-380" parent="NMgppXym4V2f6jgkIknN-387" target="NMgppXym4V2f6jgkIknN-374">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="495" y="316" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
