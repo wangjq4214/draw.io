@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-18T08:42:44.141Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.41" etag="A8udyBbY1HmtY2czzRxh" version="19.0.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-06-18T08:42:56.269Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.41" etag="UWgQ11v1MwOHP8YP5VDX" version="19.0.0" type="github" pages="2">
   <diagram id="_DrysUYBCt5AwGMPfxF8" name="软件服务化集成平台">
     <mxGraphModel dx="1808" dy="542" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1050,7 +1050,7 @@
             <mxPoint x="113" y="60" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NMgppXym4V2f6jgkIknN-410" value="查询权限" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;rounded=0;fontSize=16;exitX=0.978;exitY=0.228;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="NMgppXym4V2f6jgkIknN-400" source="NMgppXym4V2f6jgkIknN-402" target="NMgppXym4V2f6jgkIknN-405">
+        <mxCell id="NMgppXym4V2f6jgkIknN-410" value="查询状态" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;rounded=0;fontSize=16;exitX=0.978;exitY=0.228;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="NMgppXym4V2f6jgkIknN-400" source="NMgppXym4V2f6jgkIknN-402" target="NMgppXym4V2f6jgkIknN-405">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="192" y="230" as="sourcePoint" />
           </mxGeometry>
