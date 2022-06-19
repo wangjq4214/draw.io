@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-19T08:20:25.088Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.41" etag="sslV98f2rj0TVc-1spdl" version="19.0.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-06-19T08:22:06.155Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.41" etag="mQQPb-pL6NiMyjxed03D" version="19.0.0" type="github" pages="2">
   <diagram id="_DrysUYBCt5AwGMPfxF8" name="软件服务化集成平台">
     <mxGraphModel dx="5567" dy="2620" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1325,7 +1325,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Le8RtaTE77-BGXjCRSIb" name="全局虚拟数据空间">
-    <mxGraphModel dx="2031" dy="2292" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="474" dy="1431" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1598,9 +1598,9 @@
         <mxCell id="9wCKVatpvFF48sRXSt6m-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;fontColor=default;" edge="1" parent="9wCKVatpvFF48sRXSt6m-31" source="38SFQEw91TWaIgvHLQF5-47" target="9wCKVatpvFF48sRXSt6m-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="9wCKVatpvFF48sRXSt6m-25" value="提供权限信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;fontColor=default;" vertex="1" connectable="0" parent="9wCKVatpvFF48sRXSt6m-24">
+        <mxCell id="9wCKVatpvFF48sRXSt6m-25" value="提供权&lt;br&gt;限信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;fontColor=default;" vertex="1" connectable="0" parent="9wCKVatpvFF48sRXSt6m-24">
           <mxGeometry x="0.0788" y="-1" relative="1" as="geometry">
-            <mxPoint x="16" y="38" as="offset" />
+            <mxPoint x="16" y="43" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
