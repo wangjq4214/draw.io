@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-06-19T07:31:16.889Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="tZ4YIoNmeQIuA9LXbnJ2" version="20.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-19T07:59:17.728Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="XDSwtUh_jJs8LVombP9C" version="20.0.1" type="github">
   <diagram id="MedYQDeV-F79YKgBFQhL" name="第 1 页">
-    <mxGraphModel dx="1811" dy="995" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1454" dy="578" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -136,7 +136,7 @@
         <mxCell id="vhrxewNEwcAQ_lFFi1NT-38" value="数据源信息访问客户端模块&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%E6%9D%83%E9%99%90%E5%AE%A2%E6%88%B7%E7%AB%AF%E6%A8%A1%E5%9D%97%22%20style%3D%22rounded%3D0%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3Bdashed%3D1%3BdashPattern%3D1%204%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22280%22%20y%3D%2270%22%20width%3D%2273%22%20height%3D%2245%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="172" y="730" width="73" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="vhrxewNEwcAQ_lFFi1NT-39" value="数据资源访问客户端模块&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%E6%9D%83%E9%99%90%E5%AE%A2%E6%88%B7%E7%AB%AF%E6%A8%A1%E5%9D%97%22%20style%3D%22rounded%3D0%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3Bdashed%3D1%3BdashPattern%3D1%204%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22280%22%20y%3D%2270%22%20width%3D%2273%22%20height%3D%2245%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="vhrxewNEwcAQ_lFFi1NT-39" value="数据库资源访问客户端模块&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%E6%9D%83%E9%99%90%E5%AE%A2%E6%88%B7%E7%AB%AF%E6%A8%A1%E5%9D%97%22%20style%3D%22rounded%3D0%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3Bdashed%3D1%3BdashPattern%3D1%204%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22280%22%20y%3D%2270%22%20width%3D%2273%22%20height%3D%2245%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="255" y="675" width="70" height="100" as="geometry" />
         </mxCell>
         <mxCell id="vhrxewNEwcAQ_lFFi1NT-55" value="数据库资源管理平台" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;dashPattern=1 4;" parent="1" vertex="1">
@@ -154,7 +154,7 @@
         <mxCell id="vhrxewNEwcAQ_lFFi1NT-91" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=46;" parent="1" vertex="1">
           <mxGeometry x="55" y="1195" width="735" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="vhrxewNEwcAQ_lFFi1NT-92" value="数据库存储集群" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;dashPattern=1 4;" parent="1" vertex="1">
+        <mxCell id="vhrxewNEwcAQ_lFFi1NT-92" value="数据库存储节点" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;dashPattern=1 4;" parent="1" vertex="1">
           <mxGeometry x="330" y="1200" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vhrxewNEwcAQ_lFFi1NT-93" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.49;exitY=0.002;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="vhrxewNEwcAQ_lFFi1NT-91" target="vhrxewNEwcAQ_lFFi1NT-73" edge="1">
