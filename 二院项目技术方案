@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-19T11:24:26.971Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.41" etag="Vc94a1qwwBRndcj5TSey" version="19.0.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-06-19T12:58:06.387Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.41" etag="zt3T64FcTrdvl6MmoSVS" version="19.0.0" type="github" pages="2">
   <diagram id="_DrysUYBCt5AwGMPfxF8" name="软件服务化集成平台">
     <mxGraphModel dx="5567" dy="2620" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1325,7 +1325,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Le8RtaTE77-BGXjCRSIb" name="全局虚拟数据空间">
-    <mxGraphModel dx="2844" dy="2741" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1138" dy="1798" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1765,10 +1765,10 @@
         <mxCell id="9wCKVatpvFF48sRXSt6m-181" value="用户与权限系统" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=16;fontColor=default;fillColor=none;" vertex="1" parent="9wCKVatpvFF48sRXSt6m-196">
           <mxGeometry x="14.182692307692308" y="240" width="255.28846153846155" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="9wCKVatpvFF48sRXSt6m-182" value="服务控制模块" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=16;fontColor=default;fillColor=none;" vertex="1" parent="9wCKVatpvFF48sRXSt6m-196">
+        <mxCell id="9wCKVatpvFF48sRXSt6m-182" value="服务控制审核模块" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=16;fontColor=default;fillColor=none;" vertex="1" parent="9wCKVatpvFF48sRXSt6m-196">
           <mxGeometry x="14.182692307692308" y="80" width="113.46153846153847" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="9wCKVatpvFF48sRXSt6m-183" value="服务控制模块" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=16;fontColor=default;fillColor=none;" vertex="1" parent="9wCKVatpvFF48sRXSt6m-196">
+        <mxCell id="9wCKVatpvFF48sRXSt6m-183" value="访问控制模块" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=16;fontColor=default;fillColor=none;" vertex="1" parent="9wCKVatpvFF48sRXSt6m-196">
           <mxGeometry x="156.0096153846154" y="80" width="113.46153846153847" height="150" as="geometry" />
         </mxCell>
         <mxCell id="9wCKVatpvFF48sRXSt6m-184" value="主题服务生成模块" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=16;fontColor=default;fillColor=none;" vertex="1" parent="9wCKVatpvFF48sRXSt6m-196">
