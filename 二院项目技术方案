@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-19T14:00:08.955Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.41" etag="0smRNRlNczNmGZOO2N3M" version="19.0.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-06-19T14:03:25.082Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.41" etag="0genSC-Xhb7HmK933rSs" version="19.0.0" type="github" pages="2">
   <diagram id="_DrysUYBCt5AwGMPfxF8" name="软件服务化集成平台">
     <mxGraphModel dx="5567" dy="2620" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1921,7 +1921,7 @@
         <mxCell id="9wCKVatpvFF48sRXSt6m-201" value="" style="shape=umlLifeline;participant=umlActor;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;labelBackgroundColor=none;fontSize=16;fontColor=default;fillColor=none;" vertex="1" parent="9wCKVatpvFF48sRXSt6m-225">
           <mxGeometry x="150" y="30" width="20" height="400" as="geometry" />
         </mxCell>
-        <mxCell id="9wCKVatpvFF48sRXSt6m-202" value="主题服务管理模块" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;labelBackgroundColor=none;fontSize=16;fontColor=default;fillColor=none;" vertex="1" parent="9wCKVatpvFF48sRXSt6m-225">
+        <mxCell id="9wCKVatpvFF48sRXSt6m-202" value="服务审核控制模块" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;labelBackgroundColor=none;fontSize=16;fontColor=default;fillColor=none;" vertex="1" parent="9wCKVatpvFF48sRXSt6m-225">
           <mxGeometry x="250" y="30" width="100" height="400" as="geometry" />
         </mxCell>
         <mxCell id="9wCKVatpvFF48sRXSt6m-208" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;labelBackgroundColor=none;fontSize=16;fontColor=default;fillColor=none;" vertex="1" parent="9wCKVatpvFF48sRXSt6m-202">
