@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-20T03:30:50.282Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="JIZH6DlsZAa8_q3lyQdc" version="20.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-20T03:35:56.071Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="_74LhN6lzHNc_WQzoP1L" version="20.0.1" type="github">
   <diagram id="77X3sbEaQUG4GDiAxrND" name="第 1 页">
     <mxGraphModel dx="1597" dy="755" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -17,7 +17,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Jy56EpTqwdUdhTVjnXrr-4" value="数据源信息管理节点" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" parent="1" vertex="1">
+        <mxCell id="Jy56EpTqwdUdhTVjnXrr-4" value="数据源维护节点" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="320" y="80" width="120" height="400" as="geometry" />
         </mxCell>
         <mxCell id="Jy56EpTqwdUdhTVjnXrr-8" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="Jy56EpTqwdUdhTVjnXrr-4" vertex="1">
