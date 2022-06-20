@@ -1,1 +1,810 @@
-<mxfile host="app.diagrams.net" modified="2022-06-20T14:03:37.629Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="9h2TqkeK8rfv63DozD2_" version="20.0.1" type="github"><diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">7ZjLcpswFIafhmU6RhgbL2Pn0kU6yTSdSbOU4QTUCMQIEeM+fSUQYC5OcGrctNOVpV8XxP/pnMPYsFZhds1xHHxhHlADTbzMsC4MhEyELPmjlK1WTAcVis+Jp7VauCc/QYsTrabEg6QxUTBGBYmbosuiCFzR0DDnbNOc9sRo86kx9qEj3LuYdtUH4omgUB17UuufgfhB+WRzokdCXE7WQhJgj212JOvSsFacMVG0wmwFVLlX+lKsu9ozWh2MQySGLLCidHmV8YW7vZnE0e3DN4Svz/QuL5im+oUN6/x2/UNZWZxabEsr5AvEqpmG9IY8ASWR7C1j4CQEAVyOUC3f1dpSghFYamrczPuU4jgh63zbiVQ4uClPyAt8haTgn6ssjTzwdK8yL+8Izp4rHGpT/RbABWR77TEr0+V1BSYPyLdySnVXNSd9Ux3d3dTUK7bBDnGrFLG+aX61dQ1DNjSPA9igLps2kpiRSOTPtZeGfdHCwbgImM8iTHeBHN/Y/Tdrr9tTu2H2vM/srtfmYiyvrY7XHkliLNyg47kyg8gEcU6JH0lpzYRgYe4e5uJc5RzlvdxKahB5pbKmzH0up+lE5wwlAF4nTQ3xXyZLzH14bR7q58SBYiFjsplQe2zXS+/UTaz5npn9gMsdEpZyF/SiFrvqFO/HOf2HQ8du5qkqb70RO85YoWP/LyFZqxR8mBIy+6vjwD6khPSa3VNCZmN5Pe94zUGkPBpeQHaKBYtBDi09nAS5z2YxvFM2ICPiuzZdtR9V+9PCfndFKVLy25dpWEUZFDe/WWTQvHkFkDVrblEcdbQq4xzho6HnA0G6xrcVWtV5PCTSDgeLBoKd/SmwnaAd+fNh0QEr0dE1lniOAtY8EdihETs9Gdhps0KiduUbGWxZEU6dpM2TJenph4vlNnJ7fqQkLbv1vyfF9PpPKOvyFw==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-06-20T15:09:48.015Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="mzd7E-1q3MWM1erHY3Kd" version="20.0.1" type="github">
+  <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
+    <mxGraphModel dx="1081" dy="578" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="-ltHAzrY7biZE7LJsURF-1" value="平台访问接口" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="70" y="40" width="100" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="-ltHAzrY7biZE7LJsURF-4" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="-ltHAzrY7biZE7LJsURF-1">
+          <mxGeometry x="45" y="80" width="10" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="-ltHAzrY7biZE7LJsURF-7" value="查看数据结构信息" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;" edge="1" parent="-ltHAzrY7biZE7LJsURF-1" target="-ltHAzrY7biZE7LJsURF-6">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="50" y="80" as="sourcePoint" />
+            <mxPoint x="130" y="80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-ltHAzrY7biZE7LJsURF-2" value="数据库资源管理平台" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="380" y="40" width="140" height="500" as="geometry" />
+        </mxCell>
+        <mxCell id="-ltHAzrY7biZE7LJsURF-8" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="-ltHAzrY7biZE7LJsURF-2">
+          <mxGeometry x="65" y="100" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-ltHAzrY7biZE7LJsURF-18" value="平台访问接口" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="-ltHAzrY7biZE7LJsURF-2">
+          <mxGeometry x="-310" width="100" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="-ltHAzrY7biZE7LJsURF-19" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="-ltHAzrY7biZE7LJsURF-18">
+          <mxGeometry x="45" y="80" width="10" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="-ltHAzrY7biZE7LJsURF-3" value="关系型数据库操作节点" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="210" y="40" width="130" height="500" as="geometry" />
+        </mxCell>
+        <mxCell id="-ltHAzrY7biZE7LJsURF-6" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="-ltHAzrY7biZE7LJsURF-3">
+          <mxGeometry x="60" y="80" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-ltHAzrY7biZE7LJsURF-9" value="获取数据结构信息" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;" edge="1" parent="-ltHAzrY7biZE7LJsURF-3" target="-ltHAzrY7biZE7LJsURF-2">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="70" y="110" as="sourcePoint" />
+            <mxPoint x="150" y="110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-ltHAzrY7biZE7LJsURF-13" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="-ltHAzrY7biZE7LJsURF-3">
+          <mxGeometry x="60" y="200" width="10" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="-ltHAzrY7biZE7LJsURF-14" value="平台访问接口" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="-ltHAzrY7biZE7LJsURF-3">
+          <mxGeometry x="-140" width="100" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="-ltHAzrY7biZE7LJsURF-15" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="-ltHAzrY7biZE7LJsURF-14">
+          <mxGeometry x="45" y="80" width="10" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="-ltHAzrY7biZE7LJsURF-22" value="平台访问接口" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="-ltHAzrY7biZE7LJsURF-3">
+          <mxGeometry x="-140" width="100" height="500" as="geometry" />
+        </mxCell>
+        <mxCell id="-ltHAzrY7biZE7LJsURF-23" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="-ltHAzrY7biZE7LJsURF-22">
+          <mxGeometry x="45" y="80" width="10" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="-ltHAzrY7biZE7LJsURF-35" value="数据操作转发通道" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;" edge="1" parent="-ltHAzrY7biZE7LJsURF-22" target="-ltHAzrY7biZE7LJsURF-33">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="210" y="320" as="sourcePoint" />
+            <mxPoint x="130" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-ltHAzrY7biZE7LJsURF-40" value="单表查询操作参数" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;" edge="1" parent="-ltHAzrY7biZE7LJsURF-22" target="-ltHAzrY7biZE7LJsURF-3">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="50" y="200" as="sourcePoint" />
+            <mxPoint x="130" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-ltHAzrY7biZE7LJsURF-28" value="生成对应语句" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;" edge="1" parent="-ltHAzrY7biZE7LJsURF-3" target="-ltHAzrY7biZE7LJsURF-26">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="65" y="210" as="sourcePoint" />
+            <mxPoint x="145" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-ltHAzrY7biZE7LJsURF-10" value="数据结构信息" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;" edge="1" parent="1" target="-ltHAzrY7biZE7LJsURF-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="450" y="180" as="sourcePoint" />
+            <mxPoint x="370" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-ltHAzrY7biZE7LJsURF-11" value="数据结构信息" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;" edge="1" parent="1" target="-ltHAzrY7biZE7LJsURF-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="270" y="200" as="sourcePoint" />
+            <mxPoint x="190" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-ltHAzrY7biZE7LJsURF-26" value="关系型数据库SQL语句生成器" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="570" y="40" width="100" height="500" as="geometry" />
+        </mxCell>
+        <mxCell id="-ltHAzrY7biZE7LJsURF-29" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="-ltHAzrY7biZE7LJsURF-26">
+          <mxGeometry x="45" y="200" width="10" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="-ltHAzrY7biZE7LJsURF-30" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="-ltHAzrY7biZE7LJsURF-26">
+          <mxGeometry x="50" y="240" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-ltHAzrY7biZE7LJsURF-31" value="SQL语句生成" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;" edge="1" target="-ltHAzrY7biZE7LJsURF-30" parent="-ltHAzrY7biZE7LJsURF-26">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="55" y="220" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="85" y="220" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-ltHAzrY7biZE7LJsURF-32" value="SQL语句" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;" edge="1" parent="1" target="-ltHAzrY7biZE7LJsURF-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="620" y="330" as="sourcePoint" />
+            <mxPoint x="540" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-ltHAzrY7biZE7LJsURF-33" value="分散数据库信息采集聚合模块" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="720" y="40" width="100" height="500" as="geometry" />
+        </mxCell>
+        <mxCell id="-ltHAzrY7biZE7LJsURF-34" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="-ltHAzrY7biZE7LJsURF-33">
+          <mxGeometry x="45" y="310" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-ltHAzrY7biZE7LJsURF-36" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="-ltHAzrY7biZE7LJsURF-33">
+          <mxGeometry x="50" y="340" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-ltHAzrY7biZE7LJsURF-37" value="处理数据操作，转发执行" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;" edge="1" target="-ltHAzrY7biZE7LJsURF-36" parent="-ltHAzrY7biZE7LJsURF-33">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="55" y="320" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="85" y="320" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-ltHAzrY7biZE7LJsURF-38" value="执行结果" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;entryX=0.9;entryY=0.906;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="-ltHAzrY7biZE7LJsURF-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="770" y="430" as="sourcePoint" />
+            <mxPoint x="690" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-ltHAzrY7biZE7LJsURF-39" value="执行结果" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;" edge="1" parent="1" target="-ltHAzrY7biZE7LJsURF-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="280" y="440" as="sourcePoint" />
+            <mxPoint x="200" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-ltHAzrY7biZE7LJsURF-86" value="平台访问接口" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="1150" width="100" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="-ltHAzrY7biZE7LJsURF-87" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="-ltHAzrY7biZE7LJsURF-86">
+          <mxGeometry x="45" y="80" width="10" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="-ltHAzrY7biZE7LJsURF-88" value="查看数据源1数据结构信息" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;" edge="1" parent="-ltHAzrY7biZE7LJsURF-86" target="-ltHAzrY7biZE7LJsURF-94">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="50" y="80" as="sourcePoint" />
+            <mxPoint x="130" y="80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-ltHAzrY7biZE7LJsURF-89" value="数据库资源管理平台" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="1460" width="140" height="700" as="geometry" />
+        </mxCell>
+        <mxCell id="-ltHAzrY7biZE7LJsURF-90" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="-ltHAzrY7biZE7LJsURF-89">
+          <mxGeometry x="65" y="100" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-ltHAzrY7biZE7LJsURF-91" value="平台访问接口" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="-ltHAzrY7biZE7LJsURF-89">
+          <mxGeometry x="-310" width="100" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="-ltHAzrY7biZE7LJsURF-92" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="-ltHAzrY7biZE7LJsURF-91">
+          <mxGeometry x="45" y="80" width="10" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="-ltHAzrY7biZE7LJsURF-93" value="关系型数据库操作节点" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="1290" width="130" height="700" as="geometry" />
+        </mxCell>
+        <mxCell id="-ltHAzrY7biZE7LJsURF-94" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="-ltHAzrY7biZE7LJsURF-93">
+          <mxGeometry x="60" y="80" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-ltHAzrY7biZE7LJsURF-95" value="获取数据源1数据结构信息" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;" edge="1" parent="-ltHAzrY7biZE7LJsURF-93" target="-ltHAzrY7biZE7LJsURF-89">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="70" y="110" as="sourcePoint" />
+            <mxPoint x="150" y="110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-ltHAzrY7biZE7LJsURF-96" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="-ltHAzrY7biZE7LJsURF-93">
+          <mxGeometry x="60" y="300" width="10" height="308" as="geometry" />
+        </mxCell>
+        <mxCell id="-ltHAzrY7biZE7LJsURF-97" value="平台访问接口" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="-ltHAzrY7biZE7LJsURF-93">
+          <mxGeometry x="-140" width="100" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="-ltHAzrY7biZE7LJsURF-98" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="-ltHAzrY7biZE7LJsURF-97">
+          <mxGeometry x="45" y="80" width="10" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="-ltHAzrY7biZE7LJsURF-99" value="平台访问接口" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="-ltHAzrY7biZE7LJsURF-93">
+          <mxGeometry x="-140" width="100" height="700" as="geometry" />
+        </mxCell>
+        <mxCell id="-ltHAzrY7biZE7LJsURF-100" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="-ltHAzrY7biZE7LJsURF-99">
+          <mxGeometry x="45" y="80" width="10" height="540" as="geometry" />
+        </mxCell>
+        <mxCell id="-ltHAzrY7biZE7LJsURF-101" value="数据操作转发通道" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;" edge="1" parent="-ltHAzrY7biZE7LJsURF-99">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="210" y="518" as="sourcePoint" />
+            <mxPoint x="699.5" y="518" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-ltHAzrY7biZE7LJsURF-123" value="多表数据项" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;" edge="1" parent="-ltHAzrY7biZE7LJsURF-99" target="-ltHAzrY7biZE7LJsURF-96">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="50" y="310" as="sourcePoint" />
+            <mxPoint x="130" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-ltHAzrY7biZE7LJsURF-124" value="联合查询条件" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;entryX=0;entryY=0.097;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="-ltHAzrY7biZE7LJsURF-99" target="-ltHAzrY7biZE7LJsURF-96">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="50" y="330" as="sourcePoint" />
+            <mxPoint x="130" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-ltHAzrY7biZE7LJsURF-103" value="生成对应语句" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;" edge="1" parent="-ltHAzrY7biZE7LJsURF-93">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="65" y="408" as="sourcePoint" />
+            <mxPoint x="409.5" y="408" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-ltHAzrY7biZE7LJsURF-117" value="查看数据源2数据结构信息" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;" edge="1" parent="-ltHAzrY7biZE7LJsURF-93" target="-ltHAzrY7biZE7LJsURF-119">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="-90" y="190" as="sourcePoint" />
+            <mxPoint x="-1160" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-ltHAzrY7biZE7LJsURF-118" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="-ltHAzrY7biZE7LJsURF-93">
+          <mxGeometry x="235" y="210" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-ltHAzrY7biZE7LJsURF-119" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="-ltHAzrY7biZE7LJsURF-93">
+          <mxGeometry x="60" y="190" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-ltHAzrY7biZE7LJsURF-120" value="获取数据源2数据结构信息" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;" edge="1" parent="-ltHAzrY7biZE7LJsURF-93">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="70" y="220" as="sourcePoint" />
+            <mxPoint x="239.5" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-ltHAzrY7biZE7LJsURF-121" value="数据结构信息" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;" edge="1" parent="-ltHAzrY7biZE7LJsURF-93" target="-ltHAzrY7biZE7LJsURF-119">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240" y="250" as="sourcePoint" />
+            <mxPoint x="160" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-ltHAzrY7biZE7LJsURF-122" value="数据结构信息" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;" edge="1" parent="-ltHAzrY7biZE7LJsURF-93">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="60" y="270" as="sourcePoint" />
+            <mxPoint x="-85" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-ltHAzrY7biZE7LJsURF-125" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="-ltHAzrY7biZE7LJsURF-93">
+          <mxGeometry x="65" y="350" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-ltHAzrY7biZE7LJsURF-126" value="检查外键" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;" edge="1" target="-ltHAzrY7biZE7LJsURF-125" parent="-ltHAzrY7biZE7LJsURF-93">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="70" y="330" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="100" y="330" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-ltHAzrY7biZE7LJsURF-104" value="数据源1数据结构信息" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;" edge="1" parent="1" target="-ltHAzrY7biZE7LJsURF-94">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1530" y="140" as="sourcePoint" />
+            <mxPoint x="1450" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-ltHAzrY7biZE7LJsURF-105" value="数据结构信息" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;" edge="1" parent="1" target="-ltHAzrY7biZE7LJsURF-87">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1349.9999999999998" y="160" as="sourcePoint" />
+            <mxPoint x="1270" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-ltHAzrY7biZE7LJsURF-106" value="关系型数据库SQL语句生成器" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="1650" width="100" height="700" as="geometry" />
+        </mxCell>
+        <mxCell id="-ltHAzrY7biZE7LJsURF-107" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="-ltHAzrY7biZE7LJsURF-106">
+          <mxGeometry x="45" y="398" width="10" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="-ltHAzrY7biZE7LJsURF-108" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="-ltHAzrY7biZE7LJsURF-106">
+          <mxGeometry x="50" y="438" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-ltHAzrY7biZE7LJsURF-109" value="SQL语句生成" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;" edge="1" parent="-ltHAzrY7biZE7LJsURF-106" target="-ltHAzrY7biZE7LJsURF-108">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="55" y="418" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="85" y="418" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-ltHAzrY7biZE7LJsURF-110" value="SQL语句" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1700" y="488" as="sourcePoint" />
+            <mxPoint x="1354.3235294117653" y="488" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-ltHAzrY7biZE7LJsURF-111" value="分散数据库信息采集聚合模块" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="1800" width="100" height="700" as="geometry" />
+        </mxCell>
+        <mxCell id="-ltHAzrY7biZE7LJsURF-112" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="-ltHAzrY7biZE7LJsURF-111">
+          <mxGeometry x="45" y="508" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-ltHAzrY7biZE7LJsURF-113" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="-ltHAzrY7biZE7LJsURF-111">
+          <mxGeometry x="50" y="538" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-ltHAzrY7biZE7LJsURF-114" value="处理数据操作，转发执行" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;" edge="1" parent="-ltHAzrY7biZE7LJsURF-111" target="-ltHAzrY7biZE7LJsURF-113">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="55" y="518" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="85" y="518" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-ltHAzrY7biZE7LJsURF-116" value="执行结果" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1359.9999999999998" y="598" as="sourcePoint" />
+            <mxPoint x="1199.3235294117653" y="598" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-ltHAzrY7biZE7LJsURF-127" value="执行结果" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;entryX=1.238;entryY=0.909;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="-ltHAzrY7biZE7LJsURF-96">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1850" y="580" as="sourcePoint" />
+            <mxPoint x="1770" y="580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-ltHAzrY7biZE7LJsURF-135" value="关系型数据库操作节点" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="2350" width="130" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="-ltHAzrY7biZE7LJsURF-138" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="-ltHAzrY7biZE7LJsURF-135">
+          <mxGeometry x="60" y="70" width="10" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="-ltHAzrY7biZE7LJsURF-146" value="SQL语句参数信息" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;" edge="1" parent="-ltHAzrY7biZE7LJsURF-135" target="-ltHAzrY7biZE7LJsURF-158">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="65" y="81" as="sourcePoint" />
+            <mxPoint x="409.5" y="81" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-ltHAzrY7biZE7LJsURF-157" value="关系型数据库SQL语句生成器" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="2637" width="100" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="-ltHAzrY7biZE7LJsURF-158" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="-ltHAzrY7biZE7LJsURF-157">
+          <mxGeometry x="45" y="70" width="10" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="-ltHAzrY7biZE7LJsURF-159" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="-ltHAzrY7biZE7LJsURF-157">
+          <mxGeometry x="50" y="119" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-ltHAzrY7biZE7LJsURF-160" value="SQL语句生成算法" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;" edge="1" parent="-ltHAzrY7biZE7LJsURF-157" target="-ltHAzrY7biZE7LJsURF-159">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="55" y="99" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="85" y="99" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-ltHAzrY7biZE7LJsURF-161" value="SQL语句" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2690" y="187" as="sourcePoint" />
+            <mxPoint x="2414.3235294117653" y="187" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-ltHAzrY7biZE7LJsURF-168" value="平台访问接口" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="75" y="1030" width="100" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="-ltHAzrY7biZE7LJsURF-169" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="-ltHAzrY7biZE7LJsURF-168">
+          <mxGeometry x="45" y="80" width="10" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="-ltHAzrY7biZE7LJsURF-170" value="查看数据结构信息" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;" edge="1" parent="-ltHAzrY7biZE7LJsURF-168" target="-ltHAzrY7biZE7LJsURF-176">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="50" y="80" as="sourcePoint" />
+            <mxPoint x="130" y="80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-ltHAzrY7biZE7LJsURF-171" value="数据库资源管理平台" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="385" y="1030" width="140" height="500" as="geometry" />
+        </mxCell>
+        <mxCell id="-ltHAzrY7biZE7LJsURF-172" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="-ltHAzrY7biZE7LJsURF-171">
+          <mxGeometry x="65" y="100" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-ltHAzrY7biZE7LJsURF-173" value="平台访问接口" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="-ltHAzrY7biZE7LJsURF-171">
+          <mxGeometry x="-310" width="100" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="-ltHAzrY7biZE7LJsURF-174" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="-ltHAzrY7biZE7LJsURF-173">
+          <mxGeometry x="45" y="80" width="10" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="-ltHAzrY7biZE7LJsURF-175" value="Redis操作输入模块" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="215" y="1030" width="130" height="500" as="geometry" />
+        </mxCell>
+        <mxCell id="-ltHAzrY7biZE7LJsURF-176" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="-ltHAzrY7biZE7LJsURF-175">
+          <mxGeometry x="60" y="80" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-ltHAzrY7biZE7LJsURF-177" value="获取数据结构信息" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;" edge="1" parent="-ltHAzrY7biZE7LJsURF-175" target="-ltHAzrY7biZE7LJsURF-171">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="70" y="110" as="sourcePoint" />
+            <mxPoint x="150" y="110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-ltHAzrY7biZE7LJsURF-178" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="-ltHAzrY7biZE7LJsURF-175">
+          <mxGeometry x="60" y="200" width="10" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="-ltHAzrY7biZE7LJsURF-179" value="平台访问接口" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="-ltHAzrY7biZE7LJsURF-175">
+          <mxGeometry x="-140" width="100" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="-ltHAzrY7biZE7LJsURF-180" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="-ltHAzrY7biZE7LJsURF-179">
+          <mxGeometry x="45" y="80" width="10" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="-ltHAzrY7biZE7LJsURF-181" value="平台访问接口" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="-ltHAzrY7biZE7LJsURF-175">
+          <mxGeometry x="-140" width="100" height="500" as="geometry" />
+        </mxCell>
+        <mxCell id="-ltHAzrY7biZE7LJsURF-182" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="-ltHAzrY7biZE7LJsURF-181">
+          <mxGeometry x="45" y="80" width="10" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="-ltHAzrY7biZE7LJsURF-183" value="数据操作转发通道" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;" edge="1" parent="-ltHAzrY7biZE7LJsURF-181" target="-ltHAzrY7biZE7LJsURF-193">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="210" y="320" as="sourcePoint" />
+            <mxPoint x="130" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-ltHAzrY7biZE7LJsURF-184" value="Redis查询操作参数" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;" edge="1" parent="-ltHAzrY7biZE7LJsURF-181" target="-ltHAzrY7biZE7LJsURF-175">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="50" y="200" as="sourcePoint" />
+            <mxPoint x="130" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-ltHAzrY7biZE7LJsURF-185" value="生成对应语句" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;" edge="1" parent="-ltHAzrY7biZE7LJsURF-175" target="-ltHAzrY7biZE7LJsURF-188">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="65" y="210" as="sourcePoint" />
+            <mxPoint x="145" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-ltHAzrY7biZE7LJsURF-186" value="数据结构信息" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;" edge="1" parent="1" target="-ltHAzrY7biZE7LJsURF-176">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="455" y="1170" as="sourcePoint" />
+            <mxPoint x="375" y="1170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-ltHAzrY7biZE7LJsURF-187" value="数据结构信息" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;" edge="1" parent="1" target="-ltHAzrY7biZE7LJsURF-169">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="275" y="1190" as="sourcePoint" />
+            <mxPoint x="195" y="1190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-ltHAzrY7biZE7LJsURF-188" value="Redis语句生成模块" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="575" y="1030" width="100" height="500" as="geometry" />
+        </mxCell>
+        <mxCell id="-ltHAzrY7biZE7LJsURF-189" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="-ltHAzrY7biZE7LJsURF-188">
+          <mxGeometry x="45" y="200" width="10" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="-ltHAzrY7biZE7LJsURF-190" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="-ltHAzrY7biZE7LJsURF-188">
+          <mxGeometry x="50" y="240" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-ltHAzrY7biZE7LJsURF-191" value="Redis语句生成" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;" edge="1" parent="-ltHAzrY7biZE7LJsURF-188" target="-ltHAzrY7biZE7LJsURF-190">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="55" y="220" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="85" y="220" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-ltHAzrY7biZE7LJsURF-192" value="Redis语句" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;" edge="1" parent="1" target="-ltHAzrY7biZE7LJsURF-175">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="625" y="1320" as="sourcePoint" />
+            <mxPoint x="545" y="1320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-ltHAzrY7biZE7LJsURF-193" value="分散数据库信息采集聚合模块" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="725" y="1030" width="100" height="500" as="geometry" />
+        </mxCell>
+        <mxCell id="-ltHAzrY7biZE7LJsURF-194" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="-ltHAzrY7biZE7LJsURF-193">
+          <mxGeometry x="45" y="310" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-ltHAzrY7biZE7LJsURF-195" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="-ltHAzrY7biZE7LJsURF-193">
+          <mxGeometry x="50" y="340" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-ltHAzrY7biZE7LJsURF-196" value="处理数据操作，转发执行" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;" edge="1" parent="-ltHAzrY7biZE7LJsURF-193" target="-ltHAzrY7biZE7LJsURF-195">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="55" y="320" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="85" y="320" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-ltHAzrY7biZE7LJsURF-197" value="执行结果" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;entryX=0.9;entryY=0.906;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="-ltHAzrY7biZE7LJsURF-178">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="775" y="1420" as="sourcePoint" />
+            <mxPoint x="695" y="1420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-ltHAzrY7biZE7LJsURF-198" value="执行结果" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;" edge="1" parent="1" target="-ltHAzrY7biZE7LJsURF-181">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="285" y="1430" as="sourcePoint" />
+            <mxPoint x="205" y="1430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-ltHAzrY7biZE7LJsURF-199" value="平台访问接口" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="1475" y="1190" width="100" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="-ltHAzrY7biZE7LJsURF-200" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="-ltHAzrY7biZE7LJsURF-199">
+          <mxGeometry x="45" y="80" width="10" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="-ltHAzrY7biZE7LJsURF-201" value="查看数据结构信息" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;" edge="1" parent="-ltHAzrY7biZE7LJsURF-199" target="-ltHAzrY7biZE7LJsURF-207">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="50" y="80" as="sourcePoint" />
+            <mxPoint x="130" y="80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-ltHAzrY7biZE7LJsURF-202" value="数据库资源管理平台" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="1785" y="1190" width="140" height="500" as="geometry" />
+        </mxCell>
+        <mxCell id="-ltHAzrY7biZE7LJsURF-203" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="-ltHAzrY7biZE7LJsURF-202">
+          <mxGeometry x="65" y="100" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-ltHAzrY7biZE7LJsURF-204" value="平台访问接口" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="-ltHAzrY7biZE7LJsURF-202">
+          <mxGeometry x="-310" width="100" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="-ltHAzrY7biZE7LJsURF-205" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="-ltHAzrY7biZE7LJsURF-204">
+          <mxGeometry x="45" y="80" width="10" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="-ltHAzrY7biZE7LJsURF-206" value="MongoDB操作输入模块" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="1615" y="1190" width="130" height="500" as="geometry" />
+        </mxCell>
+        <mxCell id="-ltHAzrY7biZE7LJsURF-207" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="-ltHAzrY7biZE7LJsURF-206">
+          <mxGeometry x="60" y="80" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-ltHAzrY7biZE7LJsURF-208" value="获取数据结构信息" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;" edge="1" parent="-ltHAzrY7biZE7LJsURF-206" target="-ltHAzrY7biZE7LJsURF-202">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="70" y="110" as="sourcePoint" />
+            <mxPoint x="150" y="110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-ltHAzrY7biZE7LJsURF-209" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="-ltHAzrY7biZE7LJsURF-206">
+          <mxGeometry x="60" y="200" width="10" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="-ltHAzrY7biZE7LJsURF-210" value="平台访问接口" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="-ltHAzrY7biZE7LJsURF-206">
+          <mxGeometry x="-140" width="100" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="-ltHAzrY7biZE7LJsURF-211" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="-ltHAzrY7biZE7LJsURF-210">
+          <mxGeometry x="45" y="80" width="10" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="-ltHAzrY7biZE7LJsURF-212" value="平台访问接口" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="-ltHAzrY7biZE7LJsURF-206">
+          <mxGeometry x="-140" width="100" height="500" as="geometry" />
+        </mxCell>
+        <mxCell id="-ltHAzrY7biZE7LJsURF-213" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="-ltHAzrY7biZE7LJsURF-212">
+          <mxGeometry x="45" y="80" width="10" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="-ltHAzrY7biZE7LJsURF-214" value="数据操作转发通道" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;" edge="1" parent="-ltHAzrY7biZE7LJsURF-212" target="-ltHAzrY7biZE7LJsURF-224">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="210" y="320" as="sourcePoint" />
+            <mxPoint x="130" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-ltHAzrY7biZE7LJsURF-215" value="&lt;span style=&quot;font-size: 12px; background-color: rgb(248, 249, 250);&quot;&gt;MongoDB&lt;/span&gt;查询操作参数" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;" edge="1" parent="-ltHAzrY7biZE7LJsURF-212" target="-ltHAzrY7biZE7LJsURF-206">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="50" y="200" as="sourcePoint" />
+            <mxPoint x="130" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-ltHAzrY7biZE7LJsURF-216" value="生成对应语句" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;" edge="1" parent="-ltHAzrY7biZE7LJsURF-206" target="-ltHAzrY7biZE7LJsURF-219">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="65" y="210" as="sourcePoint" />
+            <mxPoint x="145" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-ltHAzrY7biZE7LJsURF-217" value="数据结构信息" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;" edge="1" parent="1" target="-ltHAzrY7biZE7LJsURF-207">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1855" y="1330" as="sourcePoint" />
+            <mxPoint x="1775" y="1330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-ltHAzrY7biZE7LJsURF-218" value="数据结构信息" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;" edge="1" parent="1" target="-ltHAzrY7biZE7LJsURF-200">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1675" y="1350" as="sourcePoint" />
+            <mxPoint x="1595" y="1350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-ltHAzrY7biZE7LJsURF-219" value="MongoDB语句生成模块" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="1975" y="1190" width="100" height="500" as="geometry" />
+        </mxCell>
+        <mxCell id="-ltHAzrY7biZE7LJsURF-220" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="-ltHAzrY7biZE7LJsURF-219">
+          <mxGeometry x="45" y="200" width="10" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="-ltHAzrY7biZE7LJsURF-221" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="-ltHAzrY7biZE7LJsURF-219">
+          <mxGeometry x="50" y="240" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-ltHAzrY7biZE7LJsURF-222" value="&lt;span style=&quot;font-size: 12px; text-align: center; background-color: rgb(248, 249, 250);&quot;&gt;MongoDB&lt;/span&gt;语句生成" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;" edge="1" parent="-ltHAzrY7biZE7LJsURF-219" target="-ltHAzrY7biZE7LJsURF-221">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="55" y="220" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="85" y="220" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-ltHAzrY7biZE7LJsURF-223" value="&lt;span style=&quot;font-size: 12px; background-color: rgb(248, 249, 250);&quot;&gt;MongoDB&lt;/span&gt;语句" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;" edge="1" parent="1" target="-ltHAzrY7biZE7LJsURF-206">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2025" y="1480" as="sourcePoint" />
+            <mxPoint x="1945" y="1480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-ltHAzrY7biZE7LJsURF-224" value="分散数据库信息采集聚合模块" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="2125" y="1190" width="100" height="500" as="geometry" />
+        </mxCell>
+        <mxCell id="-ltHAzrY7biZE7LJsURF-225" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="-ltHAzrY7biZE7LJsURF-224">
+          <mxGeometry x="45" y="310" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-ltHAzrY7biZE7LJsURF-226" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="-ltHAzrY7biZE7LJsURF-224">
+          <mxGeometry x="50" y="340" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-ltHAzrY7biZE7LJsURF-227" value="处理数据操作，转发执行" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;" edge="1" parent="-ltHAzrY7biZE7LJsURF-224" target="-ltHAzrY7biZE7LJsURF-226">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="55" y="320" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="85" y="320" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-ltHAzrY7biZE7LJsURF-228" value="执行结果" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;entryX=0.9;entryY=0.906;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="-ltHAzrY7biZE7LJsURF-209">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2175" y="1580" as="sourcePoint" />
+            <mxPoint x="2095" y="1580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-ltHAzrY7biZE7LJsURF-229" value="执行结果" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;" edge="1" parent="1" target="-ltHAzrY7biZE7LJsURF-212">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1685" y="1590" as="sourcePoint" />
+            <mxPoint x="1605" y="1590" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-ltHAzrY7biZE7LJsURF-230" value="平台访问接口" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="2490" y="1190" width="100" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="-ltHAzrY7biZE7LJsURF-231" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="-ltHAzrY7biZE7LJsURF-230">
+          <mxGeometry x="45" y="80" width="10" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="-ltHAzrY7biZE7LJsURF-232" value="查看数据结构信息" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;" edge="1" parent="-ltHAzrY7biZE7LJsURF-230" target="-ltHAzrY7biZE7LJsURF-238">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="50" y="80" as="sourcePoint" />
+            <mxPoint x="130" y="80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-ltHAzrY7biZE7LJsURF-233" value="数据库资源管理平台" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="2800" y="1190" width="140" height="500" as="geometry" />
+        </mxCell>
+        <mxCell id="-ltHAzrY7biZE7LJsURF-234" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="-ltHAzrY7biZE7LJsURF-233">
+          <mxGeometry x="65" y="100" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-ltHAzrY7biZE7LJsURF-235" value="平台访问接口" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="-ltHAzrY7biZE7LJsURF-233">
+          <mxGeometry x="-310" width="100" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="-ltHAzrY7biZE7LJsURF-236" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="-ltHAzrY7biZE7LJsURF-235">
+          <mxGeometry x="45" y="80" width="10" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="-ltHAzrY7biZE7LJsURF-237" value="ES操作输入模块" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="2630" y="1190" width="130" height="500" as="geometry" />
+        </mxCell>
+        <mxCell id="-ltHAzrY7biZE7LJsURF-238" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="-ltHAzrY7biZE7LJsURF-237">
+          <mxGeometry x="60" y="80" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-ltHAzrY7biZE7LJsURF-239" value="获取数据结构信息" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;" edge="1" parent="-ltHAzrY7biZE7LJsURF-237" target="-ltHAzrY7biZE7LJsURF-233">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="70" y="110" as="sourcePoint" />
+            <mxPoint x="150" y="110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-ltHAzrY7biZE7LJsURF-240" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="-ltHAzrY7biZE7LJsURF-237">
+          <mxGeometry x="60" y="200" width="10" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="-ltHAzrY7biZE7LJsURF-241" value="平台访问接口" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="-ltHAzrY7biZE7LJsURF-237">
+          <mxGeometry x="-140" width="100" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="-ltHAzrY7biZE7LJsURF-242" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="-ltHAzrY7biZE7LJsURF-241">
+          <mxGeometry x="45" y="80" width="10" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="-ltHAzrY7biZE7LJsURF-243" value="平台访问接口" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="-ltHAzrY7biZE7LJsURF-237">
+          <mxGeometry x="-140" width="100" height="500" as="geometry" />
+        </mxCell>
+        <mxCell id="-ltHAzrY7biZE7LJsURF-244" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="-ltHAzrY7biZE7LJsURF-243">
+          <mxGeometry x="45" y="80" width="10" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="-ltHAzrY7biZE7LJsURF-245" value="数据操作转发通道" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;" edge="1" parent="-ltHAzrY7biZE7LJsURF-243" target="-ltHAzrY7biZE7LJsURF-255">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="210" y="320" as="sourcePoint" />
+            <mxPoint x="130" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-ltHAzrY7biZE7LJsURF-246" value="&lt;span style=&quot;font-size: 12px; background-color: rgb(248, 249, 250);&quot;&gt;ES&lt;/span&gt;查询操作参数" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;" edge="1" parent="-ltHAzrY7biZE7LJsURF-243" target="-ltHAzrY7biZE7LJsURF-237">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="50" y="200" as="sourcePoint" />
+            <mxPoint x="130" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-ltHAzrY7biZE7LJsURF-247" value="生成对应语句" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;" edge="1" parent="-ltHAzrY7biZE7LJsURF-237" target="-ltHAzrY7biZE7LJsURF-250">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="65" y="210" as="sourcePoint" />
+            <mxPoint x="145" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-ltHAzrY7biZE7LJsURF-248" value="数据结构信息" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;" edge="1" parent="1" target="-ltHAzrY7biZE7LJsURF-238">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2870" y="1329.9999999999998" as="sourcePoint" />
+            <mxPoint x="2790" y="1330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-ltHAzrY7biZE7LJsURF-249" value="数据结构信息" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;" edge="1" parent="1" target="-ltHAzrY7biZE7LJsURF-231">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2690" y="1350" as="sourcePoint" />
+            <mxPoint x="2610" y="1350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-ltHAzrY7biZE7LJsURF-250" value="ES语句生成模块" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="2990" y="1190" width="100" height="500" as="geometry" />
+        </mxCell>
+        <mxCell id="-ltHAzrY7biZE7LJsURF-251" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="-ltHAzrY7biZE7LJsURF-250">
+          <mxGeometry x="45" y="200" width="10" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="-ltHAzrY7biZE7LJsURF-252" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="-ltHAzrY7biZE7LJsURF-250">
+          <mxGeometry x="50" y="240" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-ltHAzrY7biZE7LJsURF-253" value="&lt;span style=&quot;font-size: 12px; text-align: center; background-color: rgb(248, 249, 250);&quot;&gt;ES&lt;/span&gt;语句生成" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;" edge="1" parent="-ltHAzrY7biZE7LJsURF-250" target="-ltHAzrY7biZE7LJsURF-252">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="55" y="220" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="85" y="220" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-ltHAzrY7biZE7LJsURF-254" value="&lt;span style=&quot;font-size: 12px; background-color: rgb(248, 249, 250);&quot;&gt;ES&lt;/span&gt;语句" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;" edge="1" parent="1" target="-ltHAzrY7biZE7LJsURF-237">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="3040" y="1480" as="sourcePoint" />
+            <mxPoint x="2960" y="1480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-ltHAzrY7biZE7LJsURF-255" value="分散数据库信息采集聚合模块" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="3140" y="1190" width="100" height="500" as="geometry" />
+        </mxCell>
+        <mxCell id="-ltHAzrY7biZE7LJsURF-256" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="-ltHAzrY7biZE7LJsURF-255">
+          <mxGeometry x="45" y="310" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-ltHAzrY7biZE7LJsURF-257" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="-ltHAzrY7biZE7LJsURF-255">
+          <mxGeometry x="50" y="340" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-ltHAzrY7biZE7LJsURF-258" value="处理数据操作，转发执行" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;" edge="1" parent="-ltHAzrY7biZE7LJsURF-255" target="-ltHAzrY7biZE7LJsURF-257">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="55" y="320" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="85" y="320" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-ltHAzrY7biZE7LJsURF-259" value="执行结果" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;entryX=0.9;entryY=0.906;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="-ltHAzrY7biZE7LJsURF-240">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="3190" y="1580" as="sourcePoint" />
+            <mxPoint x="3110" y="1580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-ltHAzrY7biZE7LJsURF-260" value="执行结果" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;" edge="1" parent="1" target="-ltHAzrY7biZE7LJsURF-243">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2700" y="1590" as="sourcePoint" />
+            <mxPoint x="2620" y="1590" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-ltHAzrY7biZE7LJsURF-261" value="平台访问接口" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="1540" y="1950" width="100" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="-ltHAzrY7biZE7LJsURF-262" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="-ltHAzrY7biZE7LJsURF-261">
+          <mxGeometry x="45" y="80" width="10" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="-ltHAzrY7biZE7LJsURF-294" value="自定义操作及数据源" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;" edge="1" parent="-ltHAzrY7biZE7LJsURF-261" target="-ltHAzrY7biZE7LJsURF-293">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="50" y="90" as="sourcePoint" />
+            <mxPoint x="130" y="90" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-ltHAzrY7biZE7LJsURF-286" value="分散数据库信息采集聚合模块" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="1875" y="1950" width="100" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="-ltHAzrY7biZE7LJsURF-287" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="-ltHAzrY7biZE7LJsURF-286">
+          <mxGeometry x="45" y="100" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-ltHAzrY7biZE7LJsURF-288" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="-ltHAzrY7biZE7LJsURF-286">
+          <mxGeometry x="50" y="130" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-ltHAzrY7biZE7LJsURF-289" value="处理数据操作，转发执行" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;" edge="1" parent="-ltHAzrY7biZE7LJsURF-286" target="-ltHAzrY7biZE7LJsURF-288">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="55" y="110" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="85" y="110" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-ltHAzrY7biZE7LJsURF-293" value="自定义操作节点" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="1700" y="1950" width="100" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="-ltHAzrY7biZE7LJsURF-292" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="-ltHAzrY7biZE7LJsURF-293">
+          <mxGeometry x="45" y="80" width="10" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="-ltHAzrY7biZE7LJsURF-295" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 11px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;数据操作转发通道&lt;/span&gt;" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;" edge="1" parent="-ltHAzrY7biZE7LJsURF-293" target="-ltHAzrY7biZE7LJsURF-286">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="50" y="110" as="sourcePoint" />
+            <mxPoint x="130" y="110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-ltHAzrY7biZE7LJsURF-296" value="执行结果" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;" edge="1" parent="1" target="-ltHAzrY7biZE7LJsURF-293">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1920" y="2130" as="sourcePoint" />
+            <mxPoint x="1840" y="2130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-ltHAzrY7biZE7LJsURF-297" value="执行结果" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;" edge="1" parent="1" target="-ltHAzrY7biZE7LJsURF-261">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1750" y="2150" as="sourcePoint" />
+            <mxPoint x="1670" y="2150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
