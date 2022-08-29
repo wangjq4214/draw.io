@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-29T02:05:42.039Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36 Edg/104.0.1293.63" etag="H61sTTEAw2hRpzgDYR9n" version="20.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-29T03:29:06.788Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36 Edg/104.0.1293.63" etag="CsODurHA0ovT6Tar0X5l" version="20.2.3" type="github">
   <diagram id="aLi_H7b1c3IQtcRWhGsW" name="第 1 页">
     <mxGraphModel dx="1422" dy="778" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -100,7 +100,7 @@
         <mxCell id="GM2iOBIFhQRMOqA6Zlj7-31" value="结构化数据库适配器" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;fontSize=18;fillColor=#F2F2F2;" vertex="1" parent="GM2iOBIFhQRMOqA6Zlj7-34">
           <mxGeometry width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="GM2iOBIFhQRMOqA6Zlj7-36" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;云平台基础服务系统&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;glass=0;shadow=0;sketch=0;verticalAlign=top;fontStyle=1;spacing=8;fillColor=#DAE3F3;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="GM2iOBIFhQRMOqA6Zlj7-36" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;全局虚拟数据空间平台&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;glass=0;shadow=0;sketch=0;verticalAlign=top;fontStyle=1;spacing=8;fillColor=#DAE3F3;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="690" y="630" width="190" height="380" as="geometry" />
         </mxCell>
         <mxCell id="GM2iOBIFhQRMOqA6Zlj7-37" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;需求与问题&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;glass=0;shadow=0;sketch=0;verticalAlign=top;fontStyle=1;spacing=8;fillColor=#DAE3F3;strokeColor=#6c8ebf;" vertex="1" parent="1">
@@ -127,41 +127,104 @@
         <mxCell id="GM2iOBIFhQRMOqA6Zlj7-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=18;strokeWidth=2;" edge="1" parent="1" source="GM2iOBIFhQRMOqA6Zlj7-45" target="GM2iOBIFhQRMOqA6Zlj7-51">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GM2iOBIFhQRMOqA6Zlj7-45" value="封装基础存储服务和基础计算模块" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;sketch=0;fontSize=18;strokeColor=none;fillColor=#F2F2F2;spacing=5;" vertex="1" parent="1">
+        <mxCell id="GM2iOBIFhQRMOqA6Zlj7-45" value="如何实现不同类型的数据库统一集中管理" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;sketch=0;fontSize=18;strokeColor=none;fillColor=#F2F2F2;spacing=5;" vertex="1" parent="1">
           <mxGeometry x="980" y="690" width="130" height="80" as="geometry" />
         </mxCell>
         <mxCell id="GM2iOBIFhQRMOqA6Zlj7-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;strokeWidth=2;" edge="1" parent="1" source="GM2iOBIFhQRMOqA6Zlj7-47" target="GM2iOBIFhQRMOqA6Zlj7-53">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GM2iOBIFhQRMOqA6Zlj7-47" value="实现多种存储能力和资源分配能力" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;sketch=0;fontSize=18;strokeColor=none;fillColor=#F2F2F2;spacing=5;" vertex="1" parent="1">
+        <mxCell id="GM2iOBIFhQRMOqA6Zlj7-47" value="如何实现不同类型数据库统一访问" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;sketch=0;fontSize=18;strokeColor=none;fillColor=#F2F2F2;spacing=5;" vertex="1" parent="1">
           <mxGeometry x="980" y="790" width="130" height="80" as="geometry" />
         </mxCell>
         <mxCell id="GM2iOBIFhQRMOqA6Zlj7-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;strokeWidth=2;" edge="1" parent="1" source="GM2iOBIFhQRMOqA6Zlj7-49" target="GM2iOBIFhQRMOqA6Zlj7-55">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GM2iOBIFhQRMOqA6Zlj7-49" value="开发完善原型系统，并进行部署测试" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;sketch=0;fontSize=18;strokeColor=none;fillColor=#F2F2F2;spacing=5;" vertex="1" parent="1">
+        <mxCell id="GM2iOBIFhQRMOqA6Zlj7-49" value="如何实现对不同数据源的统一包装" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;sketch=0;fontSize=18;strokeColor=none;fillColor=#F2F2F2;spacing=5;" vertex="1" parent="1">
           <mxGeometry x="980" y="890" width="130" height="80" as="geometry" />
         </mxCell>
         <mxCell id="GM2iOBIFhQRMOqA6Zlj7-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;strokeWidth=2;" edge="1" parent="1" source="GM2iOBIFhQRMOqA6Zlj7-51" target="GM2iOBIFhQRMOqA6Zlj7-56">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GM2iOBIFhQRMOqA6Zlj7-51" value="研究分布式文件系统等统一服务技术" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;sketch=0;fontSize=18;strokeColor=none;fillColor=#F2F2F2;spacing=5;" vertex="1" parent="1">
+        <mxCell id="GM2iOBIFhQRMOqA6Zlj7-51" value="研究异构数据库的统一集中管理技术" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;sketch=0;fontSize=18;strokeColor=none;fillColor=#F2F2F2;spacing=5;" vertex="1" parent="1">
           <mxGeometry x="1233" y="690" width="130" height="80" as="geometry" />
         </mxCell>
         <mxCell id="GM2iOBIFhQRMOqA6Zlj7-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;strokeWidth=2;" edge="1" parent="1" source="GM2iOBIFhQRMOqA6Zlj7-53" target="GM2iOBIFhQRMOqA6Zlj7-56">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GM2iOBIFhQRMOqA6Zlj7-53" value="研究存储资源流程化、标准化分配能力" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;sketch=0;fontSize=18;strokeColor=none;fillColor=#F2F2F2;spacing=5;" vertex="1" parent="1">
+        <mxCell id="GM2iOBIFhQRMOqA6Zlj7-53" value="研究异构数据库的统一访问关键技术" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;sketch=0;fontSize=18;strokeColor=none;fillColor=#F2F2F2;spacing=5;" vertex="1" parent="1">
           <mxGeometry x="1233" y="790" width="130" height="80" as="geometry" />
         </mxCell>
         <mxCell id="GM2iOBIFhQRMOqA6Zlj7-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;strokeWidth=2;" edge="1" parent="1" source="GM2iOBIFhQRMOqA6Zlj7-55" target="GM2iOBIFhQRMOqA6Zlj7-56">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GM2iOBIFhQRMOqA6Zlj7-55" value="实现原型系统，并进行部署测试" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;sketch=0;fontSize=18;strokeColor=none;fillColor=#F2F2F2;spacing=5;" vertex="1" parent="1">
+        <mxCell id="GM2iOBIFhQRMOqA6Zlj7-55" value="探索对指定数据源进行包装生成服务技术" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;sketch=0;fontSize=18;strokeColor=none;fillColor=#F2F2F2;spacing=5;" vertex="1" parent="1">
           <mxGeometry x="1233" y="890" width="130" height="80" as="geometry" />
         </mxCell>
         <mxCell id="GM2iOBIFhQRMOqA6Zlj7-56" value="支撑组织内部各软件项目对于全局数据空间的共性需求，形成全局数据视图，支撑全局数据管理，提供分散数据资源集中管理、数据受控访问与共享能力" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;sketch=0;fontSize=18;strokeColor=none;fillColor=#F2F2F2;spacing=5;" vertex="1" parent="1">
           <mxGeometry x="1490" y="690" width="130" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="GM2iOBIFhQRMOqA6Zlj7-57" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;软件服务化集成平台&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;glass=0;shadow=0;sketch=0;verticalAlign=top;fontStyle=1;spacing=8;fillColor=#DAE3F3;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1180" y="200" width="190" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="GM2iOBIFhQRMOqA6Zlj7-58" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;需求与问题&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;glass=0;shadow=0;sketch=0;verticalAlign=top;fontStyle=1;spacing=8;fillColor=#DAE3F3;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1437" y="200" width="190" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="GM2iOBIFhQRMOqA6Zlj7-59" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;研究内容&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;glass=0;shadow=0;sketch=0;verticalAlign=top;fontStyle=1;spacing=8;fillColor=#DAE3F3;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1693" y="200" width="190" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="GM2iOBIFhQRMOqA6Zlj7-60" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;研究目标&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;glass=0;shadow=0;sketch=0;verticalAlign=top;fontStyle=1;spacing=8;fillColor=#DAE3F3;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1950" y="200" width="190" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="GM2iOBIFhQRMOqA6Zlj7-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=18;strokeWidth=2;" edge="1" parent="1" source="GM2iOBIFhQRMOqA6Zlj7-64" target="GM2iOBIFhQRMOqA6Zlj7-66">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GM2iOBIFhQRMOqA6Zlj7-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=18;strokeWidth=2;" edge="1" parent="1" source="GM2iOBIFhQRMOqA6Zlj7-64" target="GM2iOBIFhQRMOqA6Zlj7-68">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GM2iOBIFhQRMOqA6Zlj7-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;strokeWidth=2;" edge="1" parent="1" source="GM2iOBIFhQRMOqA6Zlj7-64" target="GM2iOBIFhQRMOqA6Zlj7-70">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GM2iOBIFhQRMOqA6Zlj7-64" value="&lt;div&gt;当前环境中，服务部署困难，没有统一的、流程化的部署机制，另外异构协议和异构语言之间的调用复杂且不可靠，需要突破快速部署、异构调用等关键技术&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;sketch=0;fontSize=18;strokeColor=none;fillColor=#F2F2F2;spacing=5;" vertex="1" parent="1">
+          <mxGeometry x="1210" y="260" width="130" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="GM2iOBIFhQRMOqA6Zlj7-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=18;strokeWidth=2;" edge="1" parent="1" source="GM2iOBIFhQRMOqA6Zlj7-66" target="GM2iOBIFhQRMOqA6Zlj7-72">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GM2iOBIFhQRMOqA6Zlj7-66" value="如何实现服务的快速、统一部署、调用" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;sketch=0;fontSize=18;strokeColor=none;fillColor=#F2F2F2;spacing=5;" vertex="1" parent="1">
+          <mxGeometry x="1470" y="260" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="GM2iOBIFhQRMOqA6Zlj7-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;strokeWidth=2;" edge="1" parent="1" source="GM2iOBIFhQRMOqA6Zlj7-68" target="GM2iOBIFhQRMOqA6Zlj7-74">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GM2iOBIFhQRMOqA6Zlj7-68" value="如何实现异构语言、异构协议调用" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;sketch=0;fontSize=18;strokeColor=none;fillColor=#F2F2F2;spacing=5;" vertex="1" parent="1">
+          <mxGeometry x="1470" y="360" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="GM2iOBIFhQRMOqA6Zlj7-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;strokeWidth=2;" edge="1" parent="1" source="GM2iOBIFhQRMOqA6Zlj7-70" target="GM2iOBIFhQRMOqA6Zlj7-76">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GM2iOBIFhQRMOqA6Zlj7-70" value="如何实现服务快速开发" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;sketch=0;fontSize=18;strokeColor=none;fillColor=#F2F2F2;spacing=5;" vertex="1" parent="1">
+          <mxGeometry x="1470" y="460" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="GM2iOBIFhQRMOqA6Zlj7-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;strokeWidth=2;" edge="1" parent="1" source="GM2iOBIFhQRMOqA6Zlj7-72" target="GM2iOBIFhQRMOqA6Zlj7-77">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GM2iOBIFhQRMOqA6Zlj7-72" value="研究服务部署标准化流程和权限管理方式" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;sketch=0;fontSize=18;strokeColor=none;fillColor=#F2F2F2;spacing=5;" vertex="1" parent="1">
+          <mxGeometry x="1723" y="260" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="GM2iOBIFhQRMOqA6Zlj7-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;strokeWidth=2;" edge="1" parent="1" source="GM2iOBIFhQRMOqA6Zlj7-74" target="GM2iOBIFhQRMOqA6Zlj7-77">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GM2iOBIFhQRMOqA6Zlj7-74" value="研究异构协议、异构语言之间调用方式" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;sketch=0;fontSize=18;strokeColor=none;fillColor=#F2F2F2;spacing=5;" vertex="1" parent="1">
+          <mxGeometry x="1723" y="360" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="GM2iOBIFhQRMOqA6Zlj7-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;strokeWidth=2;" edge="1" parent="1" source="GM2iOBIFhQRMOqA6Zlj7-76" target="GM2iOBIFhQRMOqA6Zlj7-77">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GM2iOBIFhQRMOqA6Zlj7-76" value="研究后端低代码技术，助力服务快速开发" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;sketch=0;fontSize=18;strokeColor=none;fillColor=#F2F2F2;spacing=5;" vertex="1" parent="1">
+          <mxGeometry x="1723" y="460" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="GM2iOBIFhQRMOqA6Zlj7-77" value="突破服务平台搭建、服务快速部署集成、兼容语言异构和协议异构、模板代码生成等关键技术，极大地改善不同开发语言标准实现不统一、服务接口不一致问题" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;sketch=0;fontSize=18;strokeColor=none;fillColor=#F2F2F2;spacing=5;" vertex="1" parent="1">
+          <mxGeometry x="1980" y="260" width="130" height="280" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
