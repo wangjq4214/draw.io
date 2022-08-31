@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-31T12:45:19.463Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36 Edg/104.0.1293.63" etag="PVPsqW8joxR5HQjKhUfC" version="20.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-31T12:47:57.312Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36 Edg/104.0.1293.63" etag="Jg6YMAGw6s0EVewE6bzp" version="20.2.7" type="github">
   <diagram id="aLi_H7b1c3IQtcRWhGsW" name="第 1 页">
     <mxGraphModel dx="2031" dy="2280" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -31,19 +31,19 @@
         <mxCell id="GM2iOBIFhQRMOqA6Zlj7-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=18;strokeWidth=2;" parent="1" source="GM2iOBIFhQRMOqA6Zlj7-7" target="GM2iOBIFhQRMOqA6Zlj7-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GM2iOBIFhQRMOqA6Zlj7-7" value="封装基础存储服务和基础计算模块" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;sketch=0;fontSize=18;strokeColor=none;fillColor=#F2F2F2;spacing=5;" parent="1" vertex="1">
+        <mxCell id="GM2iOBIFhQRMOqA6Zlj7-7" value="封装基础存储服务和基础计算模块" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;sketch=0;fontSize=18;strokeColor=none;fillColor=#F2F2F2;spacing=16;spacingLeft=0;spacingRight=0;" parent="1" vertex="1">
           <mxGeometry x="420" y="260" width="150" height="80" as="geometry" />
         </mxCell>
         <mxCell id="GM2iOBIFhQRMOqA6Zlj7-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;strokeWidth=2;" parent="1" source="GM2iOBIFhQRMOqA6Zlj7-8" target="GM2iOBIFhQRMOqA6Zlj7-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GM2iOBIFhQRMOqA6Zlj7-8" value="实现多种存储能力和资源分配能力" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;sketch=0;fontSize=18;strokeColor=none;fillColor=#F2F2F2;spacing=5;" parent="1" vertex="1">
+        <mxCell id="GM2iOBIFhQRMOqA6Zlj7-8" value="实现多种存储能力和资源分配能力" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;sketch=0;fontSize=18;strokeColor=none;fillColor=#F2F2F2;spacing=14;" parent="1" vertex="1">
           <mxGeometry x="420" y="360" width="150" height="80" as="geometry" />
         </mxCell>
         <mxCell id="GM2iOBIFhQRMOqA6Zlj7-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;strokeWidth=2;" parent="1" source="GM2iOBIFhQRMOqA6Zlj7-9" target="GM2iOBIFhQRMOqA6Zlj7-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GM2iOBIFhQRMOqA6Zlj7-9" value="开发完善原型系统，并进行部署测试" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;sketch=0;fontSize=18;strokeColor=none;fillColor=#F2F2F2;spacing=5;" parent="1" vertex="1">
+        <mxCell id="GM2iOBIFhQRMOqA6Zlj7-9" value="开发完善原型系统，并进行部署测试" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;sketch=0;fontSize=18;strokeColor=none;fillColor=#F2F2F2;spacing=14;" parent="1" vertex="1">
           <mxGeometry x="420" y="460" width="150" height="80" as="geometry" />
         </mxCell>
         <mxCell id="GM2iOBIFhQRMOqA6Zlj7-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;strokeWidth=2;" parent="1" source="GM2iOBIFhQRMOqA6Zlj7-11" target="GM2iOBIFhQRMOqA6Zlj7-14" edge="1">
@@ -133,13 +133,13 @@
         <mxCell id="GM2iOBIFhQRMOqA6Zlj7-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;strokeWidth=2;" parent="1" source="GM2iOBIFhQRMOqA6Zlj7-47" target="GM2iOBIFhQRMOqA6Zlj7-53" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GM2iOBIFhQRMOqA6Zlj7-47" value="如何实现不同类型数据库统一访问" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;sketch=0;fontSize=18;strokeColor=none;fillColor=#F2F2F2;spacing=5;" parent="1" vertex="1">
+        <mxCell id="GM2iOBIFhQRMOqA6Zlj7-47" value="如何实现不同类型数据库统一访问" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;sketch=0;fontSize=18;strokeColor=none;fillColor=#F2F2F2;spacing=14;" parent="1" vertex="1">
           <mxGeometry x="1470" y="830" width="150" height="80" as="geometry" />
         </mxCell>
         <mxCell id="GM2iOBIFhQRMOqA6Zlj7-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;strokeWidth=2;" parent="1" source="GM2iOBIFhQRMOqA6Zlj7-49" target="GM2iOBIFhQRMOqA6Zlj7-55" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GM2iOBIFhQRMOqA6Zlj7-49" value="如何实现对不同数据源的统一包装" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;sketch=0;fontSize=18;strokeColor=none;fillColor=#F2F2F2;spacing=5;" parent="1" vertex="1">
+        <mxCell id="GM2iOBIFhQRMOqA6Zlj7-49" value="如何实现对不同数据源的统一包装" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;sketch=0;fontSize=18;strokeColor=none;fillColor=#F2F2F2;spacing=14;" parent="1" vertex="1">
           <mxGeometry x="1470" y="930" width="150" height="80" as="geometry" />
         </mxCell>
         <mxCell id="GM2iOBIFhQRMOqA6Zlj7-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;strokeWidth=2;" parent="1" source="GM2iOBIFhQRMOqA6Zlj7-51" target="GM2iOBIFhQRMOqA6Zlj7-56" edge="1">
@@ -190,13 +190,13 @@
         <mxCell id="GM2iOBIFhQRMOqA6Zlj7-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=18;strokeWidth=2;" parent="1" source="GM2iOBIFhQRMOqA6Zlj7-66" target="GM2iOBIFhQRMOqA6Zlj7-72" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GM2iOBIFhQRMOqA6Zlj7-66" value="如何实现服务的快速、统一部署、调用" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;sketch=0;fontSize=18;strokeColor=none;fillColor=#F2F2F2;spacing=5;" parent="1" vertex="1">
+        <mxCell id="GM2iOBIFhQRMOqA6Zlj7-66" value="如何实现服务的快速、统一部署、调用" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;sketch=0;fontSize=18;strokeColor=none;fillColor=#F2F2F2;spacing=14;" parent="1" vertex="1">
           <mxGeometry x="1470" y="260" width="150" height="80" as="geometry" />
         </mxCell>
         <mxCell id="GM2iOBIFhQRMOqA6Zlj7-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;strokeWidth=2;" parent="1" source="GM2iOBIFhQRMOqA6Zlj7-68" target="GM2iOBIFhQRMOqA6Zlj7-74" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GM2iOBIFhQRMOqA6Zlj7-68" value="如何实现异构语言、异构协议调用" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;sketch=0;fontSize=18;strokeColor=none;fillColor=#F2F2F2;spacing=5;" parent="1" vertex="1">
+        <mxCell id="GM2iOBIFhQRMOqA6Zlj7-68" value="如何实现异构语言、异构协议调用" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;sketch=0;fontSize=18;strokeColor=none;fillColor=#F2F2F2;spacing=14;" parent="1" vertex="1">
           <mxGeometry x="1470" y="360" width="150" height="80" as="geometry" />
         </mxCell>
         <mxCell id="GM2iOBIFhQRMOqA6Zlj7-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;strokeWidth=2;" parent="1" source="GM2iOBIFhQRMOqA6Zlj7-70" target="GM2iOBIFhQRMOqA6Zlj7-76" edge="1">
@@ -247,7 +247,7 @@
         <mxCell id="GM2iOBIFhQRMOqA6Zlj7-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;strokeWidth=2;" parent="1" source="GM2iOBIFhQRMOqA6Zlj7-85" target="GM2iOBIFhQRMOqA6Zlj7-91" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GM2iOBIFhQRMOqA6Zlj7-85" value="&lt;div&gt;在广域分布式环境中，高延迟严重影响元数据服务器性能表现；需要构建一种高性能分布式元数据处理机制，设计一套跨广域网分布式元数据系统&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;sketch=0;fontSize=18;strokeColor=none;fillColor=#F2F2F2;spacing=5;" parent="1" vertex="1">
+        <mxCell id="GM2iOBIFhQRMOqA6Zlj7-85" value="&lt;div&gt;在广域分布式环境中，高延迟严重影响元数据服务器性能表现；需要构建一种高性能分布式元数据处理机制，设计并实现一套跨广域网分布式元数据系统&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;sketch=0;fontSize=18;strokeColor=none;fillColor=#F2F2F2;spacing=5;" parent="1" vertex="1">
           <mxGeometry x="140" y="-290" width="150" height="280" as="geometry" />
         </mxCell>
         <mxCell id="GM2iOBIFhQRMOqA6Zlj7-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=18;strokeWidth=2;" parent="1" source="GM2iOBIFhQRMOqA6Zlj7-87" target="GM2iOBIFhQRMOqA6Zlj7-93" edge="1">
