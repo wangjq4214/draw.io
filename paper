@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-27T14:33:04.878Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.52" etag="zX8O28-6onKXBqgmLF-S" version="20.5.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-10-27T14:37:27.840Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.52" etag="hM7dIH_1OXJzN_FD0onT" version="20.5.1" type="github" pages="2">
   <diagram id="RxttdOu6qI3TDFeWXhb0" name="第 1 页">
     <mxGraphModel dx="1422" dy="778" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -259,7 +259,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="v7ssGDQqhkfzZw3iw_Vq" name="第 2 页">
-    <mxGraphModel dx="1673" dy="2084" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="1947" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1237,7 +1237,7 @@
             <mxPoint x="1034" y="-316" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PdxvdXuAVQscgrGTb2CR-216" value="Demotion &lt;br&gt;with Swap List" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=18;fontColor=default;" vertex="1" connectable="0" parent="PdxvdXuAVQscgrGTb2CR-215">
+        <mxCell id="PdxvdXuAVQscgrGTb2CR-216" value="Demotion with &lt;br&gt;Swapped List" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=18;fontColor=default;" vertex="1" connectable="0" parent="PdxvdXuAVQscgrGTb2CR-215">
           <mxGeometry x="-0.3977" y="1" relative="1" as="geometry">
             <mxPoint x="6" y="8" as="offset" />
           </mxGeometry>
@@ -1263,8 +1263,8 @@
             <mxPoint y="15" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PdxvdXuAVQscgrGTb2CR-229" value="Swaped list" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;fontColor=default;rounded=0;shadow=0;glass=0;labelBackgroundColor=none;labelBorderColor=none;sketch=0;fillStyle=auto;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="895" y="-512" width="120" height="40" as="geometry" />
+        <mxCell id="PdxvdXuAVQscgrGTb2CR-229" value="Swapped list" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;fontColor=default;rounded=0;shadow=0;glass=0;labelBackgroundColor=none;labelBorderColor=none;sketch=0;fillStyle=auto;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="890" y="-512" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PdxvdXuAVQscgrGTb2CR-230" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.173;entryY=0.017;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=13;strokeWidth=2;" edge="1" parent="1" source="PdxvdXuAVQscgrGTb2CR-234" target="PdxvdXuAVQscgrGTb2CR-240">
           <mxGeometry relative="1" as="geometry" />
