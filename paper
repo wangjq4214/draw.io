@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-27T14:37:27.840Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.52" etag="hM7dIH_1OXJzN_FD0onT" version="20.5.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-10-28T07:06:53.417Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.52" etag="THr7Vm9N5A9zpI63czAA" version="20.5.1" type="github" pages="3">
   <diagram id="RxttdOu6qI3TDFeWXhb0" name="第 1 页">
     <mxGraphModel dx="1422" dy="778" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -1392,6 +1392,253 @@
         </mxCell>
         <mxCell id="PdxvdXuAVQscgrGTb2CR-228" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;labelBorderColor=none;sketch=0;fillStyle=auto;strokeWidth=2;fontSize=18;fontColor=default;fillColor=#FFFFFF;align=left;spacing=5;rotation=0;" vertex="1" parent="1">
           <mxGeometry x="980.9333333333334" y="-474.625" width="10.952380952380954" height="20.25" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="YQgifC1rY1qRUTpDzLcD" name="第 3 页">
+    <mxGraphModel dx="1775" dy="1688" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="PsKS-dQUFTFa12eRlakk-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="PsKS-dQUFTFa12eRlakk-2" target="PsKS-dQUFTFa12eRlakk-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PsKS-dQUFTFa12eRlakk-2" value="Access" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;labelBorderColor=none;sketch=0;fillStyle=auto;strokeWidth=2;fontSize=18;fontColor=default;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="-190" y="-680" width="70" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PsKS-dQUFTFa12eRlakk-3" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;labelBorderColor=none;sketch=0;fillStyle=auto;strokeWidth=2;fontSize=18;fontColor=default;fillColor=#FFFFFF;arcSize=5;" vertex="1" parent="1">
+          <mxGeometry x="357" y="-830" width="280" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="PsKS-dQUFTFa12eRlakk-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;fontSize=13;startArrow=none;startFill=0;" edge="1" parent="1" source="PsKS-dQUFTFa12eRlakk-6" target="PsKS-dQUFTFa12eRlakk-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PsKS-dQUFTFa12eRlakk-5" value="scan PTEs in a loop manner" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=13;" vertex="1" connectable="0" parent="PsKS-dQUFTFa12eRlakk-4">
+          <mxGeometry x="-0.1564" y="1" relative="1" as="geometry">
+            <mxPoint y="-3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PsKS-dQUFTFa12eRlakk-6" value="Page Reuse Monitor (PRM)" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;labelBorderColor=none;sketch=0;fillStyle=auto;strokeWidth=2;fontSize=16;fontColor=default;fillColor=#CCCCCC;dashed=1;gradientColor=none;horizontal=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="372" y="-798" width="233" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="PsKS-dQUFTFa12eRlakk-7" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;labelBorderColor=none;sketch=0;fillStyle=auto;strokeWidth=2;fontSize=18;fontColor=default;fillColor=#FFFFFF;arcSize=5;" vertex="1" parent="1">
+          <mxGeometry x="-50" y="-830" width="300" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="PsKS-dQUFTFa12eRlakk-8" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;labelBorderColor=none;sketch=0;fillStyle=auto;strokeWidth=2;fontSize=18;fontColor=default;fillColor=#FFFFFF;arcSize=5;verticalAlign=top;spacing=6;" vertex="1" parent="1">
+          <mxGeometry x="765" y="-830" width="435" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="PsKS-dQUFTFa12eRlakk-15" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;fontSize=18;fontColor=default;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="PsKS-dQUFTFa12eRlakk-3" target="PsKS-dQUFTFa12eRlakk-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="613" y="-410" as="sourcePoint" />
+            <mxPoint x="663" y="-460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PsKS-dQUFTFa12eRlakk-92" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;fontSize=12;startArrow=none;startFill=0;elbow=vertical;" edge="1" parent="1" source="PsKS-dQUFTFa12eRlakk-31" target="PsKS-dQUFTFa12eRlakk-20">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1275" y="-860" />
+              <mxPoint x="840" y="-860" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PsKS-dQUFTFa12eRlakk-31" value="Storage" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=10.571428571428555;rounded=0;shadow=0;glass=0;labelBackgroundColor=none;labelBorderColor=none;sketch=0;fillStyle=auto;strokeWidth=2;fontSize=18;fontColor=default;fillColor=#999999;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1267" y="-729" width="70" height="127" as="geometry" />
+        </mxCell>
+        <mxCell id="PsKS-dQUFTFa12eRlakk-34" value="Swapped list" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;fontColor=default;rounded=0;shadow=0;glass=0;labelBackgroundColor=none;labelBorderColor=none;sketch=0;fillStyle=auto;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="630" y="-722" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PsKS-dQUFTFa12eRlakk-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.173;entryY=0.017;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=13;strokeWidth=2;" edge="1" parent="1" source="PsKS-dQUFTFa12eRlakk-39" target="PsKS-dQUFTFa12eRlakk-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PsKS-dQUFTFa12eRlakk-36" value="No&lt;br&gt;set access bit =1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=13;" vertex="1" connectable="0" parent="PsKS-dQUFTFa12eRlakk-35">
+          <mxGeometry x="-0.1301" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PsKS-dQUFTFa12eRlakk-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=16;strokeWidth=2;" edge="1" parent="1" source="PsKS-dQUFTFa12eRlakk-39" target="PsKS-dQUFTFa12eRlakk-40">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="140" y="-790" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PsKS-dQUFTFa12eRlakk-38" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="PsKS-dQUFTFa12eRlakk-37">
+          <mxGeometry x="-0.3519" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PsKS-dQUFTFa12eRlakk-39" value="present bit==0?" style="rhombus;whiteSpace=wrap;html=1;fontSize=13;fillColor=#FFFFFF;rounded=1;shadow=0;labelBackgroundColor=none;labelBorderColor=none;sketch=0;fillStyle=auto;strokeWidth=2;arcSize=5;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="-820" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PsKS-dQUFTFa12eRlakk-40" value="Page Fault Handler" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;labelBorderColor=none;sketch=0;fillStyle=auto;strokeWidth=2;fontSize=16;fontColor=default;fillColor=#FFFFFF;verticalAlign=top;spacing=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="-772" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PsKS-dQUFTFa12eRlakk-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.702;entryY=-0.011;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=16;strokeWidth=2;" edge="1" parent="1" source="PsKS-dQUFTFa12eRlakk-43" target="PsKS-dQUFTFa12eRlakk-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PsKS-dQUFTFa12eRlakk-42" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;set&amp;nbsp; present bit=1&lt;br&gt;set access bit=1&lt;br&gt;reserved bit+=1&lt;br&gt;(record the number of swap)&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="PsKS-dQUFTFa12eRlakk-41">
+          <mxGeometry x="-0.286" relative="1" as="geometry">
+            <mxPoint y="12" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PsKS-dQUFTFa12eRlakk-43" value="Page Presence Monitor (PPM)" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;labelBorderColor=none;sketch=0;fillStyle=auto;strokeWidth=2;fontSize=16;fontColor=default;fillColor=#CCCCCC;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="74.11764705882354" y="-744.4444444444445" width="136.47058823529412" height="44.44444444444444" as="geometry" />
+        </mxCell>
+        <mxCell id="PsKS-dQUFTFa12eRlakk-44" value="Monitor and identify pages temporarily &lt;br&gt;swapped out" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="-30" y="-515" width="260" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="PsKS-dQUFTFa12eRlakk-45" value="Page&lt;br&gt;Table" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;labelBorderColor=none;sketch=0;fillStyle=auto;strokeWidth=2;fontSize=18;fontColor=default;fillColor=#FFFFFF;horizontal=1;verticalAlign=middle;align=left;spacing=5;" vertex="1" parent="1">
+          <mxGeometry x="-30" y="-575" width="260" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PsKS-dQUFTFa12eRlakk-46" value="0" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;labelBorderColor=none;sketch=0;fillStyle=auto;strokeWidth=2;fontSize=13;fontColor=default;fillColor=#FFFFFF;align=left;spacing=5;" vertex="1" parent="1">
+          <mxGeometry x="30" y="-565" width="20" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PsKS-dQUFTFa12eRlakk-47" value="0" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;labelBorderColor=none;sketch=0;fillStyle=auto;strokeWidth=2;fontSize=13;fontColor=default;fillColor=#FFFFFF;align=left;spacing=5;" vertex="1" parent="1">
+          <mxGeometry x="50" y="-565" width="20" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PsKS-dQUFTFa12eRlakk-48" value="... ... ..." style="rounded=0;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;labelBorderColor=none;sketch=0;fillStyle=auto;strokeWidth=2;fontSize=18;fontColor=default;fillColor=#FFFFFF;align=center;spacing=5;" vertex="1" parent="1">
+          <mxGeometry x="70" y="-565" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PsKS-dQUFTFa12eRlakk-49" value="1" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;labelBorderColor=none;sketch=0;fillStyle=auto;strokeWidth=2;fontSize=13;fontColor=default;fillColor=#CCCCCC;align=left;spacing=5;gradientColor=none;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="-565" width="20" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PsKS-dQUFTFa12eRlakk-50" value="0" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;labelBorderColor=none;sketch=0;fillStyle=auto;strokeWidth=2;fontSize=13;fontColor=default;fillColor=#FFFFFF;align=left;spacing=5;" vertex="1" parent="1">
+          <mxGeometry x="180" y="-565" width="20" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PsKS-dQUFTFa12eRlakk-51" value="1" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;labelBorderColor=none;sketch=0;fillStyle=auto;strokeWidth=2;fontSize=13;fontColor=default;fillColor=#CCCCCC;align=left;spacing=5;gradientColor=none;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="-565" width="20" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PsKS-dQUFTFa12eRlakk-52" value="" style="endArrow=classic;html=1;rounded=0;fontSize=13;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;dashed=1;edgeStyle=elbowEdgeStyle;" edge="1" parent="1" source="PsKS-dQUFTFa12eRlakk-45" target="PsKS-dQUFTFa12eRlakk-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="-450" as="sourcePoint" />
+            <mxPoint x="330" y="-500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PsKS-dQUFTFa12eRlakk-53" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Filter out pages &lt;br&gt;that are swapped &lt;br&gt;out and reused&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=13;labelBackgroundColor=default;" vertex="1" connectable="0" parent="PsKS-dQUFTFa12eRlakk-52">
+          <mxGeometry x="-0.1645" y="1" relative="1" as="geometry">
+            <mxPoint y="-36" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PsKS-dQUFTFa12eRlakk-54" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="372" y="-705" width="233" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="PsKS-dQUFTFa12eRlakk-55" value="Page&lt;br&gt;Table" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;labelBorderColor=none;sketch=0;fillStyle=auto;strokeWidth=2;fontSize=18;fontColor=default;fillColor=#FFFFFF;horizontal=1;verticalAlign=middle;align=left;spacing=5;" vertex="1" parent="PsKS-dQUFTFa12eRlakk-54">
+          <mxGeometry width="233" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="PsKS-dQUFTFa12eRlakk-56" value="0" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;labelBorderColor=none;sketch=0;fillStyle=auto;strokeWidth=2;fontSize=13;fontColor=default;fillColor=#FFFFFF;align=left;spacing=5;" vertex="1" parent="PsKS-dQUFTFa12eRlakk-54">
+          <mxGeometry x="55" y="7.166666666666666" width="20" height="28.666666666666664" as="geometry" />
+        </mxCell>
+        <mxCell id="PsKS-dQUFTFa12eRlakk-57" value="0" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;labelBorderColor=none;sketch=0;fillStyle=auto;strokeWidth=2;fontSize=13;fontColor=default;fillColor=#FFFFFF;align=left;spacing=5;" vertex="1" parent="PsKS-dQUFTFa12eRlakk-54">
+          <mxGeometry x="75" y="7.166666666666666" width="20" height="28.666666666666664" as="geometry" />
+        </mxCell>
+        <mxCell id="PsKS-dQUFTFa12eRlakk-58" value="... ... ..." style="rounded=0;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;labelBorderColor=none;sketch=0;fillStyle=auto;strokeWidth=2;fontSize=18;fontColor=default;fillColor=#FFFFFF;align=center;spacing=5;" vertex="1" parent="PsKS-dQUFTFa12eRlakk-54">
+          <mxGeometry x="95" y="7.166666666666666" width="90" height="28.666666666666664" as="geometry" />
+        </mxCell>
+        <mxCell id="PsKS-dQUFTFa12eRlakk-59" value="1" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;labelBorderColor=none;sketch=0;fillStyle=auto;strokeWidth=2;fontSize=13;fontColor=default;fillColor=#FFFFFF;align=left;spacing=5;gradientColor=none;glass=0;" vertex="1" parent="PsKS-dQUFTFa12eRlakk-54">
+          <mxGeometry x="185" y="7.166666666666666" width="20" height="28.666666666666664" as="geometry" />
+        </mxCell>
+        <mxCell id="PsKS-dQUFTFa12eRlakk-60" value="0" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;labelBorderColor=none;sketch=0;fillStyle=auto;strokeWidth=2;fontSize=13;fontColor=default;fillColor=#FFFFFF;align=left;spacing=5;" vertex="1" parent="PsKS-dQUFTFa12eRlakk-54">
+          <mxGeometry x="205" y="7.166666666666666" width="20" height="28.666666666666664" as="geometry" />
+        </mxCell>
+        <mxCell id="PsKS-dQUFTFa12eRlakk-61" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;fontSize=13;startArrow=none;startFill=0;" edge="1" parent="1" source="PsKS-dQUFTFa12eRlakk-62" target="PsKS-dQUFTFa12eRlakk-64">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PsKS-dQUFTFa12eRlakk-62" value="Regression Learning" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;labelBorderColor=none;sketch=0;fillStyle=auto;strokeWidth=2;fontSize=16;fontColor=default;fillColor=#CCCCCC;verticalAlign=top;spacing=0;dashed=1;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="372" y="-627" width="233" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PsKS-dQUFTFa12eRlakk-63" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;fontSize=13;startArrow=none;startFill=0;" edge="1" parent="1" source="PsKS-dQUFTFa12eRlakk-64" target="PsKS-dQUFTFa12eRlakk-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="625" y="-668" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PsKS-dQUFTFa12eRlakk-64" value="Sleep for 3 seconds" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;labelBorderColor=none;sketch=0;fillStyle=auto;strokeWidth=2;fontSize=16;fontColor=default;fillColor=#FFFFFF;verticalAlign=top;spacing=0;" vertex="1" parent="1">
+          <mxGeometry x="372" y="-563" width="233" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PsKS-dQUFTFa12eRlakk-65" value="Learn page reuse patterns by monitoring &lt;br&gt;access bits that are swapped out/in" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="357" y="-525" width="280" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="PsKS-dQUFTFa12eRlakk-66" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;fontSize=12;startArrow=none;startFill=0;" edge="1" parent="1" source="PsKS-dQUFTFa12eRlakk-55" target="PsKS-dQUFTFa12eRlakk-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PsKS-dQUFTFa12eRlakk-67" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;labelBorderColor=none;sketch=0;fillStyle=auto;strokeWidth=2;fontSize=18;fontColor=default;fillColor=#FFFFFF;align=left;spacing=5;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="655.2142857142857" y="-684.625" width="10.952380952380954" height="20.25" as="geometry" />
+        </mxCell>
+        <mxCell id="PsKS-dQUFTFa12eRlakk-68" value="..." style="rounded=0;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;labelBorderColor=none;sketch=0;fillStyle=auto;strokeWidth=2;fontSize=18;fontColor=default;fillColor=#FFFFFF;align=center;spacing=5;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="666.1690476190475" y="-684.625" width="43.80952380952382" height="20.25" as="geometry" />
+        </mxCell>
+        <mxCell id="PsKS-dQUFTFa12eRlakk-69" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;labelBorderColor=none;sketch=0;fillStyle=auto;strokeWidth=2;fontSize=18;fontColor=default;fillColor=#FFFFFF;align=left;spacing=5;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="709.9809523809524" y="-684.625" width="10.952380952380954" height="20.25" as="geometry" />
+        </mxCell>
+        <mxCell id="PsKS-dQUFTFa12eRlakk-70" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;labelBorderColor=none;sketch=0;fillStyle=auto;strokeWidth=2;fontSize=18;fontColor=default;fillColor=#FFFFFF;align=left;spacing=5;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="720.9333333333334" y="-684.625" width="10.952380952380954" height="20.25" as="geometry" />
+        </mxCell>
+        <mxCell id="PsKS-dQUFTFa12eRlakk-19" value="head" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;labelBorderColor=none;sketch=0;fillStyle=auto;strokeWidth=2;fontSize=18;fontColor=default;fillColor=#FFFFFF;align=center;spacing=5;" vertex="1" parent="1">
+          <mxGeometry x="780" y="-812" width="50" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="PsKS-dQUFTFa12eRlakk-20" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;labelBorderColor=none;sketch=0;fillStyle=auto;strokeWidth=2;fontSize=18;fontColor=default;fillColor=#FFFFFF;align=left;spacing=5;" vertex="1" parent="1">
+          <mxGeometry x="830" y="-812" width="20" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="PsKS-dQUFTFa12eRlakk-21" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;labelBorderColor=none;sketch=0;fillStyle=auto;strokeWidth=2;fontSize=18;fontColor=default;fillColor=#FFFFFF;align=center;spacing=5;" vertex="1" parent="1">
+          <mxGeometry x="850" y="-812" width="190" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="PsKS-dQUFTFa12eRlakk-83" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.204;entryY=0.038;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;fontSize=12;startArrow=none;startFill=0;" edge="1" parent="1" source="PsKS-dQUFTFa12eRlakk-22" target="PsKS-dQUFTFa12eRlakk-79">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PsKS-dQUFTFa12eRlakk-22" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;labelBorderColor=none;sketch=0;fillStyle=hatch;strokeWidth=2;fontSize=18;fontColor=default;fillColor=#B3B3B3;align=left;spacing=5;gradientColor=none;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="-812" width="110" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="PsKS-dQUFTFa12eRlakk-23" value="tail" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;labelBorderColor=none;sketch=0;fillStyle=auto;strokeWidth=2;fontSize=18;fontColor=default;fillColor=#FFFFFF;align=center;spacing=5;" vertex="1" parent="1">
+          <mxGeometry x="1150" y="-812" width="30" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="PsKS-dQUFTFa12eRlakk-71" value="head" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;labelBorderColor=none;sketch=0;fillStyle=auto;strokeWidth=2;fontSize=18;fontColor=default;fillColor=#FFFFFF;align=center;spacing=5;" vertex="1" parent="1">
+          <mxGeometry x="780" y="-635.5" width="50" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="PsKS-dQUFTFa12eRlakk-72" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;labelBorderColor=none;sketch=0;fillStyle=auto;strokeWidth=2;fontSize=18;fontColor=default;fillColor=#FFFFFF;align=left;spacing=5;" vertex="1" parent="1">
+          <mxGeometry x="830" y="-635.5" width="20" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="PsKS-dQUFTFa12eRlakk-73" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;labelBorderColor=none;sketch=0;fillStyle=auto;strokeWidth=2;fontSize=18;fontColor=default;fillColor=#FFFFFF;align=center;spacing=5;" vertex="1" parent="1">
+          <mxGeometry x="870" y="-635.5" width="80" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="PsKS-dQUFTFa12eRlakk-87" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;fontSize=12;startArrow=none;startFill=0;elbow=vertical;" edge="1" parent="1" source="PsKS-dQUFTFa12eRlakk-74" target="PsKS-dQUFTFa12eRlakk-80">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PsKS-dQUFTFa12eRlakk-74" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;labelBorderColor=none;sketch=0;fillStyle=hatch;strokeWidth=2;fontSize=18;fontColor=default;fillColor=#B3B3B3;align=left;spacing=5;gradientColor=none;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="950" y="-635.5" width="90" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="PsKS-dQUFTFa12eRlakk-75" value="tail" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;labelBorderColor=none;sketch=0;fillStyle=auto;strokeWidth=2;fontSize=18;fontColor=default;fillColor=#FFFFFF;align=center;spacing=5;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="-635.5" width="30" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="PsKS-dQUFTFa12eRlakk-76" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;labelBorderColor=none;sketch=0;fillStyle=auto;strokeWidth=2;fontSize=18;fontColor=default;fillColor=#FFFFFF;align=left;spacing=5;" vertex="1" parent="1">
+          <mxGeometry x="850" y="-635.5" width="20" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="PsKS-dQUFTFa12eRlakk-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;fontSize=12;startArrow=none;startFill=0;curved=1;" edge="1" parent="1" source="PsKS-dQUFTFa12eRlakk-77" target="PsKS-dQUFTFa12eRlakk-74">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PsKS-dQUFTFa12eRlakk-77" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;labelBorderColor=none;sketch=0;fillStyle=hatch;strokeWidth=2;fontSize=18;fontColor=default;fillColor=#B3B3B3;align=left;spacing=5;gradientColor=none;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="-725.5" width="20" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="PsKS-dQUFTFa12eRlakk-78" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;labelBorderColor=none;sketch=0;fillStyle=auto;strokeWidth=2;fontSize=18;fontColor=default;fillColor=#FFFFFF;align=left;spacing=5;" vertex="1" parent="1">
+          <mxGeometry x="1060" y="-725.5" width="20" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="PsKS-dQUFTFa12eRlakk-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;fontSize=12;startArrow=none;startFill=0;curved=1;" edge="1" parent="1" source="PsKS-dQUFTFa12eRlakk-79" target="PsKS-dQUFTFa12eRlakk-74">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PsKS-dQUFTFa12eRlakk-79" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;labelBorderColor=none;sketch=0;fillStyle=hatch;strokeWidth=2;fontSize=18;fontColor=default;fillColor=#B3B3B3;align=left;spacing=5;gradientColor=none;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="-725.5" width="70" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="PsKS-dQUFTFa12eRlakk-80" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;labelBorderColor=none;sketch=0;fillStyle=hatch;strokeWidth=2;fontSize=18;fontColor=default;fillColor=#B3B3B3;align=left;spacing=5;gradientColor=none;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="-550" width="20" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="PsKS-dQUFTFa12eRlakk-81" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;labelBorderColor=none;sketch=0;fillStyle=auto;strokeWidth=2;fontSize=18;fontColor=default;fillColor=#FFFFFF;align=left;spacing=5;" vertex="1" parent="1">
+          <mxGeometry x="1060" y="-550" width="20" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="PsKS-dQUFTFa12eRlakk-88" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;fontSize=12;startArrow=none;startFill=0;elbow=vertical;" edge="1" parent="1" source="PsKS-dQUFTFa12eRlakk-82" target="PsKS-dQUFTFa12eRlakk-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PsKS-dQUFTFa12eRlakk-82" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;labelBorderColor=none;sketch=0;fillStyle=hatch;strokeWidth=2;fontSize=18;fontColor=default;fillColor=#B3B3B3;align=left;spacing=5;gradientColor=none;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="-550" width="70" height="47" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
