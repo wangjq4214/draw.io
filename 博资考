@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-10T09:07:46.406Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.76" etag="w8JLYPiVjPk6BGNnflYn" version="20.7.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-01-10T09:15:40.560Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.76" etag="FYTqGJefreyQHjXwxrK2" version="20.7.2" type="github" pages="2">
   <diagram id="aLi_H7b1c3IQtcRWhGsW" name="第 1 页">
     <mxGraphModel dx="1908" dy="2415" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -393,32 +393,32 @@
         <mxCell id="bqf0k-hEVjeHq-iXXDr2-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=18;strokeWidth=2;" edge="1" parent="1" source="bqf0k-hEVjeHq-iXXDr2-10" target="bqf0k-hEVjeHq-iXXDr2-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bqf0k-hEVjeHq-iXXDr2-10" value="如何确定需要进行调度迁移的元数据" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;sketch=0;fontSize=18;strokeColor=none;fillColor=#F2F2F2;spacing=5;" vertex="1" parent="1">
+        <mxCell id="bqf0k-hEVjeHq-iXXDr2-10" value="如何识别需要进行调度迁移的元数据" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;sketch=0;fontSize=18;strokeColor=none;fillColor=#F2F2F2;spacing=5;" vertex="1" parent="1">
           <mxGeometry x="400" y="-290" width="150" height="80" as="geometry" />
         </mxCell>
         <mxCell id="bqf0k-hEVjeHq-iXXDr2-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;strokeWidth=2;" edge="1" parent="1" source="bqf0k-hEVjeHq-iXXDr2-12" target="bqf0k-hEVjeHq-iXXDr2-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bqf0k-hEVjeHq-iXXDr2-12" value="如何确定元数据迁移目标，最小化开销" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;sketch=0;fontSize=18;strokeColor=none;fillColor=#F2F2F2;spacing=5;" vertex="1" parent="1">
+        <mxCell id="bqf0k-hEVjeHq-iXXDr2-12" value="如何提升元数据迁移的实时性，最小化开销" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;sketch=0;fontSize=18;strokeColor=none;fillColor=#F2F2F2;spacing=5;" vertex="1" parent="1">
           <mxGeometry x="400" y="-190" width="150" height="80" as="geometry" />
         </mxCell>
         <mxCell id="bqf0k-hEVjeHq-iXXDr2-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;strokeWidth=2;" edge="1" parent="1" source="bqf0k-hEVjeHq-iXXDr2-14" target="bqf0k-hEVjeHq-iXXDr2-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bqf0k-hEVjeHq-iXXDr2-14" value="如何支撑应用，不同应用都有好的表现" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;sketch=0;fontSize=18;strokeColor=none;fillColor=#F2F2F2;spacing=5;" vertex="1" parent="1">
+        <mxCell id="bqf0k-hEVjeHq-iXXDr2-14" value="如何识别不同应用在广域环境中的访问模式" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;sketch=0;fontSize=18;strokeColor=none;fillColor=#F2F2F2;spacing=5;" vertex="1" parent="1">
           <mxGeometry x="400" y="-90" width="150" height="80" as="geometry" />
         </mxCell>
         <mxCell id="bqf0k-hEVjeHq-iXXDr2-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;strokeWidth=2;" edge="1" parent="1" source="bqf0k-hEVjeHq-iXXDr2-16" target="bqf0k-hEVjeHq-iXXDr2-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bqf0k-hEVjeHq-iXXDr2-16" value="研究一种基于eBPF或内核模块的区分算法" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;sketch=0;fontSize=18;strokeColor=none;fillColor=#F2F2F2;spacing=5;" vertex="1" parent="1">
+        <mxCell id="bqf0k-hEVjeHq-iXXDr2-16" value="研究一种细粒度的混合元数据属性识别模型" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;sketch=0;fontSize=18;strokeColor=none;fillColor=#F2F2F2;spacing=5;" vertex="1" parent="1">
           <mxGeometry x="653" y="-290" width="150" height="80" as="geometry" />
         </mxCell>
         <mxCell id="bqf0k-hEVjeHq-iXXDr2-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;strokeWidth=2;" edge="1" parent="1" source="bqf0k-hEVjeHq-iXXDr2-18" target="bqf0k-hEVjeHq-iXXDr2-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bqf0k-hEVjeHq-iXXDr2-18" value="研究一种各节点可自主决策或延迟容忍度高的迁移模型" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;sketch=0;fontSize=18;strokeColor=none;fillColor=#F2F2F2;spacing=5;" vertex="1" parent="1">
-          <mxGeometry x="653" y="-200" width="150" height="100" as="geometry" />
+        <mxCell id="bqf0k-hEVjeHq-iXXDr2-18" value="研究一种可自主决策或延迟容忍度高的迁移模型" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;sketch=0;fontSize=18;strokeColor=none;fillColor=#F2F2F2;spacing=5;" vertex="1" parent="1">
+          <mxGeometry x="653" y="-195" width="150" height="90" as="geometry" />
         </mxCell>
         <mxCell id="bqf0k-hEVjeHq-iXXDr2-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;strokeWidth=2;" edge="1" parent="1" source="bqf0k-hEVjeHq-iXXDr2-20" target="bqf0k-hEVjeHq-iXXDr2-21">
           <mxGeometry relative="1" as="geometry" />
