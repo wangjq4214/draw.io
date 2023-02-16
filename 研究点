@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-16T12:36:05.192Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.78" etag="xyW1LwJcAgsONYoIZuDM" version="20.8.20" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-02-16T12:37:13.406Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.78" etag="YM577JLIk1AFlKD0aIYA" version="20.8.20" type="github" pages="2">
   <diagram id="mjjXz66asj1w7N0MkyWE" name="第 1 页">
     <mxGraphModel dx="8373" dy="6457" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -884,10 +884,10 @@
           <mxGeometry x="-1521" y="-1960" width="220" height="80" as="geometry" />
         </mxCell>
         <mxCell id="WW_SylDNx4FmSJ5saYqV-48" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;关键问题&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;glass=0;shadow=0;sketch=0;verticalAlign=top;fontStyle=1;spacing=11;fillColor=#DAE3F3;strokeColor=#6c8ebf;fontSize=20;arcSize=8;" vertex="1" parent="1">
-          <mxGeometry x="-1920" y="-1753" width="380" height="463" as="geometry" />
+          <mxGeometry x="-2020" y="-1760" width="380" height="463" as="geometry" />
         </mxCell>
         <mxCell id="WW_SylDNx4FmSJ5saYqV-50" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;研究内容&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;glass=0;shadow=0;sketch=0;verticalAlign=top;fontStyle=1;spacing=11;fillColor=#DAE3F3;strokeColor=#6c8ebf;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="-1440" y="-1753" width="282" height="460" as="geometry" />
+          <mxGeometry x="-1557" y="-1760" width="282" height="460" as="geometry" />
         </mxCell>
         <mxCell id="WW_SylDNx4FmSJ5saYqV-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;strokeWidth=2;" edge="1" parent="1" source="WW_SylDNx4FmSJ5saYqV-55" target="WW_SylDNx4FmSJ5saYqV-62">
           <mxGeometry relative="1" as="geometry" />
@@ -902,7 +902,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WW_SylDNx4FmSJ5saYqV-55" value="&lt;div style=&quot;font-size: 21px;&quot;&gt;&lt;b style=&quot;font-size: 21px;&quot;&gt;广域分布式环境中，元数据服务的性能受到广域网络情况的制约&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;sketch=0;fontSize=21;strokeColor=none;fillColor=#F2F2F2;spacing=5;" vertex="1" parent="1">
-          <mxGeometry x="-1900" y="-1645" width="107.5" height="275" as="geometry" />
+          <mxGeometry x="-2000" y="-1652" width="107.5" height="275" as="geometry" />
         </mxCell>
         <mxCell id="WW_SylDNx4FmSJ5saYqV-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;strokeWidth=2;" edge="1" parent="1" source="WW_SylDNx4FmSJ5saYqV-62" target="WW_SylDNx4FmSJ5saYqV-74">
           <mxGeometry relative="1" as="geometry" />
@@ -913,7 +913,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="WW_SylDNx4FmSJ5saYqV-62" value="单纯的树形、扁平等元数据组织形式导致传输慢、调度不灵活" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;sketch=0;fontSize=18;strokeColor=none;fillColor=#F2F2F2;spacing=5;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="-1750" y="-1690.5" width="180" height="80" as="geometry" />
+          <mxGeometry x="-1850" y="-1697.5" width="180" height="80" as="geometry" />
         </mxCell>
         <mxCell id="WW_SylDNx4FmSJ5saYqV-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;strokeWidth=2;" edge="1" parent="1" source="WW_SylDNx4FmSJ5saYqV-63" target="WW_SylDNx4FmSJ5saYqV-75">
           <mxGeometry relative="1" as="geometry" />
@@ -924,7 +924,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="WW_SylDNx4FmSJ5saYqV-63" value="元数据访问需求的动态变化导致难以形成高效的布局计划" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;sketch=0;fontSize=18;strokeColor=none;fillColor=#F2F2F2;spacing=5;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="-1750" y="-1590.5" width="180" height="80" as="geometry" />
+          <mxGeometry x="-1850" y="-1597.5" width="180" height="80" as="geometry" />
         </mxCell>
         <mxCell id="WW_SylDNx4FmSJ5saYqV-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;strokeWidth=2;" edge="1" parent="1" source="WW_SylDNx4FmSJ5saYqV-64" target="WW_SylDNx4FmSJ5saYqV-76">
           <mxGeometry relative="1" as="geometry" />
@@ -935,7 +935,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="WW_SylDNx4FmSJ5saYqV-64" value="状态信息延迟大、数据迁移缓慢导致系统吞吐量降低" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;sketch=0;fontSize=18;strokeColor=none;fillColor=#F2F2F2;spacing=5;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="-1750" y="-1490.5" width="180" height="80" as="geometry" />
+          <mxGeometry x="-1850" y="-1497.5" width="180" height="80" as="geometry" />
         </mxCell>
         <mxCell id="WW_SylDNx4FmSJ5saYqV-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;strokeWidth=2;" edge="1" parent="1" source="WW_SylDNx4FmSJ5saYqV-67" target="WW_SylDNx4FmSJ5saYqV-77">
           <mxGeometry relative="1" as="geometry" />
@@ -946,37 +946,37 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="WW_SylDNx4FmSJ5saYqV-67" value="广域应用元数据访问需求复杂导致客户端加速策略难发挥作用" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;sketch=0;fontSize=18;strokeColor=none;fillColor=#F2F2F2;spacing=5;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="-1750" y="-1390.5" width="180" height="80" as="geometry" />
+          <mxGeometry x="-1850" y="-1397.5" width="180" height="80" as="geometry" />
         </mxCell>
         <mxCell id="WW_SylDNx4FmSJ5saYqV-73" value="研究目标" style="rounded=1;whiteSpace=wrap;html=1;glass=0;shadow=0;sketch=0;verticalAlign=top;fontStyle=1;spacing=11;fillColor=#DAE3F3;strokeColor=#6c8ebf;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="-1080" y="-1753" width="282" height="460" as="geometry" />
+          <mxGeometry x="-1230" y="-1760" width="282" height="460" as="geometry" />
         </mxCell>
         <mxCell id="WW_SylDNx4FmSJ5saYqV-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;strokeWidth=2;" edge="1" parent="1" source="WW_SylDNx4FmSJ5saYqV-74" target="WW_SylDNx4FmSJ5saYqV-82">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WW_SylDNx4FmSJ5saYqV-74" value="研究元数据属性维度的细粒度元数据存储和组织形式" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;sketch=0;fontSize=18;strokeColor=none;fillColor=#F2F2F2;spacing=5;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="-1408.5" y="-1690.5" width="220" height="80" as="geometry" />
+          <mxGeometry x="-1525.5" y="-1697.5" width="220" height="80" as="geometry" />
         </mxCell>
         <mxCell id="WW_SylDNx4FmSJ5saYqV-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;strokeWidth=2;" edge="1" parent="1" source="WW_SylDNx4FmSJ5saYqV-75" target="WW_SylDNx4FmSJ5saYqV-82">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WW_SylDNx4FmSJ5saYqV-75" value="研究基于元关系和服务器状态的元数据协同布局方法" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;sketch=0;fontSize=18;strokeColor=none;fillColor=#F2F2F2;spacing=5;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="-1409.5" y="-1590.5" width="220" height="80" as="geometry" />
+          <mxGeometry x="-1526.5" y="-1597.5" width="220" height="80" as="geometry" />
         </mxCell>
         <mxCell id="WW_SylDNx4FmSJ5saYqV-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;strokeWidth=2;" edge="1" parent="1" source="WW_SylDNx4FmSJ5saYqV-76" target="WW_SylDNx4FmSJ5saYqV-82">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WW_SylDNx4FmSJ5saYqV-76" value="研究基于服务质量评估的元数据布局执行优化方法" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;sketch=0;fontSize=18;strokeColor=none;fillColor=#F2F2F2;spacing=5;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="-1409.5" y="-1490.5" width="220" height="80" as="geometry" />
+          <mxGeometry x="-1526.5" y="-1497.5" width="220" height="80" as="geometry" />
         </mxCell>
         <mxCell id="WW_SylDNx4FmSJ5saYqV-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;strokeWidth=2;" edge="1" parent="1" source="WW_SylDNx4FmSJ5saYqV-77" target="WW_SylDNx4FmSJ5saYqV-82">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WW_SylDNx4FmSJ5saYqV-77" value="研究基于广域应用特征识别的客户端缓存和主动反馈方法" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;sketch=0;fontSize=18;strokeColor=none;fillColor=#F2F2F2;spacing=5;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="-1408.5" y="-1390.5" width="220" height="80" as="geometry" />
+          <mxGeometry x="-1525.5" y="-1397.5" width="220" height="80" as="geometry" />
         </mxCell>
         <mxCell id="WW_SylDNx4FmSJ5saYqV-82" value="&lt;div style=&quot;font-size: 21px;&quot;&gt;&lt;b&gt;&lt;span style=&quot;font-size: 21px;&quot;&gt;针对&lt;/span&gt;广域分布式环境中，元数据服务的性能受到广域网络情况的制约的问题，研究面向广域分布式文件系统的元数据服务，提升元数据布局的灵活性和准确性、降低调度延时、提升系统吞吐量，继而提升广域分布式文件系统的性能&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;sketch=0;fontSize=21;strokeColor=none;fillColor=#F2F2F2;spacing=5;" vertex="1" parent="1">
-          <mxGeometry x="-1054.5" y="-1672.5" width="231" height="330" as="geometry" />
+          <mxGeometry x="-1204.5" y="-1679.5" width="231" height="330" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
