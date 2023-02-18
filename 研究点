@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-18T14:47:28.095Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.78" etag="rlCCuUi04JyvCE7E1Sgn" version="20.8.20" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-02-18T15:02:12.747Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.78" etag="3YCc0-Ov_c19jyCFfefy" version="20.8.20" type="github" pages="2">
   <diagram id="mjjXz66asj1w7N0MkyWE" name="第 1 页">
     <mxGraphModel dx="7803" dy="6150" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -966,7 +966,7 @@
         <mxCell id="WW_SylDNx4FmSJ5saYqV-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;strokeWidth=2;" parent="1" source="WW_SylDNx4FmSJ5saYqV-74" target="WW_SylDNx4FmSJ5saYqV-82" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WW_SylDNx4FmSJ5saYqV-74" value="研究元数据属性维度的细粒度存储和组织形式" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;sketch=0;fontSize=18;strokeColor=none;fillColor=#F2F2F2;spacing=5;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="WW_SylDNx4FmSJ5saYqV-74" value="研究元数据属性维度的细粒度元数据存储和组织形式" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;sketch=0;fontSize=18;strokeColor=none;fillColor=#F2F2F2;spacing=5;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="-1525.5" y="-1697.5" width="220" height="80" as="geometry" />
         </mxCell>
         <mxCell id="WW_SylDNx4FmSJ5saYqV-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;strokeWidth=2;" parent="1" source="WW_SylDNx4FmSJ5saYqV-75" target="WW_SylDNx4FmSJ5saYqV-82" edge="1">
