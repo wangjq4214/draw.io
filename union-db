@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-02-22T08:31:53.728Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.78" etag="26Af2zmEZ-rxwZkYqwjF" version="20.8.20" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-22T09:23:56.970Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.78" etag="iYjAZE911QyM3p_3YqJ-" version="20.8.20" type="github">
   <diagram id="XIeiD0HH6uxAO5wCwBhI" name="第 1 页">
-    <mxGraphModel dx="1498" dy="881" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2325" dy="881" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -203,6 +203,87 @@
         </mxCell>
         <mxCell id="8jyOF7bv6LF-_d6yv6Io-25" value="……" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;fontStyle=1" parent="XHA1ShrrLJ-ZHjYm4bJa-69" vertex="1">
           <mxGeometry x="446" y="27.685714285714287" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XHA1ShrrLJ-ZHjYm4bJa-98" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;fontSize=15;startArrow=none;startFill=0;" edge="1" parent="1" source="XHA1ShrrLJ-ZHjYm4bJa-72" target="XHA1ShrrLJ-ZHjYm4bJa-74">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XHA1ShrrLJ-ZHjYm4bJa-99" value="规则" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;fontStyle=1" vertex="1" connectable="0" parent="XHA1ShrrLJ-ZHjYm4bJa-98">
+          <mxGeometry x="0.2216" relative="1" as="geometry">
+            <mxPoint x="-9" y="-15" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XHA1ShrrLJ-ZHjYm4bJa-72" value="文法解析器" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontStyle=1;fontSize=17;verticalAlign=bottom;spacingBottom=3;arcSize=13;" vertex="1" parent="1">
+          <mxGeometry x="20" y="765" width="240" height="185" as="geometry" />
+        </mxCell>
+        <mxCell id="XHA1ShrrLJ-ZHjYm4bJa-75" value="代码包装器" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=18;fontStyle=1;verticalAlign=bottom;spacingBottom=3;" vertex="1" parent="1">
+          <mxGeometry x="650" y="765" width="134" height="185" as="geometry" />
+        </mxCell>
+        <mxCell id="XHA1ShrrLJ-ZHjYm4bJa-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;fontSize=13;startArrow=none;startFill=0;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="XHA1ShrrLJ-ZHjYm4bJa-81" target="XHA1ShrrLJ-ZHjYm4bJa-72">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-165" y="852.5" as="sourcePoint" />
+            <mxPoint x="-75" y="870" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XHA1ShrrLJ-ZHjYm4bJa-88" value="输入参数" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;fontStyle=1" vertex="1" connectable="0" parent="XHA1ShrrLJ-ZHjYm4bJa-87">
+          <mxGeometry x="-0.3588" relative="1" as="geometry">
+            <mxPoint x="20" y="-15" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XHA1ShrrLJ-ZHjYm4bJa-81" value="" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;labelBackgroundColor=#ffffff;strokeWidth=2;fontSize=13;fillColor=#C7C7C7;" vertex="1" parent="1">
+          <mxGeometry x="-87" y="828" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XHA1ShrrLJ-ZHjYm4bJa-91" value="SQL匹配规则&lt;br style=&quot;font-size: 15px;&quot;&gt;解析" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=#ffffff;strokeWidth=2;fontSize=15;fillColor=default;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="129.5" y="775" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XHA1ShrrLJ-ZHjYm4bJa-92" value="转换规则解析" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=#ffffff;strokeWidth=2;fontSize=15;fillColor=default;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="129.5" y="828" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XHA1ShrrLJ-ZHjYm4bJa-93" value="元数据提取规则解析" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=#ffffff;strokeWidth=2;fontSize=15;fillColor=default;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="129.5" y="880" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XHA1ShrrLJ-ZHjYm4bJa-103" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;fontSize=15;startArrow=none;startFill=0;" edge="1" parent="1" source="XHA1ShrrLJ-ZHjYm4bJa-74" target="XHA1ShrrLJ-ZHjYm4bJa-75">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XHA1ShrrLJ-ZHjYm4bJa-104" value="代码片段" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;fontStyle=1" vertex="1" connectable="0" parent="XHA1ShrrLJ-ZHjYm4bJa-103">
+          <mxGeometry x="0.3884" y="-2" relative="1" as="geometry">
+            <mxPoint x="-15" y="-19" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XHA1ShrrLJ-ZHjYm4bJa-74" value="代码生成器" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=18;fontStyle=1;verticalAlign=bottom;arcSize=10;spacingBottom=3;" vertex="1" parent="1">
+          <mxGeometry x="314" y="765" width="266" height="185" as="geometry" />
+        </mxCell>
+        <mxCell id="XHA1ShrrLJ-ZHjYm4bJa-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeWidth=2;fontSize=15;startArrow=none;startFill=0;" edge="1" parent="1" source="XHA1ShrrLJ-ZHjYm4bJa-78" target="XHA1ShrrLJ-ZHjYm4bJa-101">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XHA1ShrrLJ-ZHjYm4bJa-78" value="代码片段库" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;fontStyle=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="396.25" y="872" width="100" height="34.38" as="geometry" />
+        </mxCell>
+        <mxCell id="XHA1ShrrLJ-ZHjYm4bJa-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;fontSize=15;startArrow=none;startFill=0;" edge="1" parent="1" source="XHA1ShrrLJ-ZHjYm4bJa-95" target="XHA1ShrrLJ-ZHjYm4bJa-78">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XHA1ShrrLJ-ZHjYm4bJa-95" value="代码筛选" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="327" y="785" width="100" height="34.38" as="geometry" />
+        </mxCell>
+        <mxCell id="XHA1ShrrLJ-ZHjYm4bJa-101" value="规则注入" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="466.12" y="782.81" width="100" height="34.38" as="geometry" />
+        </mxCell>
+        <mxCell id="XHA1ShrrLJ-ZHjYm4bJa-106" value="配置文件适配器" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=#ffffff;strokeWidth=2;fontSize=15;fillColor=default;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="30" y="775" width="90" height="145" as="geometry" />
+        </mxCell>
+        <mxCell id="XHA1ShrrLJ-ZHjYm4bJa-110" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;fontSize=15;startArrow=none;startFill=0;" edge="1" parent="1" source="XHA1ShrrLJ-ZHjYm4bJa-107" target="XHA1ShrrLJ-ZHjYm4bJa-109">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XHA1ShrrLJ-ZHjYm4bJa-107" value="代码片段拼装" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=#ffffff;strokeWidth=2;fontSize=15;fillColor=default;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="661" y="775" width="109" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="XHA1ShrrLJ-ZHjYm4bJa-108" value="代码包" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=#ffffff;strokeWidth=2;fontSize=15;fillColor=default;fontStyle=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="661" y="880" width="109" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="XHA1ShrrLJ-ZHjYm4bJa-111" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;fontSize=15;startArrow=none;startFill=0;" edge="1" parent="1" source="XHA1ShrrLJ-ZHjYm4bJa-109" target="XHA1ShrrLJ-ZHjYm4bJa-108">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XHA1ShrrLJ-ZHjYm4bJa-109" value="文件写入" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=#ffffff;strokeWidth=2;fontSize=15;fillColor=default;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="661" y="828" width="109" height="35" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
