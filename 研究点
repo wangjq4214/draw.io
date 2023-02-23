@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-23T12:35:50.055Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.78" etag="Snvyy9_d6na10PhEKMrc" version="20.8.22" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-02-23T12:53:07.255Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.78" etag="cUzN01xqW5-x_1L-5vXe" version="20.8.22" type="github" pages="3">
   <diagram id="mjjXz66asj1w7N0MkyWE" name="第 1 页">
     <mxGraphModel dx="5106" dy="4564" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2209,7 +2209,7 @@
             <mxPoint x="13" y="-17" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XcHzC0ASGgXmMxBt9stz-39" value="中心化的元数据组织形式导致调度灵活性不足" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;sketch=0;fontSize=18;strokeColor=none;fillColor=#F2F2F2;spacing=5;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="XcHzC0ASGgXmMxBt9stz-39" value="中心化的元数据组织形式导致" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;sketch=0;fontSize=18;strokeColor=none;fillColor=#F2F2F2;spacing=5;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-2070" y="-2440" width="180" height="80" as="geometry" />
         </mxCell>
         <mxCell id="XcHzC0ASGgXmMxBt9stz-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;strokeWidth=2;" edge="1" parent="1" source="XcHzC0ASGgXmMxBt9stz-42" target="XcHzC0ASGgXmMxBt9stz-53">
@@ -2243,13 +2243,13 @@
         <mxCell id="XcHzC0ASGgXmMxBt9stz-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;strokeWidth=2;" edge="1" parent="1" source="XcHzC0ASGgXmMxBt9stz-53" target="XcHzC0ASGgXmMxBt9stz-58">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="XcHzC0ASGgXmMxBt9stz-53" value="研究基于元数据关系和服务器状态协同的元数据布局方法" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;sketch=0;fontSize=18;strokeColor=none;fillColor=#F2F2F2;spacing=5;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="XcHzC0ASGgXmMxBt9stz-53" value="研究基于服务质量评估的元数据布局方法" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;sketch=0;fontSize=18;strokeColor=none;fillColor=#F2F2F2;spacing=5;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-1745.5" y="-2305" width="220" height="80" as="geometry" />
         </mxCell>
         <mxCell id="XcHzC0ASGgXmMxBt9stz-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;strokeWidth=2;" edge="1" parent="1" source="XcHzC0ASGgXmMxBt9stz-57" target="XcHzC0ASGgXmMxBt9stz-58">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="XcHzC0ASGgXmMxBt9stz-57" value="研究基于广域应用特征识别的访问路径预测方法" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;sketch=0;fontSize=18;strokeColor=none;fillColor=#F2F2F2;spacing=5;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="XcHzC0ASGgXmMxBt9stz-57" value="研究基于广域应用特征识别的访问路径优化方法" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;sketch=0;fontSize=18;strokeColor=none;fillColor=#F2F2F2;spacing=5;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-1746" y="-2170.5" width="220" height="80" as="geometry" />
         </mxCell>
         <mxCell id="XcHzC0ASGgXmMxBt9stz-58" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 21px; font-weight: bold;&quot;&gt;针对&lt;/span&gt;&lt;b style=&quot;font-size: 21px;&quot;&gt;广域分布式环境中，元数据服务的性能受到广域网络情况的制约的问题，研究&lt;/b&gt;&lt;b&gt;广域分布式环境的中的元数据访问优化技术&lt;/b&gt;&lt;b style=&quot;font-size: 21px;&quot;&gt;，提升元数据布局的灵活性和准确性、降低调度延时、提升系统吞吐量，继而提升广域分布式文件系统的性能&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;sketch=0;fontSize=21;strokeColor=none;fillColor=#F2F2F2;spacing=5;" vertex="1" parent="1">
