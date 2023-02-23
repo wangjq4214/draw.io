@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-23T12:53:07.255Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.78" etag="cUzN01xqW5-x_1L-5vXe" version="20.8.22" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-02-23T13:08:55.195Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.78" etag="iqjS2oW_AJO9OyCFuJj0" version="20.8.22" type="github" pages="3">
   <diagram id="mjjXz66asj1w7N0MkyWE" name="第 1 页">
     <mxGraphModel dx="5106" dy="4564" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2209,7 +2209,7 @@
             <mxPoint x="13" y="-17" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XcHzC0ASGgXmMxBt9stz-39" value="中心化的元数据组织形式导致" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;sketch=0;fontSize=18;strokeColor=none;fillColor=#F2F2F2;spacing=5;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="XcHzC0ASGgXmMxBt9stz-39" value="中心化的组织形式无法实现元数据的分散自治" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;sketch=0;fontSize=18;strokeColor=none;fillColor=#F2F2F2;spacing=5;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-2070" y="-2440" width="180" height="80" as="geometry" />
         </mxCell>
         <mxCell id="XcHzC0ASGgXmMxBt9stz-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;strokeWidth=2;" edge="1" parent="1" source="XcHzC0ASGgXmMxBt9stz-42" target="XcHzC0ASGgXmMxBt9stz-53">
@@ -2220,7 +2220,7 @@
             <mxPoint x="-12" y="-17" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XcHzC0ASGgXmMxBt9stz-42" value="元数据局部性和服务器间负载平衡在广域环境中难以维护" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;sketch=0;fontSize=18;strokeColor=none;fillColor=#F2F2F2;spacing=5;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="XcHzC0ASGgXmMxBt9stz-42" value="在广域网络环境中难以实现有效的元数据布局规划和调整策略" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;sketch=0;fontSize=18;strokeColor=none;fillColor=#F2F2F2;spacing=5;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-2070" y="-2305" width="180" height="80" as="geometry" />
         </mxCell>
         <mxCell id="XcHzC0ASGgXmMxBt9stz-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;strokeWidth=2;" edge="1" parent="1" source="XcHzC0ASGgXmMxBt9stz-48" target="XcHzC0ASGgXmMxBt9stz-57">
@@ -2231,7 +2231,7 @@
             <mxPoint x="8" y="-15" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XcHzC0ASGgXmMxBt9stz-48" value="复杂的元数据访问需求导致简单的预取策略难以发挥作用" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;sketch=0;fontSize=18;strokeColor=none;fillColor=#F2F2F2;spacing=5;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="XcHzC0ASGgXmMxBt9stz-48" value="现有的路径访问优化较少的考虑了广域应用特征" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;sketch=0;fontSize=18;strokeColor=none;fillColor=#F2F2F2;spacing=5;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-2070" y="-2170.5" width="180" height="80" as="geometry" />
         </mxCell>
         <mxCell id="XcHzC0ASGgXmMxBt9stz-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;strokeWidth=2;" edge="1" parent="1" source="XcHzC0ASGgXmMxBt9stz-51" target="XcHzC0ASGgXmMxBt9stz-58">
