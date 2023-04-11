@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-11T12:24:57.127Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34" etag="mjaqgcw1iXEOp5M6OCaD" version="21.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-11T12:25:40.717Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34" etag="wTOUs2TXDEmz7gdbSO3r" version="21.1.1" type="github">
   <diagram name="第 1 页" id="L4o_ePwlVXZFclz4sLev">
     <mxGraphModel dx="1781" dy="1051" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -193,6 +193,9 @@
         <mxCell id="xcANfzCTfKEa0O24Yitv-97" value="动态互调用" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;fontStyle=1;strokeWidth=2;arcSize=12;" vertex="1" parent="1">
           <mxGeometry x="610" y="72" width="200" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="xcANfzCTfKEa0O24Yitv-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.113;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;" edge="1" parent="1" source="xcANfzCTfKEa0O24Yitv-98" target="xcANfzCTfKEa0O24Yitv-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="xcANfzCTfKEa0O24Yitv-98" value="多端运行统一编程框架" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;fontStyle=1;strokeWidth=2;arcSize=12;" vertex="1" parent="1">
           <mxGeometry x="830" y="72" width="200" height="80" as="geometry" />
         </mxCell>
@@ -206,6 +209,9 @@
         </mxCell>
         <mxCell id="xcANfzCTfKEa0O24Yitv-100" value="提供状态信息和调度能力" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="130" y="160" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xcANfzCTfKEa0O24Yitv-102" value="调用计算接口" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="810" y="160" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
