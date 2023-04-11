@@ -1,35 +1,35 @@
-<mxfile host="app.diagrams.net" modified="2023-04-11T11:42:11.563Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34" etag="COoH1TFoSVX7LMUZ4zq1" version="21.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-11T11:42:30.220Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34" etag="0Lm2V1tLuSwgkHXDlQhQ" version="21.1.1" type="github">
   <diagram name="第 1 页" id="L4o_ePwlVXZFclz4sLev">
     <mxGraphModel dx="1514" dy="893" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="xcANfzCTfKEa0O24Yitv-1" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="69" y="585" width="891" height="175" as="geometry" />
+          <mxGeometry x="69" y="585" width="891" height="165" as="geometry" />
         </mxCell>
         <mxCell id="xcANfzCTfKEa0O24Yitv-3" value="存储资源" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fontSize=20;verticalAlign=bottom;fontStyle=1;spacingBottom=3;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="79" y="595" width="221" height="145" as="geometry" />
         </mxCell>
         <mxCell id="xcANfzCTfKEa0O24Yitv-16" value="计算资源" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;verticalAlign=bottom;dashed=1;fontStyle=1;spacingBottom=3;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="460" y="595" width="490" height="155" as="geometry" />
+          <mxGeometry x="460" y="595" width="490" height="145" as="geometry" />
         </mxCell>
         <mxCell id="xcANfzCTfKEa0O24Yitv-12" value="一、领域定制化芯粒结构" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeWidth=2;fontSize=18;verticalAlign=bottom;fontStyle=1;spacingBottom=2;fillColor=#d5d5d5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
-          <mxGeometry x="470" y="610" width="340" height="100" as="geometry" />
+          <mxGeometry x="470" y="605" width="340" height="100" as="geometry" />
         </mxCell>
         <mxCell id="xcANfzCTfKEa0O24Yitv-13" value="可变计算架构" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="480" y="620" width="100" height="60" as="geometry" />
+          <mxGeometry x="480" y="615" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xcANfzCTfKEa0O24Yitv-14" value="可重构互联存储架构" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="590" y="620" width="100" height="60" as="geometry" />
+          <mxGeometry x="590" y="615" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xcANfzCTfKEa0O24Yitv-15" value="多模型协同任务编排" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="700" y="620" width="100" height="60" as="geometry" />
+          <mxGeometry x="700" y="615" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xcANfzCTfKEa0O24Yitv-17" value="通用CPU" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="820" y="665" width="120" height="45" as="geometry" />
+          <mxGeometry x="820" y="660" width="120" height="45" as="geometry" />
         </mxCell>
         <mxCell id="xcANfzCTfKEa0O24Yitv-18" value="通用GPU" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="820" y="610" width="120" height="45" as="geometry" />
+          <mxGeometry x="820" y="605" width="120" height="45" as="geometry" />
         </mxCell>
         <mxCell id="xcANfzCTfKEa0O24Yitv-33" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="99.5" y="610" width="180" height="80" as="geometry" />
