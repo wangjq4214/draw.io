@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-11T12:30:17.871Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34" etag="kS3twybP1Oojr9NC-rTc" version="21.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-11T12:33:02.110Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34" etag="0hOAZg9M-egBCDsYlvka" version="21.1.1" type="github">
   <diagram name="第 1 页" id="L4o_ePwlVXZFclz4sLev">
     <mxGraphModel dx="1781" dy="2220" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -223,16 +223,22 @@
           <mxGeometry x="469.75" y="127.62" width="113.75" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xcANfzCTfKEa0O24Yitv-107" value="智能制造" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fontSize=20;verticalAlign=bottom;fontStyle=1;spacingBottom=3;strokeWidth=2;arcSize=11;" vertex="1" parent="1">
-          <mxGeometry x="181.25" y="-60" width="230" height="170" as="geometry" />
+          <mxGeometry x="141.25" y="-60" width="230" height="170" as="geometry" />
         </mxCell>
         <mxCell id="xcANfzCTfKEa0O24Yitv-106" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;imageAspect=0;image=https://n.sinaimg.cn/translate/20171030/8MKZ-fynfvff4841274.jpg;" vertex="1" parent="1">
-          <mxGeometry x="196.25" y="-49.25999999999999" width="204" height="130" as="geometry" />
+          <mxGeometry x="156.25" y="-49.25999999999999" width="204" height="130" as="geometry" />
         </mxCell>
         <mxCell id="xcANfzCTfKEa0O24Yitv-109" value="智慧交通" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fontSize=20;verticalAlign=bottom;fontStyle=1;spacingBottom=3;strokeWidth=2;arcSize=11;" vertex="1" parent="1">
-          <mxGeometry x="740" y="-60" width="230" height="170" as="geometry" />
+          <mxGeometry x="800" y="-60" width="230" height="170" as="geometry" />
         </mxCell>
         <mxCell id="xcANfzCTfKEa0O24Yitv-108" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;imageAspect=0;image=https://storage.googleapis.com/www-cw-com-tw/article/202204/article-625d12e5063d6.jpg;" vertex="1" parent="1">
-          <mxGeometry x="753" y="-50" width="204" height="130" as="geometry" />
+          <mxGeometry x="813" y="-50" width="204" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="xcANfzCTfKEa0O24Yitv-111" value="智慧农业" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fontSize=20;verticalAlign=bottom;fontStyle=1;spacingBottom=3;strokeWidth=2;arcSize=11;" vertex="1" parent="1">
+          <mxGeometry x="453.75" y="-60" width="230" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="xcANfzCTfKEa0O24Yitv-110" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;imageAspect=0;image=https://article.murata.com/sites/default/files/static/ja-jp/images/article/future-of-smart-agriculture-using-iiot/agriculture-main0001.png;" vertex="1" parent="1">
+          <mxGeometry x="466.75" y="-48.620000000000005" width="204" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
