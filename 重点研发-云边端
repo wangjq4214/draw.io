@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-04-12T06:16:50.499Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34" etag="yCiEVTefvQXKsbk5ObWF" version="21.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-12T06:17:14.903Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34" etag="PfkfjVTp2mziQlSZaNqK" version="21.1.5" type="github">
   <diagram name="第 1 页" id="L4o_ePwlVXZFclz4sLev">
-    <mxGraphModel dx="505" dy="1467" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1044" dy="1785" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -321,7 +321,7 @@
         <mxCell id="Yt_Wko_qBEApFMn1Reeo-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.333;entryY=-0.006;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;startArrow=classic;startFill=1;strokeWidth=2;" edge="1" parent="1" source="Yt_Wko_qBEApFMn1Reeo-25" target="Yt_Wko_qBEApFMn1Reeo-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Yt_Wko_qBEApFMn1Reeo-25" value="分布式训练通信调度" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;fontStyle=1;strokeWidth=2;arcSize=12;" vertex="1" parent="1">
+        <mxCell id="Yt_Wko_qBEApFMn1Reeo-25" value="分布式训练通信调度&lt;br&gt;（运行时调度）" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;fontStyle=1;strokeWidth=2;arcSize=12;" vertex="1" parent="1">
           <mxGeometry x="1189.75" y="512.62" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Yt_Wko_qBEApFMn1Reeo-26" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.881;entryY=-0.01;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;endArrow=none;endFill=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="Yt_Wko_qBEApFMn1Reeo-28" target="Yt_Wko_qBEApFMn1Reeo-24">
@@ -330,7 +330,7 @@
         <mxCell id="Yt_Wko_qBEApFMn1Reeo-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.002;entryY=0.624;entryDx=0;entryDy=0;startArrow=classic;startFill=1;endArrow=none;endFill=0;strokeWidth=2;entryPerimeter=0;" edge="1" parent="1" source="Yt_Wko_qBEApFMn1Reeo-28" target="Yt_Wko_qBEApFMn1Reeo-47">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Yt_Wko_qBEApFMn1Reeo-28" value="广域存算协同调度" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="Yt_Wko_qBEApFMn1Reeo-28" value="广域存算协同调度&lt;br&gt;（运行前调度）" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1437.25" y="512.62" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Yt_Wko_qBEApFMn1Reeo-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="Yt_Wko_qBEApFMn1Reeo-2" target="Yt_Wko_qBEApFMn1Reeo-24">
