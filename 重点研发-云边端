@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-14T10:41:53.995Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.39" etag="ndoFp-xtJb6zHrj6bRy2" version="21.1.7" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-04-14T10:42:24.359Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.39" etag="xrsPApflrpQMWAqLLzON" version="21.1.7" type="github" pages="2">
   <diagram name="第 1 页" id="L4o_ePwlVXZFclz4sLev">
     <mxGraphModel dx="2026" dy="2317" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -511,13 +511,13 @@
         <mxCell id="uWbr9jX3oq9IhINpODpN-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.333;entryY=-0.006;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;startArrow=classic;startFill=1;strokeWidth=2;" edge="1" parent="1" source="uWbr9jX3oq9IhINpODpN-28" target="uWbr9jX3oq9IhINpODpN-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="uWbr9jX3oq9IhINpODpN-28" value="分布式训练通信调度&lt;br&gt;（运行时调度）" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;fontStyle=1;strokeWidth=2;arcSize=12;" vertex="1" parent="1">
+        <mxCell id="uWbr9jX3oq9IhINpODpN-28" value="分布式训练通信调度" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;fontStyle=1;strokeWidth=2;arcSize=12;" vertex="1" parent="1">
           <mxGeometry x="1189.75" y="295.62" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uWbr9jX3oq9IhINpODpN-29" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.881;entryY=-0.01;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;endArrow=none;endFill=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="uWbr9jX3oq9IhINpODpN-31" target="uWbr9jX3oq9IhINpODpN-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="uWbr9jX3oq9IhINpODpN-31" value="广域存算协同调度&lt;br&gt;（运行前调度）" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="uWbr9jX3oq9IhINpODpN-31" value="广域存算协同调度" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1437.25" y="295.62" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uWbr9jX3oq9IhINpODpN-34" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.659;entryY=-0.023;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="uWbr9jX3oq9IhINpODpN-31" target="uWbr9jX3oq9IhINpODpN-24">
@@ -533,13 +533,13 @@
           <mxGeometry x="1521.25" y="491.62" width="60" height="50" as="geometry" />
         </mxCell>
         <mxCell id="uWbr9jX3oq9IhINpODpN-37" value="异构资源广域协同管理" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1;strokeWidth=2;arcSize=10;" vertex="1" parent="1">
-          <mxGeometry x="2005" y="295.62" width="130" height="215" as="geometry" />
+          <mxGeometry x="2005" y="295.62" width="130" height="204.38" as="geometry" />
         </mxCell>
         <mxCell id="uWbr9jX3oq9IhINpODpN-40" value="算网存异构资源融合" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1695" y="295.62" width="130" height="215" as="geometry" />
+          <mxGeometry x="1695" y="295.62" width="130" height="204.38" as="geometry" />
         </mxCell>
         <mxCell id="uWbr9jX3oq9IhINpODpN-48" value="算网存异构资源实时感知" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1;strokeWidth=2;arcSize=12;" vertex="1" parent="1">
-          <mxGeometry x="1850" y="295.62" width="130" height="215" as="geometry" />
+          <mxGeometry x="1850" y="295.62" width="130" height="204.38" as="geometry" />
         </mxCell>
         <mxCell id="uWbr9jX3oq9IhINpODpN-51" value="异构资源多维度统一抽象" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1;strokeWidth=2;arcSize=12;" vertex="1" parent="1">
           <mxGeometry x="1695" y="541.62" width="440" height="60" as="geometry" />
