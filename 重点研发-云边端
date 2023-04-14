@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-14T10:47:47.143Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.39" etag="G_NT_hfSff6Z74ooXXcF" version="21.1.7" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-04-14T10:48:42.901Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.39" etag="UiOBGkPn2Gzqg-zaYTFq" version="21.1.7" type="github" pages="2">
   <diagram name="第 1 页" id="L4o_ePwlVXZFclz4sLev">
     <mxGraphModel dx="2026" dy="2317" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -518,35 +518,17 @@
         <mxCell id="uWbr9jX3oq9IhINpODpN-24" value="跨域虚拟存储空间" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1195.63" y="541.62" width="440.25" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="uWbr9jX3oq9IhINpODpN-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;strokeWidth=2;" edge="1" parent="1" source="uWbr9jX3oq9IhINpODpN-28" target="uWbr9jX3oq9IhINpODpN-31">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="uWbr9jX3oq9IhINpODpN-26" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.111;entryY=-0.006;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;" edge="1" parent="1" source="uWbr9jX3oq9IhINpODpN-28" target="uWbr9jX3oq9IhINpODpN-24">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="uWbr9jX3oq9IhINpODpN-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.333;entryY=-0.006;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;startArrow=classic;startFill=1;strokeWidth=2;" edge="1" parent="1" source="uWbr9jX3oq9IhINpODpN-28" target="uWbr9jX3oq9IhINpODpN-24">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="uWbr9jX3oq9IhINpODpN-28" value="分布式训练通信调度" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1;strokeWidth=2;arcSize=12;" vertex="1" parent="1">
-          <mxGeometry x="1189.75" y="295.62" width="200" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="uWbr9jX3oq9IhINpODpN-29" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.881;entryY=-0.01;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;endArrow=none;endFill=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="uWbr9jX3oq9IhINpODpN-31" target="uWbr9jX3oq9IhINpODpN-24">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="1195.63" y="295.62" width="199.75" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uWbr9jX3oq9IhINpODpN-31" value="广域存算协同调度" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1437.25" y="295.62" width="200" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="uWbr9jX3oq9IhINpODpN-34" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.659;entryY=-0.023;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="uWbr9jX3oq9IhINpODpN-31" target="uWbr9jX3oq9IhINpODpN-24">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1551.25" y="534.62" as="sourcePoint" />
-            <mxPoint x="1601.25" y="484.62" as="targetPoint" />
-          </mxGeometry>
+          <mxGeometry x="1434.56" y="295.62" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uWbr9jX3oq9IhINpODpN-35" value="调度数&lt;br&gt;据副本" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="1420" y="497.62" width="60.5" height="40" as="geometry" />
+          <mxGeometry x="949.5" y="545" width="60.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="uWbr9jX3oq9IhINpODpN-36" value="提供数&lt;br&gt;据信息" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="1521.25" y="491.62" width="60" height="50" as="geometry" />
+          <mxGeometry x="950" y="608.62" width="60" height="50" as="geometry" />
         </mxCell>
         <mxCell id="uWbr9jX3oq9IhINpODpN-37" value="异构资源广域协同管理" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1;strokeWidth=2;arcSize=10;" vertex="1" parent="1">
           <mxGeometry x="1695" y="295.62" width="295" height="80" as="geometry" />
@@ -615,10 +597,10 @@
           <mxGeometry x="1562" y="-188.12" width="204" height="130" as="geometry" />
         </mxCell>
         <mxCell id="uWbr9jX3oq9IhINpODpN-77" value="存储训练数据" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="1243" y="497.62" width="60.5" height="40" as="geometry" />
+          <mxGeometry x="1010" y="420" width="60.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="uWbr9jX3oq9IhINpODpN-78" value="提供实时信息" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="1344.25" y="491.62" width="60" height="50" as="geometry" />
+          <mxGeometry x="980" y="492.62" width="60" height="50" as="geometry" />
         </mxCell>
         <mxCell id="uWbr9jX3oq9IhINpODpN-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="uWbr9jX3oq9IhINpODpN-81" target="uWbr9jX3oq9IhINpODpN-51">
           <mxGeometry relative="1" as="geometry" />
