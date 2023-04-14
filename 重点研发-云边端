@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-14T10:55:03.653Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.39" etag="RxGKdyLM5ablIw0DvGED" version="21.1.7" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-04-14T10:55:42.683Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.39" etag="-vb9w12VMvVFa3xLKknh" version="21.1.7" type="github" pages="2">
   <diagram name="第 1 页" id="L4o_ePwlVXZFclz4sLev">
     <mxGraphModel dx="2026" dy="2317" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -688,6 +688,9 @@
         </mxCell>
         <mxCell id="uWbr9jX3oq9IhINpODpN-115" value="广域存算&lt;br&gt;协同调度" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="1497.75" y="338.59000000000003" width="99.5" height="52.81" as="geometry" />
+        </mxCell>
+        <mxCell id="uWbr9jX3oq9IhINpODpN-120" value="提供存算协同和分布式训练通信调度能力" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="1232.75" y="204" width="180" height="44" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
