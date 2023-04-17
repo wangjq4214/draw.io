@@ -1,35 +1,32 @@
-<mxfile host="app.diagrams.net" modified="2023-04-17T11:49:36.239Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.39" etag="IKtsHvQFvEj6Y2I4prSR" version="21.1.8" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-04-17T11:52:10.921Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.39" etag="pVKOZy55Y6aBLsFtg1TL" version="21.1.8" type="github" pages="2">
   <diagram name="第 1 页" id="V5qyhKJIOjs26UayRM4P">
-    <mxGraphModel dx="1688" dy="957" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1158" dy="656" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="jQg1hgdDC3ih42DCYJJK-1" value="接口层" style="rounded=0;whiteSpace=wrap;html=1;align=center;spacingLeft=-440;spacingRight=0;" parent="1" vertex="1">
-          <mxGeometry x="160" y="40" width="850" height="94.66666666666666" as="geometry" />
+        <mxCell id="jQg1hgdDC3ih42DCYJJK-1" value="应用层" style="rounded=0;whiteSpace=wrap;html=1;align=center;spacingLeft=0;spacingRight=0;verticalAlign=top;fontSize=20;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="159.95" y="60" width="850" height="114.67" as="geometry" />
         </mxCell>
         <mxCell id="jQg1hgdDC3ih42DCYJJK-3" value="访问加速层（分布式缓存）" style="rounded=0;whiteSpace=wrap;html=1;align=center;spacingLeft=0;spacingRight=0;fontStyle=1;fontSize=20;verticalAlign=bottom;strokeWidth=2;fillColor=#d5d5d5;strokeColor=#666666;fontColor=#333333;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="160" y="189.9988888888889" width="850" height="381.8222222222222" as="geometry" />
         </mxCell>
-        <mxCell id="jQg1hgdDC3ih42DCYJJK-2" value="HDFS API" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="192.69230769230768" y="118.88888888888889" width="196.15384615384616" height="41.02222222222222" as="geometry" />
+        <mxCell id="jQg1hgdDC3ih42DCYJJK-2" value="HDFS API" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;strokeWidth=2;fontStyle=1;" parent="1" vertex="1">
+          <mxGeometry x="192.64230769230767" y="158.88888888888889" width="196.15384615384616" height="41.02222222222222" as="geometry" />
         </mxCell>
-        <mxCell id="jQg1hgdDC3ih42DCYJJK-4" value="Rest API" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="477.1153846153846" y="118.88888888888889" width="196.15384615384616" height="41.02222222222222" as="geometry" />
+        <mxCell id="jQg1hgdDC3ih42DCYJJK-4" value="Rest API" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;strokeWidth=2;fontStyle=1;" parent="1" vertex="1">
+          <mxGeometry x="477.0653846153846" y="158.88888888888889" width="196.15384615384616" height="41.02222222222222" as="geometry" />
         </mxCell>
-        <mxCell id="jQg1hgdDC3ih42DCYJJK-5" value="File API" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="764.8076923076923" y="118.88888888888889" width="196.15384615384616" height="41.02222222222222" as="geometry" />
+        <mxCell id="jQg1hgdDC3ih42DCYJJK-5" value="File API" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;strokeWidth=2;fontStyle=1;" parent="1" vertex="1">
+          <mxGeometry x="764.7576923076923" y="158.88888888888889" width="196.15384615384616" height="41.02222222222222" as="geometry" />
         </mxCell>
-        <mxCell id="jQg1hgdDC3ih42DCYJJK-6" value="Hive" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="274.4230769230769" y="55.77777777777778" width="156.9230769230769" height="47.33333333333333" as="geometry" />
+        <mxCell id="jQg1hgdDC3ih42DCYJJK-7" value="Tensorflow" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;strokeWidth=2;fontStyle=1;dashed=1;" parent="1" vertex="1">
+          <mxGeometry x="397" y="95.77777777777777" width="156.9230769230769" height="47.33333333333333" as="geometry" />
         </mxCell>
-        <mxCell id="jQg1hgdDC3ih42DCYJJK-7" value="Tensorflow" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="454.2307692307692" y="55.77777777777778" width="156.9230769230769" height="47.33333333333333" as="geometry" />
+        <mxCell id="jQg1hgdDC3ih42DCYJJK-8" value="Pytorch" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;strokeWidth=2;fontStyle=1;dashed=1;" parent="1" vertex="1">
+          <mxGeometry x="613" y="95.77777777777777" width="156.9230769230769" height="47.33333333333333" as="geometry" />
         </mxCell>
-        <mxCell id="jQg1hgdDC3ih42DCYJJK-8" value="Pytorch" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="634.0384615384615" y="55.77777777777778" width="156.9230769230769" height="47.33333333333333" as="geometry" />
-        </mxCell>
-        <mxCell id="jQg1hgdDC3ih42DCYJJK-9" value="Spark" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="813.8461538461538" y="55.77777777777778" width="156.9230769230769" height="47.33333333333333" as="geometry" />
+        <mxCell id="jQg1hgdDC3ih42DCYJJK-9" value="Spark" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;strokeWidth=2;fontStyle=1;dashed=1;" parent="1" vertex="1">
+          <mxGeometry x="829.9961538461539" y="95.77777777777777" width="156.9230769230769" height="47.33333333333333" as="geometry" />
         </mxCell>
         <mxCell id="jQg1hgdDC3ih42DCYJJK-11" value="GVDS" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;arcSize=5;fontSize=20;fontStyle=1;strokeWidth=2;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="190" y="210" width="790" height="328.69" as="geometry" />
@@ -202,8 +199,11 @@
         <mxCell id="osoSYvZ18tmRtloDyJPu-2" value="HDFS访问支持模块" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;strokeWidth=2;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="612" y="430" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="osoSYvZ18tmRtloDyJPu-3" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;strokeWidth=2;fontStyle=1;" vertex="1" parent="1">
+        <mxCell id="osoSYvZ18tmRtloDyJPu-3" value="数据缓存模块" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;strokeWidth=2;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="803.27" y="430" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="osoSYvZ18tmRtloDyJPu-4" value="Hive" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;strokeWidth=2;fontStyle=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="180.0030769230769" y="93.66777777777777" width="156.9230769230769" height="47.33333333333333" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
