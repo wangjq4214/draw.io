@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-04-17T09:26:26.939Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.39" etag="NajCQjP2fxQYEetHEiJv" version="21.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-17T09:26:39.397Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.39" etag="SMcVlT2ry8FdsKg3eMU6" version="21.1.8" type="github">
   <diagram name="第 1 页" id="V5qyhKJIOjs26UayRM4P">
-    <mxGraphModel dx="2224" dy="792" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1688" dy="957" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -36,9 +36,6 @@
         </mxCell>
         <mxCell id="jQg1hgdDC3ih42DCYJJK-12" value="存储层" style="rounded=0;whiteSpace=wrap;html=1;align=center;spacingLeft=0;spacingRight=0;strokeWidth=2;fontSize=20;verticalAlign=bottom;fontStyle=1;fillColor=#d5d5d5;fontColor=#333333;strokeColor=#666666;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="160" y="600" width="850" height="285.11" as="geometry" />
-        </mxCell>
-        <mxCell id="jQg1hgdDC3ih42DCYJJK-43" value="HDFS Driver" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-229.99692307692294" y="412.35333333333324" width="294.2307692307692" height="47.33333333333333" as="geometry" />
         </mxCell>
         <mxCell id="jQg1hgdDC3ih42DCYJJK-45" value="&amp;nbsp; IO&lt;br&gt;Proxy" style="rounded=1;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="1040.003076923077" y="229.99888888888884" width="637.5" height="72.57777777777777" as="geometry" />
