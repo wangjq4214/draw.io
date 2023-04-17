@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2023-04-17T11:52:10.921Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.39" etag="pVKOZy55Y6aBLsFtg1TL" version="21.1.8" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-04-17T11:57:39.834Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.39" etag="KQ6IL04kiaeA0sFnSZ9d" version="21.1.8" type="github" pages="2">
   <diagram name="第 1 页" id="V5qyhKJIOjs26UayRM4P">
-    <mxGraphModel dx="1158" dy="656" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2026" dy="1148" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="jQg1hgdDC3ih42DCYJJK-1" value="应用层" style="rounded=0;whiteSpace=wrap;html=1;align=center;spacingLeft=0;spacingRight=0;verticalAlign=top;fontSize=20;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="jQg1hgdDC3ih42DCYJJK-1" value="应用层" style="rounded=0;whiteSpace=wrap;html=1;align=center;spacingLeft=0;spacingRight=0;verticalAlign=top;fontSize=20;fontStyle=1;strokeWidth=2;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="159.95" y="60" width="850" height="114.67" as="geometry" />
         </mxCell>
         <mxCell id="jQg1hgdDC3ih42DCYJJK-3" value="访问加速层（分布式缓存）" style="rounded=0;whiteSpace=wrap;html=1;align=center;spacingLeft=0;spacingRight=0;fontStyle=1;fontSize=20;verticalAlign=bottom;strokeWidth=2;fillColor=#d5d5d5;strokeColor=#666666;fontColor=#333333;shadow=1;" parent="1" vertex="1">
@@ -31,8 +31,24 @@
         <mxCell id="jQg1hgdDC3ih42DCYJJK-11" value="GVDS" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;arcSize=5;fontSize=20;fontStyle=1;strokeWidth=2;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="190" y="210" width="790" height="328.69" as="geometry" />
         </mxCell>
-        <mxCell id="jQg1hgdDC3ih42DCYJJK-12" value="存储层" style="rounded=0;whiteSpace=wrap;html=1;align=center;spacingLeft=0;spacingRight=0;strokeWidth=2;fontSize=20;verticalAlign=bottom;fontStyle=1;fillColor=#d5d5d5;fontColor=#333333;strokeColor=#666666;shadow=1;" parent="1" vertex="1">
+        <mxCell id="jQg1hgdDC3ih42DCYJJK-12" value="存储层" style="rounded=0;whiteSpace=wrap;html=1;align=center;spacingLeft=0;spacingRight=0;strokeWidth=2;fontSize=20;verticalAlign=bottom;fontStyle=1;fillColor=#FFFFFF;fontColor=#333333;strokeColor=#666666;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="160" y="600" width="850" height="285.11" as="geometry" />
+        </mxCell>
+        <mxCell id="osoSYvZ18tmRtloDyJPu-11" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;strokeWidth=2;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="jQg1hgdDC3ih42DCYJJK-45" target="osoSYvZ18tmRtloDyJPu-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="585" y="410" />
+              <mxPoint x="390" y="410" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="osoSYvZ18tmRtloDyJPu-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="jQg1hgdDC3ih42DCYJJK-45" target="osoSYvZ18tmRtloDyJPu-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="585" y="410" />
+              <mxPoint x="781" y="410" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="jQg1hgdDC3ih42DCYJJK-45" value="IO代理" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=bottom;fontSize=18;fontStyle=1;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="209.9" y="420" width="750.1" height="102.58" as="geometry" />
@@ -204,6 +220,36 @@
         </mxCell>
         <mxCell id="osoSYvZ18tmRtloDyJPu-4" value="Hive" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;strokeWidth=2;fontStyle=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="180.0030769230769" y="93.66777777777777" width="156.9230769230769" height="47.33333333333333" as="geometry" />
+        </mxCell>
+        <mxCell id="osoSYvZ18tmRtloDyJPu-5" value="元数据管理" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;verticalAlign=bottom;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="209.9" y="240" width="360" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="osoSYvZ18tmRtloDyJPu-6" value="文件夹元数据" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;strokeWidth=2;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="230" y="250" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="osoSYvZ18tmRtloDyJPu-7" value="文件元数据" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;strokeWidth=2;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="413.92" y="250" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="osoSYvZ18tmRtloDyJPu-8" value="副本元数据" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;strokeWidth=2;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="310" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="osoSYvZ18tmRtloDyJPu-9" value="缓存项元数据" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;strokeWidth=2;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="413.92" y="310" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="osoSYvZ18tmRtloDyJPu-12" value="数据操作节点" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;verticalAlign=bottom;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="600.96" y="240" width="360" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="osoSYvZ18tmRtloDyJPu-13" value="SSD读写模块" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;strokeWidth=2;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="621.06" y="250" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="osoSYvZ18tmRtloDyJPu-14" value="HDFS读写模块" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;strokeWidth=2;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="804.98" y="250" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="osoSYvZ18tmRtloDyJPu-15" value="SDD缓存设置模块" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;strokeWidth=2;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="621.06" y="310" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="osoSYvZ18tmRtloDyJPu-16" value="异构存储智能管理模块" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;strokeWidth=2;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="804.98" y="310" width="140" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
