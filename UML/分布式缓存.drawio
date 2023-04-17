@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-17T11:42:31.904Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.39" etag="SOqoyGp6MR3wsrkorIDd" version="21.1.8" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-04-17T11:49:36.239Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.39" etag="IKtsHvQFvEj6Y2I4prSR" version="21.1.8" type="github" pages="2">
   <diagram name="第 1 页" id="V5qyhKJIOjs26UayRM4P">
     <mxGraphModel dx="1688" dy="957" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -37,16 +37,16 @@
         <mxCell id="jQg1hgdDC3ih42DCYJJK-12" value="存储层" style="rounded=0;whiteSpace=wrap;html=1;align=center;spacingLeft=0;spacingRight=0;strokeWidth=2;fontSize=20;verticalAlign=bottom;fontStyle=1;fillColor=#d5d5d5;fontColor=#333333;strokeColor=#666666;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="160" y="600" width="850" height="285.11" as="geometry" />
         </mxCell>
-        <mxCell id="jQg1hgdDC3ih42DCYJJK-45" value="IO代理" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=bottom;fontSize=18;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="209.9" y="430" width="750.1" height="92.58" as="geometry" />
+        <mxCell id="jQg1hgdDC3ih42DCYJJK-45" value="IO代理" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=bottom;fontSize=18;fontStyle=1;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="209.9" y="420" width="750.1" height="102.58" as="geometry" />
         </mxCell>
-        <mxCell id="jQg1hgdDC3ih42DCYJJK-46" value="Rest API" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1105.3876923076923" y="245.7766666666666" width="196.15384615384616" height="41.02222222222222" as="geometry" />
+        <mxCell id="jQg1hgdDC3ih42DCYJJK-46" value="SSD请求聚合模块" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;strokeWidth=2;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="230" y="430" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-At3PYuF0KrDZBZnmQ1B-49" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.78;entryY=1.001;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;" edge="1" parent="1" source="jQg1hgdDC3ih42DCYJJK-27" target="jQg1hgdDC3ih42DCYJJK-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jQg1hgdDC3ih42DCYJJK-27" value="SSD硬盘" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=default;verticalAlign=bottom;align=center;strokeWidth=2;fontSize=20;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="jQg1hgdDC3ih42DCYJJK-27" value="SATA SSD硬盘" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=default;verticalAlign=bottom;align=center;strokeWidth=2;fontSize=20;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="650.38" y="615.11" width="310.58" height="110" as="geometry" />
         </mxCell>
         <mxCell id="-At3PYuF0KrDZBZnmQ1B-13" value="" style="group" vertex="1" connectable="0" parent="1">
@@ -97,7 +97,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="-At3PYuF0KrDZBZnmQ1B-32" value="NVMe硬盘" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=default;verticalAlign=bottom;align=center;strokeWidth=2;fontSize=20;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="-At3PYuF0KrDZBZnmQ1B-32" value="NVMe SSD硬盘" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=default;verticalAlign=bottom;align=center;strokeWidth=2;fontSize=20;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="650.38" y="735.11" width="310.58" height="110" as="geometry" />
         </mxCell>
         <mxCell id="-At3PYuF0KrDZBZnmQ1B-33" value="" style="group" vertex="1" connectable="0" parent="1">
@@ -195,6 +195,15 @@
         </mxCell>
         <mxCell id="-At3PYuF0KrDZBZnmQ1B-51" value="直接统一管理" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="673.27" y="569" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="osoSYvZ18tmRtloDyJPu-1" value="SSD数据布局模块" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;strokeWidth=2;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="421" y="430" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="osoSYvZ18tmRtloDyJPu-2" value="HDFS访问支持模块" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;strokeWidth=2;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="612" y="430" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="osoSYvZ18tmRtloDyJPu-3" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;strokeWidth=2;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="803.27" y="430" width="140" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
