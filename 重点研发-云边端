@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-24T07:23:29.437Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.58" etag="YGgCEqfwLb5bKjvLN02V" version="21.2.1" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-04-24T07:30:19.160Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.58" etag="V8fCGWkB169L5KJs9nA4" version="21.2.1" type="github" pages="5">
   <diagram name="第 1 页" id="L4o_ePwlVXZFclz4sLev">
     <mxGraphModel dx="3554" dy="2872" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1347,8 +1347,8 @@
         <mxCell id="OSNO9if2YiWWjrSNPeMK-161" value="" style="group" vertex="1" connectable="0" parent="OSNO9if2YiWWjrSNPeMK-136">
           <mxGeometry x="400" y="10.589999999999918" width="250" height="108.82" as="geometry" />
         </mxCell>
-        <mxCell id="OSNO9if2YiWWjrSNPeMK-162" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;云中心1&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=14;fontColor=default;verticalAlign=top;fillColor=none;arcSize=8;" vertex="1" parent="OSNO9if2YiWWjrSNPeMK-161">
-          <mxGeometry width="250.00000000000003" height="108.82000000000001" as="geometry" />
+        <mxCell id="OSNO9if2YiWWjrSNPeMK-162" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;云中心2&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=14;fontColor=default;verticalAlign=top;fillColor=none;arcSize=8;" vertex="1" parent="OSNO9if2YiWWjrSNPeMK-161">
+          <mxGeometry x="1" width="250.00000000000003" height="108.82000000000001" as="geometry" />
         </mxCell>
         <mxCell id="OSNO9if2YiWWjrSNPeMK-163" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=8.098039215686072;labelBackgroundColor=none;fontSize=14;fontColor=default;" vertex="1" parent="OSNO9if2YiWWjrSNPeMK-161">
           <mxGeometry x="19.224999999999998" y="36.27333333333333" width="57.687500000000014" height="61.45911777777778" as="geometry" />
