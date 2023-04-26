@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-26T09:27:54.269Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.58" etag="JUkT7sEaVA1KbX2Z8kRL" version="21.2.1" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2023-04-26T09:28:02.310Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.58" etag="WQ9ZSgg8h0msSTRd_-Gs" version="21.2.1" type="github" pages="8">
   <diagram name="第 1 页" id="L4o_ePwlVXZFclz4sLev">
     <mxGraphModel dx="2894" dy="2809" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2033,7 +2033,7 @@
         <mxCell id="ICEnQ32KkRMEoFdJuvuj-64" value="提供存算协同和分布式训练通信调度能力" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="1232.75" y="204" width="180" height="44" as="geometry" />
         </mxCell>
-        <mxCell id="ICEnQ32KkRMEoFdJuvuj-65" value="一、云边端协同的领域定制化芯粒结构" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeWidth=2;fontSize=22;verticalAlign=bottom;fontStyle=1;spacingBottom=2;fillColor=#d5d5d5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+        <mxCell id="ICEnQ32KkRMEoFdJuvuj-65" value="一、领域定制化芯粒结构" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeWidth=2;fontSize=22;verticalAlign=bottom;fontStyle=1;spacingBottom=2;fillColor=#d5d5d5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="2340" y="601.62" width="939" height="108.38" as="geometry" />
         </mxCell>
         <mxCell id="ICEnQ32KkRMEoFdJuvuj-66" value="可形变计算架构" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
