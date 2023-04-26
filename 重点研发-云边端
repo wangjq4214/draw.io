@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-26T13:23:26.840Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.58" etag="uW_oNFR6mLySIhT6M_Yw" version="20.8.16" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2023-04-26T13:25:59.024Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.58" etag="NHv6OwkUkemnZChYYmOL" version="20.8.16" type="github" pages="8">
   <diagram name="第 1 页" id="L4o_ePwlVXZFclz4sLev">
     <mxGraphModel dx="906" dy="1792" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1827,7 +1827,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="TyVz0DJ_V80fcL-fX5c7" name="第 8 页">
-    <mxGraphModel dx="567" dy="2127" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="-156" dy="1630" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2134,6 +2134,27 @@
         </mxCell>
         <mxCell id="oJvj4GZ3c7qPPSJrq5B1-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeWidth=3;fontSize=21;" edge="1" parent="1" source="ICEnQ32KkRMEoFdJuvuj-79" target="ICEnQ32KkRMEoFdJuvuj-83">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oJvj4GZ3c7qPPSJrq5B1-21" value="&lt;b&gt;提供计算能力&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="2331" y="500" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oJvj4GZ3c7qPPSJrq5B1-22" value="&lt;b&gt;提供计算能力&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="3109" y="500" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oJvj4GZ3c7qPPSJrq5B1-23" value="&lt;b&gt;提供云边协同能力&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="2321" y="106.38" width="189" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oJvj4GZ3c7qPPSJrq5B1-24" value="&lt;b&gt;提供端协同能力&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="3071" y="106.38" width="189" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oJvj4GZ3c7qPPSJrq5B1-25" value="&lt;b&gt;提供多云协同能力&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="2790" y="110" width="189" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oJvj4GZ3c7qPPSJrq5B1-26" value="&lt;b style=&quot;font-size: 20px;&quot;&gt;提供基础能力&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="2584" y="264" width="80" height="58.59" as="geometry" />
+        </mxCell>
+        <mxCell id="oJvj4GZ3c7qPPSJrq5B1-27" value="&lt;b style=&quot;font-size: 20px;&quot;&gt;提供基础能力&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="2919" y="264" width="80" height="58.59" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
