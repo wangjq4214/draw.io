@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-26T09:22:17.169Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.58" etag="OHRUtw1fNMFCAsxYmft5" version="21.2.1" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2023-04-26T09:27:54.269Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.58" etag="JUkT7sEaVA1KbX2Z8kRL" version="21.2.1" type="github" pages="8">
   <diagram name="第 1 页" id="L4o_ePwlVXZFclz4sLev">
     <mxGraphModel dx="2894" dy="2809" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1827,7 +1827,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="TyVz0DJ_V80fcL-fX5c7" name="第 8 页">
-    <mxGraphModel dx="1199" dy="2351" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="861" dy="2154" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2039,35 +2039,53 @@
         <mxCell id="ICEnQ32KkRMEoFdJuvuj-66" value="可形变计算架构" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="2360" y="611.62" width="220" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ICEnQ32KkRMEoFdJuvuj-67" value="可重构互联存储架构" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="ICEnQ32KkRMEoFdJuvuj-67" value="可重构互连存储架构" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="2700" y="611.62" width="220" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ICEnQ32KkRMEoFdJuvuj-68" value="多模型协同任务编排" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="3040" y="611.62" width="220" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ICEnQ32KkRMEoFdJuvuj-69" value="二、跨域分布式计算基础架构" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeWidth=2;fontSize=20;verticalAlign=top;fontStyle=1;spacingBottom=2;fillColor=#d5d5d5;strokeColor=#666666;fontColor=#333333;arcSize=7;" vertex="1" parent="1">
-          <mxGeometry x="2675" y="280" width="270" height="252" as="geometry" />
+          <mxGeometry x="2674.5" y="260" width="270" height="288.24" as="geometry" />
         </mxCell>
         <mxCell id="ICEnQ32KkRMEoFdJuvuj-72" value="跨域虚拟存储空间" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="2684.5" y="460" width="250" height="54.43" as="geometry" />
+          <mxGeometry x="2684.5" y="460" width="250" height="70.05" as="geometry" />
         </mxCell>
         <mxCell id="ICEnQ32KkRMEoFdJuvuj-73" value="分布式训练通信调度" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1;strokeWidth=2;arcSize=12;" vertex="1" parent="1">
-          <mxGeometry x="2814.5" y="320" width="120" height="128" as="geometry" />
+          <mxGeometry x="2814.5" y="300" width="120" height="150" as="geometry" />
         </mxCell>
         <mxCell id="ICEnQ32KkRMEoFdJuvuj-78" value="分布式训练通信调度" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1;strokeWidth=2;arcSize=12;" vertex="1" parent="1">
-          <mxGeometry x="2684.5" y="320" width="120" height="128" as="geometry" />
+          <mxGeometry x="2684.5" y="301.24" width="120" height="148.76" as="geometry" />
         </mxCell>
         <mxCell id="ICEnQ32KkRMEoFdJuvuj-79" value="二、跨域分布式计算基础架构" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeWidth=2;fontSize=20;verticalAlign=top;fontStyle=1;spacingBottom=2;fillColor=#d5d5d5;strokeColor=#666666;fontColor=#333333;arcSize=7;" vertex="1" parent="1">
-          <mxGeometry x="3009" y="166" width="270" height="366.62" as="geometry" />
+          <mxGeometry x="3009" y="296.24" width="270" height="252" as="geometry" />
         </mxCell>
         <mxCell id="ICEnQ32KkRMEoFdJuvuj-80" value="三、一体化高效资源管理系统" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeWidth=2;fontSize=20;verticalAlign=top;fontStyle=1;spacingBottom=2;fillColor=#d5d5d5;strokeColor=#666666;fontColor=#333333;arcSize=7;" vertex="1" parent="1">
-          <mxGeometry x="2340" y="280" width="270" height="252.62" as="geometry" />
+          <mxGeometry x="2340" y="260" width="270" height="288.24" as="geometry" />
         </mxCell>
         <mxCell id="ICEnQ32KkRMEoFdJuvuj-81" value="异构资源多维度统一抽象" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1;strokeWidth=2;arcSize=12;" vertex="1" parent="1">
-          <mxGeometry x="2350" y="460" width="250" height="60" as="geometry" />
+          <mxGeometry x="2350" y="475.62" width="250" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ICEnQ32KkRMEoFdJuvuj-82" value="异构资源广域协同管理" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1;strokeWidth=2;arcSize=10;" vertex="1" parent="1">
-          <mxGeometry x="2350" y="320" width="120" height="128" as="geometry" />
+          <mxGeometry x="2350" y="300" width="120" height="163.62" as="geometry" />
+        </mxCell>
+        <mxCell id="ICEnQ32KkRMEoFdJuvuj-83" value="一、云边端协同的领域定制化芯粒结构" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeWidth=2;fontSize=22;verticalAlign=bottom;fontStyle=1;spacingBottom=2;fillColor=#d5d5d5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="2321" y="-2" width="939" height="108.38" as="geometry" />
+        </mxCell>
+        <mxCell id="ICEnQ32KkRMEoFdJuvuj-84" value="可形变计算架构" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="2341" y="8" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ICEnQ32KkRMEoFdJuvuj-85" value="可重构互联存储架构" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="2681" y="8" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ICEnQ32KkRMEoFdJuvuj-86" value="多模型协同任务编排" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="3021" y="8" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ICEnQ32KkRMEoFdJuvuj-87" value="异构资源实时感知" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1;strokeWidth=2;arcSize=7;" vertex="1" parent="1">
+          <mxGeometry x="2480" y="301.24" width="120" height="74.38" as="geometry" />
+        </mxCell>
+        <mxCell id="ICEnQ32KkRMEoFdJuvuj-88" value="算网存异构资源融合" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1;strokeWidth=2;arcSize=7;" vertex="1" parent="1">
+          <mxGeometry x="2480" y="389.24" width="120" height="74.38" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
