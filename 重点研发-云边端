@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-27T05:48:15.804Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.58" etag="ESK20aDcgCH5gyrmrMqB" version="21.2.2" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2023-04-27T05:50:10.601Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.58" etag="pqFOkYXbknsoVOMzkQ0I" version="21.2.2" type="github" pages="8">
   <diagram name="第 1 页" id="L4o_ePwlVXZFclz4sLev">
     <mxGraphModel dx="906" dy="1792" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1827,7 +1827,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="TyVz0DJ_V80fcL-fX5c7" name="第 8 页">
-    <mxGraphModel dx="-260" dy="2127" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2876" dy="4284" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2130,9 +2130,6 @@
         <mxCell id="e3awTS-7xQjSJIT0iMEN-2" value="&lt;b&gt;任务统一编程&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=22;" vertex="1" parent="e3awTS-7xQjSJIT0iMEN-3">
           <mxGeometry x="400" y="120" width="30" height="156.81" as="geometry" />
         </mxCell>
-        <mxCell id="81xlGjhJFr85TgyT2HII-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.026;entryY=0.998;entryDx=0;entryDy=0;strokeWidth=3;fontSize=25;entryPerimeter=0;" parent="1" source="oJvj4GZ3c7qPPSJrq5B1-35" target="oJvj4GZ3c7qPPSJrq5B1-29" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="e3awTS-7xQjSJIT0iMEN-6" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="3511" y="60" width="459" height="408.24" as="geometry" />
         </mxCell>
@@ -2194,6 +2191,9 @@
         </mxCell>
         <mxCell id="e3awTS-7xQjSJIT0iMEN-9" value="&lt;b&gt;提供云边端存储能力&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=22;" vertex="1" parent="1">
           <mxGeometry x="2794" y="500" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="81xlGjhJFr85TgyT2HII-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.026;entryY=0.998;entryDx=0;entryDy=0;strokeWidth=3;fontSize=25;entryPerimeter=0;" parent="1" source="oJvj4GZ3c7qPPSJrq5B1-35" target="oJvj4GZ3c7qPPSJrq5B1-29" edge="1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
