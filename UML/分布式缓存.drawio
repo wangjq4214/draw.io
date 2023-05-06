@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-06T11:48:10.107Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.0.0" etag="itmbfJ5wudN5ykNA94oo" version="21.2.9" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-05-06T11:51:10.237Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.0.0" etag="M-MQagYcrBC72k8aOG15" version="21.2.9" type="github" pages="3">
   <diagram name="第 1 页" id="V5qyhKJIOjs26UayRM4P">
     <mxGraphModel dx="1967" dy="1167" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -335,7 +335,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="nJEfn06Puag5F0Z_Lwzd" name="第 3 页">
-    <mxGraphModel dx="571" dy="965" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="806" dy="1362" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -371,6 +371,15 @@
         </mxCell>
         <mxCell id="QLwLhgoX2EPXsQiNqs0z-11" value="分散Hadoop集群统一访问技术" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=18;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="60.63" y="700" width="318.75" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="QLwLhgoX2EPXsQiNqs0z-12" value="异构存储资源统一管理技术" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=18;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="60.31" y="562" width="719.37" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="QLwLhgoX2EPXsQiNqs0z-13" value="基于访问特征识别的数据热度划分技术" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=18;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="60.31" y="500" width="339.37" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="QLwLhgoX2EPXsQiNqs0z-14" value="界域化数据要素流通管理方法" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=18;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="440.31" y="500" width="339.37" height="45" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
