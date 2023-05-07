@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-06T11:51:10.237Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.0.0" etag="M-MQagYcrBC72k8aOG15" version="21.2.9" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-05-07T11:04:36.058Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.0.0" etag="f6NMOOyqEnHR_T5nXEel" version="21.2.9" type="github" pages="3">
   <diagram name="第 1 页" id="V5qyhKJIOjs26UayRM4P">
     <mxGraphModel dx="1967" dy="1167" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -335,51 +335,93 @@
     </mxGraphModel>
   </diagram>
   <diagram id="nJEfn06Puag5F0Z_Lwzd" name="第 3 页">
-    <mxGraphModel dx="806" dy="1362" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1967" dy="1167" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="9ZCaIi_tVVVJTBrZ0uE8-1" value="&lt;b style=&quot;font-size: 22px;&quot;&gt;分散Hadoop集群统一管理方法&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;verticalAlign=bottom;fillColor=#D5D5D5;strokeColor=#666666;fontColor=#333333;strokeWidth=2;shadow=1;arcSize=4;" vertex="1" parent="1">
+        <mxCell id="9ZCaIi_tVVVJTBrZ0uE8-1" value="&lt;b style=&quot;font-size: 22px;&quot;&gt;分散Hadoop集群统一管理方法&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;verticalAlign=bottom;fillColor=#D5D5D5;strokeColor=#666666;fontColor=#333333;strokeWidth=2;shadow=1;arcSize=4;" parent="1" vertex="1">
           <mxGeometry x="40" y="670" width="360" height="300" as="geometry" />
         </mxCell>
-        <mxCell id="9ZCaIi_tVVVJTBrZ0uE8-3" value="&lt;b style=&quot;font-size: 22px;&quot;&gt;数据热度划分与异构存储统一纳管&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#D5D5D5;fontColor=#333333;strokeColor=#666666;shadow=1;fontSize=22;verticalAlign=bottom;arcSize=9;" vertex="1" parent="1">
+        <mxCell id="9ZCaIi_tVVVJTBrZ0uE8-3" value="&lt;b style=&quot;font-size: 22px;&quot;&gt;数据热度划分与异构存储统一纳管&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#D5D5D5;fontColor=#333333;strokeColor=#666666;shadow=1;fontSize=22;verticalAlign=bottom;arcSize=9;" parent="1" vertex="1">
           <mxGeometry x="40" y="480" width="760" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="QLwLhgoX2EPXsQiNqs0z-1" value="&lt;b&gt;新型硬件高效访问方法&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=23;verticalAlign=bottom;fillColor=#D5D5D5;strokeColor=#666666;fontColor=#333333;strokeWidth=2;shadow=1;arcSize=4;" vertex="1" parent="1">
+        <mxCell id="QLwLhgoX2EPXsQiNqs0z-1" value="&lt;b&gt;新型硬件高效访问方法&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=23;verticalAlign=bottom;fillColor=#D5D5D5;strokeColor=#666666;fontColor=#333333;strokeWidth=2;shadow=1;arcSize=4;" parent="1" vertex="1">
           <mxGeometry x="440" y="670" width="360" height="300" as="geometry" />
         </mxCell>
-        <mxCell id="QLwLhgoX2EPXsQiNqs0z-2" value="请求类型识别方法" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=18;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="QLwLhgoX2EPXsQiNqs0z-2" value="请求类型识别方法" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=18;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="452.5" y="870" width="155" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="QLwLhgoX2EPXsQiNqs0z-3" value="基于块的文件特征识别方法" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=18;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="QLwLhgoX2EPXsQiNqs0z-3" value="基于块的文件特征识别方法" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=18;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="632.5" y="870" width="155" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="QLwLhgoX2EPXsQiNqs0z-5" value="新型硬件写时复制技术" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=18;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="QLwLhgoX2EPXsQiNqs0z-5" value="新型硬件写时复制技术" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=18;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="452.5" y="787.5" width="335" height="65" as="geometry" />
         </mxCell>
-        <mxCell id="QLwLhgoX2EPXsQiNqs0z-7" value="新型硬件请求聚合方法" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=18;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="QLwLhgoX2EPXsQiNqs0z-7" value="新型硬件请求聚合方法" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=18;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="452.5" y="700" width="155" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="QLwLhgoX2EPXsQiNqs0z-8" value="新型硬件垃圾回收技术" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=18;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="QLwLhgoX2EPXsQiNqs0z-8" value="新型硬件垃圾回收技术" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=18;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="632.5" y="700" width="155" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="QLwLhgoX2EPXsQiNqs0z-9" value="分散集群元数据提取与管理技术" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=18;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="QLwLhgoX2EPXsQiNqs0z-9" value="分散集群元数据提取与管理技术" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=18;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="60.63" y="810" width="149.37" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="QLwLhgoX2EPXsQiNqs0z-10" value="分散Hadoop集群数据源管理技术" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=18;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="QLwLhgoX2EPXsQiNqs0z-10" value="分散Hadoop集群数据源管理技术" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=18;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="230" y="810" width="149.38" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="QLwLhgoX2EPXsQiNqs0z-11" value="分散Hadoop集群统一访问技术" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=18;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="QLwLhgoX2EPXsQiNqs0z-11" value="分散Hadoop集群统一访问技术" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=18;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="60.63" y="700" width="318.75" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="QLwLhgoX2EPXsQiNqs0z-12" value="异构存储资源统一管理技术" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=18;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="QLwLhgoX2EPXsQiNqs0z-12" value="异构存储资源统一管理技术" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=18;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="60.31" y="562" width="719.37" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="QLwLhgoX2EPXsQiNqs0z-13" value="基于访问特征识别的数据热度划分技术" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=18;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="QLwLhgoX2EPXsQiNqs0z-13" value="基于访问特征识别的数据热度划分技术" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=18;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="60.31" y="500" width="339.37" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="QLwLhgoX2EPXsQiNqs0z-14" value="界域化数据要素流通管理方法" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=18;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="QLwLhgoX2EPXsQiNqs0z-14" value="界域化数据要素流通管理方法" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=18;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="440.31" y="500" width="339.37" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="ICl_cW2vXS4NdK8xLCT_-1" value="&lt;b style=&quot;font-size: 22px;&quot;&gt;分散HDFS集群聚合访问方法&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;verticalAlign=bottom;fillColor=#D5D5D5;strokeColor=#666666;fontColor=#333333;strokeWidth=2;shadow=1;arcSize=4;" vertex="1" parent="1">
+          <mxGeometry x="39.99" y="1190" width="360" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="ICl_cW2vXS4NdK8xLCT_-2" value="&lt;b style=&quot;font-size: 22px;&quot;&gt;数据热度划分与异构缓存构建方法&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#D5D5D5;fontColor=#333333;strokeColor=#666666;shadow=1;fontSize=22;verticalAlign=bottom;arcSize=9;" vertex="1" parent="1">
+          <mxGeometry x="39.99" y="1000" width="760" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="ICl_cW2vXS4NdK8xLCT_-3" value="&lt;b&gt;新型硬件高效访问方法&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=23;verticalAlign=bottom;fillColor=#D5D5D5;strokeColor=#666666;fontColor=#333333;strokeWidth=2;shadow=1;arcSize=4;" vertex="1" parent="1">
+          <mxGeometry x="439.99" y="1190" width="360" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="ICl_cW2vXS4NdK8xLCT_-4" value="请求类型识别方法" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=18;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="452.49" y="1390" width="155" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ICl_cW2vXS4NdK8xLCT_-5" value="基于块的文件特征识别方法" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=18;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="632.49" y="1390" width="155" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ICl_cW2vXS4NdK8xLCT_-6" value="新型硬件写时复制技术" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=18;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="452.49" y="1307.5" width="335" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="ICl_cW2vXS4NdK8xLCT_-7" value="新型硬件请求聚合方法" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=18;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="452.49" y="1220" width="155" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ICl_cW2vXS4NdK8xLCT_-8" value="新型硬件垃圾回收技术" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=18;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="632.49" y="1220" width="155" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ICl_cW2vXS4NdK8xLCT_-9" value="分散集群元数据提取与管理技术" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=18;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="60.62" y="1330" width="149.37" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="ICl_cW2vXS4NdK8xLCT_-10" value="分散HDFS集群数据源管理技术" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=18;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="229.99" y="1330" width="149.38" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="ICl_cW2vXS4NdK8xLCT_-11" value="分散HDFS集群聚合访问技术" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=18;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="60.62" y="1220" width="318.75" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="ICl_cW2vXS4NdK8xLCT_-12" value="异构存储资源统一管理技术" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=18;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="60.300000000000004" y="1082" width="719.37" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="ICl_cW2vXS4NdK8xLCT_-13" value="基于访问特征识别的数据热度划分技术" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=18;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="60.300000000000004" y="1020" width="339.37" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="ICl_cW2vXS4NdK8xLCT_-14" value="界域化数据要素流通管理方法" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=18;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="440.3" y="1020" width="339.37" height="45" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
