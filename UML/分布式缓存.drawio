@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-08T02:52:36.925Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.35" etag="_KrEQ-US58kFpmmr_41q" version="21.2.9" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-05-08T02:55:36.148Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.35" etag="ookO4FxBY10VCHP1qeYR" version="21.2.9" type="github" pages="3">
   <diagram name="第 1 页" id="V5qyhKJIOjs26UayRM4P">
     <mxGraphModel dx="906" dy="623" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -414,7 +414,7 @@
         <mxCell id="ICl_cW2vXS4NdK8xLCT_-13" value="基于访问特征识别的数据热度划分技术" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=18;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="60.300000000000004" y="1020" width="339.37" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="ICl_cW2vXS4NdK8xLCT_-14" value="界域化数据要素流通管理方法" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=18;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="ICl_cW2vXS4NdK8xLCT_-14" value="基于SSD和HDFS的分布式缓存技术" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=18;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="440.3" y="1020" width="339.37" height="45" as="geometry" />
         </mxCell>
       </root>
