@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-08T07:15:34.556Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.0.0" etag="gz1BDgddpX7kKRMz3CH4" version="21.2.9" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-05-08T07:22:43.981Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.0.0" etag="sx8Kj2EF2-Eu4KKd9w9J" version="21.2.9" type="github" pages="3">
   <diagram name="第 1 页" id="V5qyhKJIOjs26UayRM4P">
     <mxGraphModel dx="1967" dy="1167" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -418,9 +418,9 @@
           <mxGeometry x="440.3" y="1020" width="339.37" height="45" as="geometry" />
         </mxCell>
         <mxCell id="YH6_EG2wgB8Qkbp-aP-_-18" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="898.02" y="691" width="754" height="160" as="geometry" />
+          <mxGeometry x="898.02" y="670" width="754" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="YH6_EG2wgB8Qkbp-aP-_-3" value="&lt;b&gt;新型硬件高效访问方法&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=23;verticalAlign=bottom;fillColor=#D5D5D5;strokeColor=#666666;fontColor=#333333;strokeWidth=2;shadow=1;arcSize=7;container=0;" vertex="1" parent="YH6_EG2wgB8Qkbp-aP-_-18">
+        <mxCell id="YH6_EG2wgB8Qkbp-aP-_-3" value="&lt;b&gt;新型硬件高效访问方法（缓存层硬件资源）&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=23;verticalAlign=bottom;fillColor=#D5D5D5;strokeColor=#666666;fontColor=#333333;strokeWidth=2;shadow=1;arcSize=7;container=0;" vertex="1" parent="YH6_EG2wgB8Qkbp-aP-_-18">
           <mxGeometry width="754" height="160" as="geometry" />
         </mxCell>
         <mxCell id="YH6_EG2wgB8Qkbp-aP-_-4" value="新型硬件写时复制技术" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=18;strokeWidth=2;container=0;" vertex="1" parent="YH6_EG2wgB8Qkbp-aP-_-18">
@@ -429,11 +429,11 @@
         <mxCell id="YH6_EG2wgB8Qkbp-aP-_-5" value="新型硬件请求聚合方法" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=18;strokeWidth=2;container=0;" vertex="1" parent="YH6_EG2wgB8Qkbp-aP-_-18">
           <mxGeometry x="20.151666666666642" y="14.5" width="336.6907631578947" height="47" as="geometry" />
         </mxCell>
-        <mxCell id="YH6_EG2wgB8Qkbp-aP-_-6" value="新型硬件垃圾回收技术" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=18;strokeWidth=2;container=0;" vertex="1" parent="YH6_EG2wgB8Qkbp-aP-_-18">
+        <mxCell id="YH6_EG2wgB8Qkbp-aP-_-6" value="新型硬件并发访问技术" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=18;strokeWidth=2;container=0;" vertex="1" parent="YH6_EG2wgB8Qkbp-aP-_-18">
           <mxGeometry x="397.15166666666687" y="14.5" width="336.6907631578947" height="47" as="geometry" />
         </mxCell>
         <mxCell id="YH6_EG2wgB8Qkbp-aP-_-19" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="898.02" y="902" width="754" height="160" as="geometry" />
+          <mxGeometry x="898.02" y="860" width="754" height="160" as="geometry" />
         </mxCell>
         <mxCell id="YH6_EG2wgB8Qkbp-aP-_-1" value="&lt;b style=&quot;font-size: 22px;&quot;&gt;分散HDFS集群聚合访问方法&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;verticalAlign=bottom;fillColor=#D5D5D5;strokeColor=#666666;fontColor=#333333;strokeWidth=2;shadow=1;arcSize=6;" vertex="1" parent="YH6_EG2wgB8Qkbp-aP-_-19">
           <mxGeometry width="754" height="160" as="geometry" />
@@ -461,15 +461,6 @@
         </mxCell>
         <mxCell id="YH6_EG2wgB8Qkbp-aP-_-12" value="基于SSD和HDFS的分布式缓存技术" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=18;strokeWidth=2;" vertex="1" parent="YH6_EG2wgB8Qkbp-aP-_-20">
           <mxGeometry x="399.12965789473674" y="18" width="336.6907631578947" height="47" as="geometry" />
-        </mxCell>
-        <mxCell id="YH6_EG2wgB8Qkbp-aP-_-21" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;strokeWidth=2;" edge="1" parent="1" source="YH6_EG2wgB8Qkbp-aP-_-1" target="YH6_EG2wgB8Qkbp-aP-_-3">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1360" y="900" as="sourcePoint" />
-            <mxPoint x="1410" y="850" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="YH6_EG2wgB8Qkbp-aP-_-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="YH6_EG2wgB8Qkbp-aP-_-3" target="YH6_EG2wgB8Qkbp-aP-_-2">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
