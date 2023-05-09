@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-05-08T07:57:49.650Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.0.0" etag="5JknWpytKqdaxilvw94l" version="21.2.9" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-05-09T13:23:19.377Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.0.0" etag="eZtzZrQoXsv1fTmocN0-" version="21.2.9" type="github" pages="4">
   <diagram name="第 1 页" id="V5qyhKJIOjs26UayRM4P">
-    <mxGraphModel dx="1967" dy="1167" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1975" dy="1172" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -335,11 +335,11 @@
     </mxGraphModel>
   </diagram>
   <diagram id="nJEfn06Puag5F0Z_Lwzd" name="第 3 页">
-    <mxGraphModel dx="2131" dy="1284" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1975" dy="1172" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="YH6_EG2wgB8Qkbp-aP-_-40" value="缓存系统" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;arcSize=5;glass=0;dashed=1;fontSize=22;verticalAlign=bottom;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="YH6_EG2wgB8Qkbp-aP-_-40" value="缓存系统" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;arcSize=5;glass=0;dashed=1;fontSize=22;verticalAlign=bottom;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="900.02" y="1090" width="750" height="400" as="geometry" />
         </mxCell>
         <mxCell id="9ZCaIi_tVVVJTBrZ0uE8-1" value="&lt;b style=&quot;font-size: 22px;&quot;&gt;分散Hadoop集群统一管理方法&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;verticalAlign=bottom;fillColor=#D5D5D5;strokeColor=#666666;fontColor=#333333;strokeWidth=2;shadow=1;arcSize=4;" parent="1" vertex="1">
@@ -420,95 +420,389 @@
         <mxCell id="ICl_cW2vXS4NdK8xLCT_-14" value="基于SSD和HDFS的分布式缓存技术" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=18;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="440.3" y="1020" width="339.37" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="YH6_EG2wgB8Qkbp-aP-_-18" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="YH6_EG2wgB8Qkbp-aP-_-18" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="898.02" y="670" width="754" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="YH6_EG2wgB8Qkbp-aP-_-3" value="&lt;b&gt;新型硬件高效访问方法（缓存层硬件资源）&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=23;verticalAlign=bottom;fillColor=#D5D5D5;strokeColor=#666666;fontColor=#333333;strokeWidth=2;shadow=1;arcSize=7;container=0;" vertex="1" parent="YH6_EG2wgB8Qkbp-aP-_-18">
+        <mxCell id="YH6_EG2wgB8Qkbp-aP-_-3" value="&lt;b&gt;新型硬件高效访问方法（缓存层硬件资源）&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=23;verticalAlign=bottom;fillColor=#D5D5D5;strokeColor=#666666;fontColor=#333333;strokeWidth=2;shadow=1;arcSize=7;container=0;" parent="YH6_EG2wgB8Qkbp-aP-_-18" vertex="1">
           <mxGeometry width="754" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="YH6_EG2wgB8Qkbp-aP-_-4" value="新型硬件写时复制技术" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=18;strokeWidth=2;container=0;" vertex="1" parent="YH6_EG2wgB8Qkbp-aP-_-18">
+        <mxCell id="YH6_EG2wgB8Qkbp-aP-_-4" value="新型硬件写时复制技术" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=18;strokeWidth=2;container=0;" parent="YH6_EG2wgB8Qkbp-aP-_-18" vertex="1">
           <mxGeometry x="20.16999999999996" y="78" width="713.69" height="47" as="geometry" />
         </mxCell>
-        <mxCell id="YH6_EG2wgB8Qkbp-aP-_-5" value="新型硬件请求聚合方法" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=18;strokeWidth=2;container=0;" vertex="1" parent="YH6_EG2wgB8Qkbp-aP-_-18">
+        <mxCell id="YH6_EG2wgB8Qkbp-aP-_-5" value="新型硬件请求聚合方法" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=18;strokeWidth=2;container=0;" parent="YH6_EG2wgB8Qkbp-aP-_-18" vertex="1">
           <mxGeometry x="20.151666666666642" y="14.5" width="336.6907631578947" height="47" as="geometry" />
         </mxCell>
-        <mxCell id="YH6_EG2wgB8Qkbp-aP-_-6" value="新型硬件并发访问技术" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=18;strokeWidth=2;container=0;" vertex="1" parent="YH6_EG2wgB8Qkbp-aP-_-18">
+        <mxCell id="YH6_EG2wgB8Qkbp-aP-_-6" value="新型硬件并发访问技术" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=18;strokeWidth=2;container=0;" parent="YH6_EG2wgB8Qkbp-aP-_-18" vertex="1">
           <mxGeometry x="397.15166666666687" y="14.5" width="336.6907631578947" height="47" as="geometry" />
         </mxCell>
-        <mxCell id="YH6_EG2wgB8Qkbp-aP-_-19" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="YH6_EG2wgB8Qkbp-aP-_-19" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="898.02" y="860" width="754" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="YH6_EG2wgB8Qkbp-aP-_-1" value="&lt;b style=&quot;font-size: 22px;&quot;&gt;分散HDFS集群聚合访问方法&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;verticalAlign=bottom;fillColor=#D5D5D5;strokeColor=#666666;fontColor=#333333;strokeWidth=2;shadow=1;arcSize=6;" vertex="1" parent="YH6_EG2wgB8Qkbp-aP-_-19">
+        <mxCell id="YH6_EG2wgB8Qkbp-aP-_-1" value="&lt;b style=&quot;font-size: 22px;&quot;&gt;分散HDFS集群聚合访问方法&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;verticalAlign=bottom;fillColor=#D5D5D5;strokeColor=#666666;fontColor=#333333;strokeWidth=2;shadow=1;arcSize=6;" parent="YH6_EG2wgB8Qkbp-aP-_-19" vertex="1">
           <mxGeometry width="754" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="YH6_EG2wgB8Qkbp-aP-_-7" value="分散集群元数据提取与管理技术" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=18;strokeWidth=2;" vertex="1" parent="YH6_EG2wgB8Qkbp-aP-_-19">
+        <mxCell id="YH6_EG2wgB8Qkbp-aP-_-7" value="分散集群元数据提取与管理技术" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=18;strokeWidth=2;" parent="YH6_EG2wgB8Qkbp-aP-_-19" vertex="1">
           <mxGeometry x="20.160000000000082" y="80" width="336.6907631578947" height="47" as="geometry" />
         </mxCell>
-        <mxCell id="YH6_EG2wgB8Qkbp-aP-_-8" value="分散HDFS集群数据源管理技术" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=18;strokeWidth=2;" vertex="1" parent="YH6_EG2wgB8Qkbp-aP-_-19">
+        <mxCell id="YH6_EG2wgB8Qkbp-aP-_-8" value="分散HDFS集群数据源管理技术" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=18;strokeWidth=2;" parent="YH6_EG2wgB8Qkbp-aP-_-19" vertex="1">
           <mxGeometry x="397.1600000000001" y="80" width="336.6907631578947" height="47" as="geometry" />
         </mxCell>
-        <mxCell id="YH6_EG2wgB8Qkbp-aP-_-9" value="分散HDFS集群聚合访问技术" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=18;strokeWidth=2;" vertex="1" parent="YH6_EG2wgB8Qkbp-aP-_-19">
+        <mxCell id="YH6_EG2wgB8Qkbp-aP-_-9" value="分散HDFS集群聚合访问技术" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=18;strokeWidth=2;" parent="YH6_EG2wgB8Qkbp-aP-_-19" vertex="1">
           <mxGeometry x="20.158388888888908" y="16.5" width="713.69" height="47" as="geometry" />
         </mxCell>
-        <mxCell id="YH6_EG2wgB8Qkbp-aP-_-20" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="YH6_EG2wgB8Qkbp-aP-_-20" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="898.02" y="480" width="754" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="YH6_EG2wgB8Qkbp-aP-_-2" value="&lt;b style=&quot;font-size: 22px;&quot;&gt;数据热度划分与分布式缓存构建方法&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#D5D5D5;fontColor=#333333;strokeColor=#666666;shadow=1;fontSize=22;verticalAlign=bottom;arcSize=9;" vertex="1" parent="YH6_EG2wgB8Qkbp-aP-_-20">
+        <mxCell id="YH6_EG2wgB8Qkbp-aP-_-2" value="&lt;b style=&quot;font-size: 22px;&quot;&gt;数据热度划分与分布式缓存构建方法&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#D5D5D5;fontColor=#333333;strokeColor=#666666;shadow=1;fontSize=22;verticalAlign=bottom;arcSize=9;" parent="YH6_EG2wgB8Qkbp-aP-_-20" vertex="1">
           <mxGeometry width="754" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="YH6_EG2wgB8Qkbp-aP-_-10" value="分散存储资源统一管理技术" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=18;strokeWidth=2;" vertex="1" parent="YH6_EG2wgB8Qkbp-aP-_-20">
+        <mxCell id="YH6_EG2wgB8Qkbp-aP-_-10" value="分散存储资源统一管理技术" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=18;strokeWidth=2;" parent="YH6_EG2wgB8Qkbp-aP-_-20" vertex="1">
           <mxGeometry x="22.129999999999995" y="80" width="713.69" height="47" as="geometry" />
         </mxCell>
-        <mxCell id="YH6_EG2wgB8Qkbp-aP-_-11" value="基于访问特征识别的数据热度划分技术" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=18;strokeWidth=2;" vertex="1" parent="YH6_EG2wgB8Qkbp-aP-_-20">
+        <mxCell id="YH6_EG2wgB8Qkbp-aP-_-11" value="基于访问特征识别的数据热度划分技术" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=18;strokeWidth=2;" parent="YH6_EG2wgB8Qkbp-aP-_-20" vertex="1">
           <mxGeometry x="22.129999999999995" y="18" width="336.69" height="47" as="geometry" />
         </mxCell>
-        <mxCell id="YH6_EG2wgB8Qkbp-aP-_-12" value="基于SSD和HDFS的分布式缓存技术" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=18;strokeWidth=2;" vertex="1" parent="YH6_EG2wgB8Qkbp-aP-_-20">
+        <mxCell id="YH6_EG2wgB8Qkbp-aP-_-12" value="基于SSD和HDFS的分布式缓存技术" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=18;strokeWidth=2;" parent="YH6_EG2wgB8Qkbp-aP-_-20" vertex="1">
           <mxGeometry x="399.12965789473674" y="18" width="336.6907631578947" height="47" as="geometry" />
         </mxCell>
-        <mxCell id="YH6_EG2wgB8Qkbp-aP-_-25" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="YH6_EG2wgB8Qkbp-aP-_-25" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="918.02" y="1290" width="720" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="YH6_EG2wgB8Qkbp-aP-_-26" value="&lt;b&gt;新型硬件高效访问方法（缓存层硬件资源）&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=23;verticalAlign=bottom;fillColor=#D5D5D5;strokeColor=#666666;fontColor=#333333;strokeWidth=2;shadow=1;arcSize=7;container=0;" vertex="1" parent="YH6_EG2wgB8Qkbp-aP-_-25">
+        <mxCell id="YH6_EG2wgB8Qkbp-aP-_-26" value="&lt;b&gt;新型硬件高效访问方法（缓存层硬件资源）&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=23;verticalAlign=bottom;fillColor=#D5D5D5;strokeColor=#666666;fontColor=#333333;strokeWidth=2;shadow=1;arcSize=7;container=0;" parent="YH6_EG2wgB8Qkbp-aP-_-25" vertex="1">
           <mxGeometry width="720" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="YH6_EG2wgB8Qkbp-aP-_-27" value="新型硬件写时复制技术" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=18;strokeWidth=2;container=0;" vertex="1" parent="YH6_EG2wgB8Qkbp-aP-_-25">
+        <mxCell id="YH6_EG2wgB8Qkbp-aP-_-27" value="新型硬件写时复制技术" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=18;strokeWidth=2;container=0;" parent="YH6_EG2wgB8Qkbp-aP-_-25" vertex="1">
           <mxGeometry x="19.26047745358086" y="78" width="681.5076923076923" height="47" as="geometry" />
         </mxCell>
-        <mxCell id="YH6_EG2wgB8Qkbp-aP-_-28" value="新型硬件请求聚合方法" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=18;strokeWidth=2;container=0;" vertex="1" parent="YH6_EG2wgB8Qkbp-aP-_-25">
+        <mxCell id="YH6_EG2wgB8Qkbp-aP-_-28" value="新型硬件请求聚合方法" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=18;strokeWidth=2;container=0;" parent="YH6_EG2wgB8Qkbp-aP-_-25" vertex="1">
           <mxGeometry x="19.242970822281144" y="14.5" width="321.50842105263155" height="47" as="geometry" />
         </mxCell>
-        <mxCell id="YH6_EG2wgB8Qkbp-aP-_-29" value="新型硬件并发访问技术" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=18;strokeWidth=2;container=0;" vertex="1" parent="YH6_EG2wgB8Qkbp-aP-_-25">
+        <mxCell id="YH6_EG2wgB8Qkbp-aP-_-29" value="新型硬件并发访问技术" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=18;strokeWidth=2;container=0;" parent="YH6_EG2wgB8Qkbp-aP-_-25" vertex="1">
           <mxGeometry x="379.24297082228134" y="14.5" width="321.50842105263155" height="47" as="geometry" />
         </mxCell>
-        <mxCell id="YH6_EG2wgB8Qkbp-aP-_-30" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="YH6_EG2wgB8Qkbp-aP-_-30" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="900" y="1520" width="754" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="YH6_EG2wgB8Qkbp-aP-_-31" value="&lt;b style=&quot;font-size: 22px;&quot;&gt;分散HDFS集群聚合访问方法（广域分散存储系统）&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;verticalAlign=bottom;fillColor=#D5D5D5;strokeColor=#666666;fontColor=#333333;strokeWidth=2;shadow=1;arcSize=6;" vertex="1" parent="YH6_EG2wgB8Qkbp-aP-_-30">
+        <mxCell id="YH6_EG2wgB8Qkbp-aP-_-31" value="&lt;b style=&quot;font-size: 22px;&quot;&gt;分散HDFS集群聚合访问方法（广域分散存储系统）&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;verticalAlign=bottom;fillColor=#D5D5D5;strokeColor=#666666;fontColor=#333333;strokeWidth=2;shadow=1;arcSize=6;" parent="YH6_EG2wgB8Qkbp-aP-_-30" vertex="1">
           <mxGeometry width="754" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="YH6_EG2wgB8Qkbp-aP-_-32" value="分散集群元数据提取与管理技术" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=18;strokeWidth=2;" vertex="1" parent="YH6_EG2wgB8Qkbp-aP-_-30">
+        <mxCell id="YH6_EG2wgB8Qkbp-aP-_-32" value="分散集群元数据提取与管理技术" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=18;strokeWidth=2;" parent="YH6_EG2wgB8Qkbp-aP-_-30" vertex="1">
           <mxGeometry x="20.160000000000082" y="80" width="336.6907631578947" height="47" as="geometry" />
         </mxCell>
-        <mxCell id="YH6_EG2wgB8Qkbp-aP-_-33" value="分散HDFS集群数据源管理技术" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=18;strokeWidth=2;" vertex="1" parent="YH6_EG2wgB8Qkbp-aP-_-30">
+        <mxCell id="YH6_EG2wgB8Qkbp-aP-_-33" value="分散HDFS集群数据源管理技术" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=18;strokeWidth=2;" parent="YH6_EG2wgB8Qkbp-aP-_-30" vertex="1">
           <mxGeometry x="397.1600000000001" y="80" width="336.6907631578947" height="47" as="geometry" />
         </mxCell>
-        <mxCell id="YH6_EG2wgB8Qkbp-aP-_-34" value="分散HDFS集群聚合访问技术" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=18;strokeWidth=2;" vertex="1" parent="YH6_EG2wgB8Qkbp-aP-_-30">
+        <mxCell id="YH6_EG2wgB8Qkbp-aP-_-34" value="分散HDFS集群聚合访问技术" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=18;strokeWidth=2;" parent="YH6_EG2wgB8Qkbp-aP-_-30" vertex="1">
           <mxGeometry x="20.158388888888908" y="16.5" width="713.69" height="47" as="geometry" />
         </mxCell>
-        <mxCell id="YH6_EG2wgB8Qkbp-aP-_-35" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="YH6_EG2wgB8Qkbp-aP-_-35" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="918.02" y="1110" width="720" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="YH6_EG2wgB8Qkbp-aP-_-36" value="&lt;b style=&quot;font-size: 22px;&quot;&gt;数据热度划分与分布式缓存构建方法&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#D5D5D5;fontColor=#333333;strokeColor=#666666;shadow=1;fontSize=22;verticalAlign=bottom;arcSize=9;" vertex="1" parent="YH6_EG2wgB8Qkbp-aP-_-35">
+        <mxCell id="YH6_EG2wgB8Qkbp-aP-_-36" value="&lt;b style=&quot;font-size: 22px;&quot;&gt;数据热度划分与分布式缓存构建方法&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#D5D5D5;fontColor=#333333;strokeColor=#666666;shadow=1;fontSize=22;verticalAlign=bottom;arcSize=9;" parent="YH6_EG2wgB8Qkbp-aP-_-35" vertex="1">
           <mxGeometry width="720" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="YH6_EG2wgB8Qkbp-aP-_-37" value="分散存储资源统一管理技术" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=18;strokeWidth=2;" vertex="1" parent="YH6_EG2wgB8Qkbp-aP-_-35">
+        <mxCell id="YH6_EG2wgB8Qkbp-aP-_-37" value="分散存储资源统一管理技术" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=18;strokeWidth=2;" parent="YH6_EG2wgB8Qkbp-aP-_-35" vertex="1">
           <mxGeometry x="21.132095490716175" y="80" width="681.5076923076923" height="47" as="geometry" />
         </mxCell>
-        <mxCell id="YH6_EG2wgB8Qkbp-aP-_-38" value="基于访问特征识别的数据热度划分技术" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=18;strokeWidth=2;" vertex="1" parent="YH6_EG2wgB8Qkbp-aP-_-35">
+        <mxCell id="YH6_EG2wgB8Qkbp-aP-_-38" value="基于访问特征识别的数据热度划分技术" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=18;strokeWidth=2;" parent="YH6_EG2wgB8Qkbp-aP-_-35" vertex="1">
           <mxGeometry x="21.132095490716175" y="18" width="321.5076923076923" height="47" as="geometry" />
         </mxCell>
-        <mxCell id="YH6_EG2wgB8Qkbp-aP-_-39" value="基于SSD和HDFS的分布式缓存技术" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=18;strokeWidth=2;" vertex="1" parent="YH6_EG2wgB8Qkbp-aP-_-35">
+        <mxCell id="YH6_EG2wgB8Qkbp-aP-_-39" value="基于SSD和HDFS的分布式缓存技术" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=18;strokeWidth=2;" parent="YH6_EG2wgB8Qkbp-aP-_-35" vertex="1">
           <mxGeometry x="381.13176881195017" y="18" width="321.5084210526315" height="47" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="iXfLlD3tmLXTyCqqVC4D" name="第 4 页">
+    <mxGraphModel dx="1975" dy="1172" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="1wgoIC4NRNaBv6HUAps3-1" value="应用层" style="rounded=0;whiteSpace=wrap;html=1;align=center;spacingLeft=0;spacingRight=0;verticalAlign=top;fontSize=20;fontStyle=1;strokeWidth=2;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="159.95" y="60" width="850" height="114.67" as="geometry" />
+        </mxCell>
+        <mxCell id="1wgoIC4NRNaBv6HUAps3-2" value="访问加速层（分布式缓存）" style="rounded=0;whiteSpace=wrap;html=1;align=center;spacingLeft=0;spacingRight=0;fontStyle=1;fontSize=20;verticalAlign=bottom;strokeWidth=2;fillColor=#d5d5d5;strokeColor=#666666;fontColor=#333333;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="189.9988888888889" width="850" height="381.8222222222222" as="geometry" />
+        </mxCell>
+        <mxCell id="1wgoIC4NRNaBv6HUAps3-3" value="HDFS API" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;strokeWidth=2;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="192.64230769230767" y="158.88888888888889" width="196.15384615384616" height="41.02222222222222" as="geometry" />
+        </mxCell>
+        <mxCell id="1wgoIC4NRNaBv6HUAps3-4" value="Rest API" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;strokeWidth=2;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="477.0653846153846" y="158.88888888888889" width="196.15384615384616" height="41.02222222222222" as="geometry" />
+        </mxCell>
+        <mxCell id="1wgoIC4NRNaBv6HUAps3-5" value="File API" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;strokeWidth=2;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="764.7576923076923" y="158.88888888888889" width="196.15384615384616" height="41.02222222222222" as="geometry" />
+        </mxCell>
+        <mxCell id="1wgoIC4NRNaBv6HUAps3-6" value="Tensorflow" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;strokeWidth=2;fontStyle=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="397" y="95.77777777777777" width="156.9230769230769" height="47.33333333333333" as="geometry" />
+        </mxCell>
+        <mxCell id="1wgoIC4NRNaBv6HUAps3-7" value="Pytorch" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;strokeWidth=2;fontStyle=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="613" y="95.77777777777777" width="156.9230769230769" height="47.33333333333333" as="geometry" />
+        </mxCell>
+        <mxCell id="1wgoIC4NRNaBv6HUAps3-8" value="Spark" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;strokeWidth=2;fontStyle=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="829.9961538461539" y="95.77777777777777" width="156.9230769230769" height="47.33333333333333" as="geometry" />
+        </mxCell>
+        <mxCell id="1wgoIC4NRNaBv6HUAps3-9" value="" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;arcSize=5;fontSize=20;fontStyle=1;strokeWidth=2;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="210" width="790" height="328.69" as="geometry" />
+        </mxCell>
+        <mxCell id="1wgoIC4NRNaBv6HUAps3-10" value="存储层" style="rounded=0;whiteSpace=wrap;html=1;align=center;spacingLeft=0;spacingRight=0;strokeWidth=2;fontSize=20;verticalAlign=bottom;fontStyle=1;fillColor=#FFFFFF;fontColor=#333333;strokeColor=#666666;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="600" width="850" height="285.11" as="geometry" />
+        </mxCell>
+        <mxCell id="1wgoIC4NRNaBv6HUAps3-11" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;strokeWidth=2;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="1wgoIC4NRNaBv6HUAps3-13" target="1wgoIC4NRNaBv6HUAps3-68">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="585" y="410" />
+              <mxPoint x="390" y="410" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1wgoIC4NRNaBv6HUAps3-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="1wgoIC4NRNaBv6HUAps3-13" target="1wgoIC4NRNaBv6HUAps3-73">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="585" y="410" />
+              <mxPoint x="781" y="410" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1wgoIC4NRNaBv6HUAps3-13" value="IO代理" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=bottom;fontSize=18;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="209.9" y="420" width="750.1" height="102.58" as="geometry" />
+        </mxCell>
+        <mxCell id="1wgoIC4NRNaBv6HUAps3-14" value="SSD请求聚合模块" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;strokeWidth=2;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="230" y="430" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1wgoIC4NRNaBv6HUAps3-16" value="SATA SSD硬盘" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=default;verticalAlign=bottom;align=center;strokeWidth=2;fontSize=20;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1260" y="250" width="310.58" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="1wgoIC4NRNaBv6HUAps3-17" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1300" y="270.78999999999996" width="220" height="57.61" as="geometry" />
+        </mxCell>
+        <mxCell id="1wgoIC4NRNaBv6HUAps3-18" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=4.923858642578182;strokeWidth=2;" vertex="1" parent="1wgoIC4NRNaBv6HUAps3-17">
+          <mxGeometry width="41.76178660049624" height="37.60999999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="1wgoIC4NRNaBv6HUAps3-19" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=4.923858642578182;strokeWidth=2;" vertex="1" parent="1wgoIC4NRNaBv6HUAps3-17">
+          <mxGeometry x="50.446650124069535" width="41.76178660049624" height="37.60999999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="1wgoIC4NRNaBv6HUAps3-20" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=4.923858642578182;strokeWidth=2;" vertex="1" parent="1wgoIC4NRNaBv6HUAps3-17">
+          <mxGeometry x="103.79652605459057" width="41.76178660049624" height="37.60999999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="1wgoIC4NRNaBv6HUAps3-21" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=4.923858642578182;strokeWidth=2;" vertex="1" parent="1wgoIC4NRNaBv6HUAps3-17">
+          <mxGeometry x="153.42431761786597" width="41.76178660049624" height="37.60999999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="1wgoIC4NRNaBv6HUAps3-22" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=4.923858642578182;strokeWidth=2;" vertex="1" parent="1wgoIC4NRNaBv6HUAps3-17">
+          <mxGeometry x="12.406947890818847" y="9.999999999999998" width="41.76178660049624" height="37.60999999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="1wgoIC4NRNaBv6HUAps3-23" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=4.923858642578182;strokeWidth=2;" vertex="1" parent="1wgoIC4NRNaBv6HUAps3-17">
+          <mxGeometry x="62.85359801488838" y="9.999999999999998" width="41.76178660049624" height="37.60999999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="1wgoIC4NRNaBv6HUAps3-24" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=4.923858642578182;strokeWidth=2;" vertex="1" parent="1wgoIC4NRNaBv6HUAps3-17">
+          <mxGeometry x="116.20347394540943" y="9.999999999999998" width="41.76178660049624" height="37.60999999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="1wgoIC4NRNaBv6HUAps3-25" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=4.923858642578182;strokeWidth=2;" vertex="1" parent="1wgoIC4NRNaBv6HUAps3-17">
+          <mxGeometry x="165.83126550868482" y="9.999999999999998" width="41.76178660049624" height="37.60999999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="1wgoIC4NRNaBv6HUAps3-26" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=4.923858642578182;strokeWidth=2;" vertex="1" parent="1wgoIC4NRNaBv6HUAps3-17">
+          <mxGeometry x="24.813895781637694" y="19.999999999999996" width="41.76178660049624" height="37.60999999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="1wgoIC4NRNaBv6HUAps3-27" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=4.923858642578182;strokeWidth=2;" vertex="1" parent="1wgoIC4NRNaBv6HUAps3-17">
+          <mxGeometry x="75.26054590570723" y="19.999999999999996" width="41.76178660049624" height="37.60999999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="1wgoIC4NRNaBv6HUAps3-28" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=4.923858642578182;strokeWidth=2;" vertex="1" parent="1wgoIC4NRNaBv6HUAps3-17">
+          <mxGeometry x="128.61042183622826" y="19.999999999999996" width="41.76178660049624" height="37.60999999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="1wgoIC4NRNaBv6HUAps3-29" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=4.923858642578182;strokeWidth=2;" vertex="1" parent="1wgoIC4NRNaBv6HUAps3-17">
+          <mxGeometry x="178.23821339950365" y="19.999999999999996" width="41.76178660049624" height="37.60999999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="1wgoIC4NRNaBv6HUAps3-31" value="NVMe SSD硬盘" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=default;verticalAlign=bottom;align=center;strokeWidth=2;fontSize=20;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1260" y="370" width="310.58" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="1wgoIC4NRNaBv6HUAps3-32" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1300" y="390.78999999999996" width="220" height="57.61" as="geometry" />
+        </mxCell>
+        <mxCell id="1wgoIC4NRNaBv6HUAps3-33" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=4.923858642578182;strokeWidth=2;" vertex="1" parent="1wgoIC4NRNaBv6HUAps3-32">
+          <mxGeometry width="41.76178660049624" height="37.60999999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="1wgoIC4NRNaBv6HUAps3-34" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=4.923858642578182;strokeWidth=2;" vertex="1" parent="1wgoIC4NRNaBv6HUAps3-32">
+          <mxGeometry x="50.446650124069535" width="41.76178660049624" height="37.60999999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="1wgoIC4NRNaBv6HUAps3-35" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=4.923858642578182;strokeWidth=2;" vertex="1" parent="1wgoIC4NRNaBv6HUAps3-32">
+          <mxGeometry x="103.79652605459057" width="41.76178660049624" height="37.60999999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="1wgoIC4NRNaBv6HUAps3-36" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=4.923858642578182;strokeWidth=2;" vertex="1" parent="1wgoIC4NRNaBv6HUAps3-32">
+          <mxGeometry x="153.42431761786597" width="41.76178660049624" height="37.60999999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="1wgoIC4NRNaBv6HUAps3-37" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=4.923858642578182;strokeWidth=2;" vertex="1" parent="1wgoIC4NRNaBv6HUAps3-32">
+          <mxGeometry x="12.406947890818847" y="9.999999999999998" width="41.76178660049624" height="37.60999999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="1wgoIC4NRNaBv6HUAps3-38" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=4.923858642578182;strokeWidth=2;" vertex="1" parent="1wgoIC4NRNaBv6HUAps3-32">
+          <mxGeometry x="62.85359801488838" y="9.999999999999998" width="41.76178660049624" height="37.60999999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="1wgoIC4NRNaBv6HUAps3-39" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=4.923858642578182;strokeWidth=2;" vertex="1" parent="1wgoIC4NRNaBv6HUAps3-32">
+          <mxGeometry x="116.20347394540943" y="9.999999999999998" width="41.76178660049624" height="37.60999999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="1wgoIC4NRNaBv6HUAps3-40" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=4.923858642578182;strokeWidth=2;" vertex="1" parent="1wgoIC4NRNaBv6HUAps3-32">
+          <mxGeometry x="165.83126550868482" y="9.999999999999998" width="41.76178660049624" height="37.60999999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="1wgoIC4NRNaBv6HUAps3-41" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=4.923858642578182;strokeWidth=2;" vertex="1" parent="1wgoIC4NRNaBv6HUAps3-32">
+          <mxGeometry x="24.813895781637694" y="19.999999999999996" width="41.76178660049624" height="37.60999999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="1wgoIC4NRNaBv6HUAps3-42" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=4.923858642578182;strokeWidth=2;" vertex="1" parent="1wgoIC4NRNaBv6HUAps3-32">
+          <mxGeometry x="75.26054590570723" y="19.999999999999996" width="41.76178660049624" height="37.60999999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="1wgoIC4NRNaBv6HUAps3-43" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=4.923858642578182;strokeWidth=2;" vertex="1" parent="1wgoIC4NRNaBv6HUAps3-32">
+          <mxGeometry x="128.61042183622826" y="19.999999999999996" width="41.76178660049624" height="37.60999999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="1wgoIC4NRNaBv6HUAps3-44" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=4.923858642578182;strokeWidth=2;" vertex="1" parent="1wgoIC4NRNaBv6HUAps3-32">
+          <mxGeometry x="178.23821339950365" y="19.999999999999996" width="41.76178660049624" height="37.60999999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="1wgoIC4NRNaBv6HUAps3-45" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.241;entryY=1.001;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;" edge="1" parent="1" source="1wgoIC4NRNaBv6HUAps3-46" target="1wgoIC4NRNaBv6HUAps3-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1wgoIC4NRNaBv6HUAps3-46" value="HDFS集群" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=default;verticalAlign=bottom;align=center;strokeWidth=2;fontSize=20;fontStyle=1;arcSize=8;" vertex="1" parent="1">
+          <mxGeometry x="209.89999999999998" y="615.11" width="340" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="1wgoIC4NRNaBv6HUAps3-47" value="HDFS" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="234.41999999999985" y="634.22" width="291.15" height="47.33" as="geometry" />
+        </mxCell>
+        <mxCell id="1wgoIC4NRNaBv6HUAps3-48" value="HDD硬盘" style="rounded=1;whiteSpace=wrap;html=1;fillColor=default;verticalAlign=bottom;align=center;strokeWidth=2;fontSize=20;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="234.41999999999985" y="696.38" width="290.96" height="115.79" as="geometry" />
+        </mxCell>
+        <mxCell id="1wgoIC4NRNaBv6HUAps3-49" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="274.41999999999985" y="717.1700000000001" width="220" height="57.61" as="geometry" />
+        </mxCell>
+        <mxCell id="1wgoIC4NRNaBv6HUAps3-50" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=4.923858642578182;strokeWidth=2;" vertex="1" parent="1wgoIC4NRNaBv6HUAps3-49">
+          <mxGeometry width="41.76178660049624" height="37.60999999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="1wgoIC4NRNaBv6HUAps3-51" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=4.923858642578182;strokeWidth=2;" vertex="1" parent="1wgoIC4NRNaBv6HUAps3-49">
+          <mxGeometry x="50.446650124069535" width="41.76178660049624" height="37.60999999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="1wgoIC4NRNaBv6HUAps3-52" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=4.923858642578182;strokeWidth=2;" vertex="1" parent="1wgoIC4NRNaBv6HUAps3-49">
+          <mxGeometry x="103.79652605459057" width="41.76178660049624" height="37.60999999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="1wgoIC4NRNaBv6HUAps3-53" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=4.923858642578182;strokeWidth=2;" vertex="1" parent="1wgoIC4NRNaBv6HUAps3-49">
+          <mxGeometry x="153.42431761786597" width="41.76178660049624" height="37.60999999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="1wgoIC4NRNaBv6HUAps3-54" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=4.923858642578182;strokeWidth=2;" vertex="1" parent="1wgoIC4NRNaBv6HUAps3-49">
+          <mxGeometry x="12.406947890818847" y="9.999999999999998" width="41.76178660049624" height="37.60999999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="1wgoIC4NRNaBv6HUAps3-55" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=4.923858642578182;strokeWidth=2;" vertex="1" parent="1wgoIC4NRNaBv6HUAps3-49">
+          <mxGeometry x="62.85359801488838" y="9.999999999999998" width="41.76178660049624" height="37.60999999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="1wgoIC4NRNaBv6HUAps3-56" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=4.923858642578182;strokeWidth=2;" vertex="1" parent="1wgoIC4NRNaBv6HUAps3-49">
+          <mxGeometry x="116.20347394540943" y="9.999999999999998" width="41.76178660049624" height="37.60999999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="1wgoIC4NRNaBv6HUAps3-57" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=4.923858642578182;strokeWidth=2;" vertex="1" parent="1wgoIC4NRNaBv6HUAps3-49">
+          <mxGeometry x="165.83126550868482" y="9.999999999999998" width="41.76178660049624" height="37.60999999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="1wgoIC4NRNaBv6HUAps3-58" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=4.923858642578182;strokeWidth=2;" vertex="1" parent="1wgoIC4NRNaBv6HUAps3-49">
+          <mxGeometry x="24.813895781637694" y="19.999999999999996" width="41.76178660049624" height="37.60999999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="1wgoIC4NRNaBv6HUAps3-59" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=4.923858642578182;strokeWidth=2;" vertex="1" parent="1wgoIC4NRNaBv6HUAps3-49">
+          <mxGeometry x="75.26054590570723" y="19.999999999999996" width="41.76178660049624" height="37.60999999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="1wgoIC4NRNaBv6HUAps3-60" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=4.923858642578182;strokeWidth=2;" vertex="1" parent="1wgoIC4NRNaBv6HUAps3-49">
+          <mxGeometry x="128.61042183622826" y="19.999999999999996" width="41.76178660049624" height="37.60999999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="1wgoIC4NRNaBv6HUAps3-61" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=4.923858642578182;strokeWidth=2;" vertex="1" parent="1wgoIC4NRNaBv6HUAps3-49">
+          <mxGeometry x="178.23821339950365" y="19.999999999999996" width="41.76178660049624" height="37.60999999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="1wgoIC4NRNaBv6HUAps3-62" value="HDFS Driver" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="250" y="569" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1wgoIC4NRNaBv6HUAps3-64" value="SSD数据布局模块" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;strokeWidth=2;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="421" y="430" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1wgoIC4NRNaBv6HUAps3-65" value="HDFS访问支持模块" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;strokeWidth=2;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="612" y="430" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1wgoIC4NRNaBv6HUAps3-66" value="数据缓存模块" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;strokeWidth=2;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="803.27" y="430" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1wgoIC4NRNaBv6HUAps3-67" value="Hive" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;strokeWidth=2;fontStyle=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="180.0030769230769" y="93.66777777777777" width="156.9230769230769" height="47.33333333333333" as="geometry" />
+        </mxCell>
+        <mxCell id="1wgoIC4NRNaBv6HUAps3-68" value="元数据管理" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;verticalAlign=bottom;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="209.9" y="240" width="360" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="1wgoIC4NRNaBv6HUAps3-69" value="文件夹元数据" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;strokeWidth=2;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="230" y="250" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="1wgoIC4NRNaBv6HUAps3-70" value="文件元数据" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;strokeWidth=2;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="413.92" y="250" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="1wgoIC4NRNaBv6HUAps3-71" value="副本元数据" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;strokeWidth=2;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="310" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="1wgoIC4NRNaBv6HUAps3-72" value="缓存项元数据" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;strokeWidth=2;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="413.92" y="310" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="1wgoIC4NRNaBv6HUAps3-73" value="数据操作节点" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;verticalAlign=bottom;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="600.96" y="240" width="360" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="1wgoIC4NRNaBv6HUAps3-74" value="SSD读写模块" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;strokeWidth=2;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="621.06" y="250" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="1wgoIC4NRNaBv6HUAps3-75" value="HDFS读写模块" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;strokeWidth=2;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="804.98" y="250" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="1wgoIC4NRNaBv6HUAps3-76" value="SSD缓存设置模块" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;strokeWidth=2;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="621.06" y="310" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="1wgoIC4NRNaBv6HUAps3-77" value="异构存储智能管理模块" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;strokeWidth=2;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="804.98" y="310" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="1wgoIC4NRNaBv6HUAps3-113" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="1wgoIC4NRNaBv6HUAps3-96" target="1wgoIC4NRNaBv6HUAps3-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1wgoIC4NRNaBv6HUAps3-96" value="HDFS集群" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=default;verticalAlign=bottom;align=center;strokeWidth=2;fontSize=20;fontStyle=1;arcSize=8;" vertex="1" parent="1">
+          <mxGeometry x="613" y="616.11" width="340" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="1wgoIC4NRNaBv6HUAps3-97" value="HDFS" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="637.5199999999999" y="635.22" width="291.15" height="47.33" as="geometry" />
+        </mxCell>
+        <mxCell id="1wgoIC4NRNaBv6HUAps3-98" value="HDD硬盘" style="rounded=1;whiteSpace=wrap;html=1;fillColor=default;verticalAlign=bottom;align=center;strokeWidth=2;fontSize=20;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="637.5199999999999" y="697.38" width="290.96" height="115.79" as="geometry" />
+        </mxCell>
+        <mxCell id="1wgoIC4NRNaBv6HUAps3-99" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="677.5199999999999" y="718.1700000000001" width="220" height="57.61" as="geometry" />
+        </mxCell>
+        <mxCell id="1wgoIC4NRNaBv6HUAps3-100" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=4.923858642578182;strokeWidth=2;" vertex="1" parent="1wgoIC4NRNaBv6HUAps3-99">
+          <mxGeometry width="41.76178660049624" height="37.60999999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="1wgoIC4NRNaBv6HUAps3-101" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=4.923858642578182;strokeWidth=2;" vertex="1" parent="1wgoIC4NRNaBv6HUAps3-99">
+          <mxGeometry x="50.446650124069535" width="41.76178660049624" height="37.60999999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="1wgoIC4NRNaBv6HUAps3-102" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=4.923858642578182;strokeWidth=2;" vertex="1" parent="1wgoIC4NRNaBv6HUAps3-99">
+          <mxGeometry x="103.79652605459057" width="41.76178660049624" height="37.60999999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="1wgoIC4NRNaBv6HUAps3-103" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=4.923858642578182;strokeWidth=2;" vertex="1" parent="1wgoIC4NRNaBv6HUAps3-99">
+          <mxGeometry x="153.42431761786597" width="41.76178660049624" height="37.60999999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="1wgoIC4NRNaBv6HUAps3-104" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=4.923858642578182;strokeWidth=2;" vertex="1" parent="1wgoIC4NRNaBv6HUAps3-99">
+          <mxGeometry x="12.406947890818847" y="9.999999999999998" width="41.76178660049624" height="37.60999999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="1wgoIC4NRNaBv6HUAps3-105" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=4.923858642578182;strokeWidth=2;" vertex="1" parent="1wgoIC4NRNaBv6HUAps3-99">
+          <mxGeometry x="62.85359801488838" y="9.999999999999998" width="41.76178660049624" height="37.60999999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="1wgoIC4NRNaBv6HUAps3-106" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=4.923858642578182;strokeWidth=2;" vertex="1" parent="1wgoIC4NRNaBv6HUAps3-99">
+          <mxGeometry x="116.20347394540943" y="9.999999999999998" width="41.76178660049624" height="37.60999999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="1wgoIC4NRNaBv6HUAps3-107" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=4.923858642578182;strokeWidth=2;" vertex="1" parent="1wgoIC4NRNaBv6HUAps3-99">
+          <mxGeometry x="165.83126550868482" y="9.999999999999998" width="41.76178660049624" height="37.60999999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="1wgoIC4NRNaBv6HUAps3-108" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=4.923858642578182;strokeWidth=2;" vertex="1" parent="1wgoIC4NRNaBv6HUAps3-99">
+          <mxGeometry x="24.813895781637694" y="19.999999999999996" width="41.76178660049624" height="37.60999999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="1wgoIC4NRNaBv6HUAps3-109" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=4.923858642578182;strokeWidth=2;" vertex="1" parent="1wgoIC4NRNaBv6HUAps3-99">
+          <mxGeometry x="75.26054590570723" y="19.999999999999996" width="41.76178660049624" height="37.60999999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="1wgoIC4NRNaBv6HUAps3-110" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=4.923858642578182;strokeWidth=2;" vertex="1" parent="1wgoIC4NRNaBv6HUAps3-99">
+          <mxGeometry x="128.61042183622826" y="19.999999999999996" width="41.76178660049624" height="37.60999999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="1wgoIC4NRNaBv6HUAps3-111" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=4.923858642578182;strokeWidth=2;" vertex="1" parent="1wgoIC4NRNaBv6HUAps3-99">
+          <mxGeometry x="178.23821339950365" y="19.999999999999996" width="41.76178660049624" height="37.60999999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="1wgoIC4NRNaBv6HUAps3-112" value="HDFS Driver" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="649.1" y="569" width="130" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
