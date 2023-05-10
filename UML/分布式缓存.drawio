@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-10T11:22:14.472Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.0.0" etag="Bzqg8Ag_laG6vRUzFacb" version="21.2.9" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-05-10T11:25:00.977Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.0.0" etag="63kwMp2IwZGbsfwEfVGr" version="21.2.9" type="github" pages="5">
   <diagram name="第 1 页" id="V5qyhKJIOjs26UayRM4P">
     <mxGraphModel dx="1975" dy="1172" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -928,14 +928,11 @@
         <mxCell id="78qOyjatCHTZfLNPEFZ8-49" value="SSD访问支持模块" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;strokeWidth=2;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="811.1499999999999" y="472.62" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="78qOyjatCHTZfLNPEFZ8-50" value="SSD数据布局模块" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;strokeWidth=2;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="1720" y="570" width="140" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="78qOyjatCHTZfLNPEFZ8-51" value="HDFS访问支持模块" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;strokeWidth=2;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="1030" y="472.62" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="78qOyjatCHTZfLNPEFZ8-52" value="数据缓存模块" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;verticalAlign=bottom;fontStyle=1;strokeWidth=2;arcSize=12;" vertex="1" parent="1">
-          <mxGeometry x="1411.05" y="282.62" width="190" height="282.58" as="geometry" />
+          <mxGeometry x="1411.05" y="279" width="190" height="205.2" as="geometry" />
         </mxCell>
         <mxCell id="78qOyjatCHTZfLNPEFZ8-53" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="791.05" y="280" width="178.94" height="160" as="geometry" />
@@ -950,13 +947,13 @@
           <mxGeometry x="20.099999999999902" y="74.66666666666667" width="139.99999999999994" height="53.333333333333336" as="geometry" />
         </mxCell>
         <mxCell id="78qOyjatCHTZfLNPEFZ8-63" value="SSD缓存设置模块" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;strokeWidth=2;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="1421.81" y="376.62" width="169.24" height="60" as="geometry" />
+          <mxGeometry x="1421.81" y="295.62" width="169.24" height="60" as="geometry" />
         </mxCell>
         <mxCell id="78qOyjatCHTZfLNPEFZ8-64" value="数据热度划分模块" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;strokeWidth=2;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="1421.81" y="295.43999999999994" width="169.24" height="60" as="geometry" />
+          <mxGeometry x="1203.01" y="505.2" width="396.99" height="60" as="geometry" />
         </mxCell>
         <mxCell id="78qOyjatCHTZfLNPEFZ8-65" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="1421.81" y="457.62" width="168.48000000000002" height="80" as="geometry" />
+          <mxGeometry x="1421.81" y="376.62" width="168.48000000000002" height="80" as="geometry" />
         </mxCell>
         <mxCell id="78qOyjatCHTZfLNPEFZ8-66" value="SSD硬盘" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=default;verticalAlign=bottom;align=center;strokeWidth=2;fontSize=20;fontStyle=1" vertex="1" parent="78qOyjatCHTZfLNPEFZ8-65">
           <mxGeometry width="168.48" height="80" as="geometry" />
@@ -970,23 +967,14 @@
         <mxCell id="78qOyjatCHTZfLNPEFZ8-69" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=4.923858642578182;strokeWidth=2;" vertex="1" parent="78qOyjatCHTZfLNPEFZ8-65">
           <mxGeometry x="117.09042183622819" y="10.789999999999964" width="41.76178660049624" height="37.60999999999999" as="geometry" />
         </mxCell>
-        <mxCell id="78qOyjatCHTZfLNPEFZ8-61" value="副本元数据" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;strokeWidth=2;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="1740" y="290" width="140" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="78qOyjatCHTZfLNPEFZ8-62" value="缓存项元数据" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;strokeWidth=2;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="1780" y="390" width="140" height="50" as="geometry" />
-        </mxCell>
         <mxCell id="78qOyjatCHTZfLNPEFZ8-71" value="数据副本模块" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;verticalAlign=bottom;fontStyle=1;strokeWidth=2;arcSize=12;" vertex="1" parent="1">
-          <mxGeometry x="1203.01" y="284.61" width="190" height="282.58" as="geometry" />
+          <mxGeometry x="1203.01" y="279" width="190" height="207.19" as="geometry" />
         </mxCell>
-        <mxCell id="78qOyjatCHTZfLNPEFZ8-72" value="SSD缓存设置模块" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;strokeWidth=2;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="1213.77" y="378.61" width="169.24" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="78qOyjatCHTZfLNPEFZ8-73" value="数据热度划分模块" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;strokeWidth=2;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="1213.77" y="297.42999999999995" width="169.24" height="60" as="geometry" />
+        <mxCell id="78qOyjatCHTZfLNPEFZ8-72" value="广域副本布局模块" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;strokeWidth=2;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="1213.77" y="297.61" width="169.24" height="60" as="geometry" />
         </mxCell>
         <mxCell id="78qOyjatCHTZfLNPEFZ8-74" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="1213.77" y="459.61" width="168.48000000000002" height="80" as="geometry" />
+          <mxGeometry x="1213.77" y="378.61" width="168.48000000000002" height="80" as="geometry" />
         </mxCell>
         <mxCell id="78qOyjatCHTZfLNPEFZ8-75" value="SSD硬盘" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=default;verticalAlign=bottom;align=center;strokeWidth=2;fontSize=20;fontStyle=1" vertex="1" parent="78qOyjatCHTZfLNPEFZ8-74">
           <mxGeometry width="168.48" height="80" as="geometry" />
