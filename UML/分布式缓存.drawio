@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-10T11:12:20.197Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.0.0" etag="_4-ivAPFsq81hQZQRTKU" version="21.2.9" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-05-10T11:12:40.621Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.0.0" etag="NgO4oVXWXzXZ_odYq_so" version="21.2.9" type="github" pages="5">
   <diagram name="第 1 页" id="V5qyhKJIOjs26UayRM4P">
     <mxGraphModel dx="1975" dy="1172" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -778,7 +778,7 @@
         <mxCell id="PgKiKeDyfh7K38lJK2oe-15" value="基于数据热度的广域副本技术" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=18;strokeWidth=2;" vertex="1" parent="PgKiKeDyfh7K38lJK2oe-12">
           <mxGeometry x="21.132095490716175" y="18" width="321.5076923076923" height="47" as="geometry" />
         </mxCell>
-        <mxCell id="PgKiKeDyfh7K38lJK2oe-16" value="基于SSD和HDFS的分布式缓存技术" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=18;strokeWidth=2;" vertex="1" parent="PgKiKeDyfh7K38lJK2oe-12">
+        <mxCell id="PgKiKeDyfh7K38lJK2oe-16" value="细粒度分布式缓存技术" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=18;strokeWidth=2;" vertex="1" parent="PgKiKeDyfh7K38lJK2oe-12">
           <mxGeometry x="381.13176881195017" y="18" width="321.5084210526315" height="47" as="geometry" />
         </mxCell>
       </root>
