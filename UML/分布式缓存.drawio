@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-10T11:11:33.923Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.0.0" etag="1OkvN05Z8a62PEeOklKA" version="21.2.9" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-05-10T11:12:20.197Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.0.0" etag="_4-ivAPFsq81hQZQRTKU" version="21.2.9" type="github" pages="5">
   <diagram name="第 1 页" id="V5qyhKJIOjs26UayRM4P">
     <mxGraphModel dx="1975" dy="1172" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -766,16 +766,16 @@
         <mxCell id="PgKiKeDyfh7K38lJK2oe-11" value="分散HDFS集群聚合访问技术" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=18;strokeWidth=2;" vertex="1" parent="PgKiKeDyfh7K38lJK2oe-7">
           <mxGeometry x="20.158388888888908" y="16.5" width="713.69" height="47" as="geometry" />
         </mxCell>
-        <mxCell id="PgKiKeDyfh7K38lJK2oe-12" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="PgKiKeDyfh7K38lJK2oe-12" value="" style="group;fontStyle=1" vertex="1" connectable="0" parent="1">
           <mxGeometry x="918.02" y="1110" width="720" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="PgKiKeDyfh7K38lJK2oe-13" value="&lt;b style=&quot;font-size: 22px;&quot;&gt;数据热度划分与分布式缓存构建方法&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#D5D5D5;fontColor=#333333;strokeColor=#666666;shadow=1;fontSize=22;verticalAlign=bottom;arcSize=9;" vertex="1" parent="PgKiKeDyfh7K38lJK2oe-12">
+        <mxCell id="PgKiKeDyfh7K38lJK2oe-13" value="广域副本技术与分布式缓存构建" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#D5D5D5;fontColor=#333333;strokeColor=#666666;shadow=1;fontSize=22;verticalAlign=bottom;arcSize=9;fontStyle=1" vertex="1" parent="PgKiKeDyfh7K38lJK2oe-12">
           <mxGeometry width="720" height="160" as="geometry" />
         </mxCell>
         <mxCell id="PgKiKeDyfh7K38lJK2oe-14" value="基于访问特征识别的数据热度划分技术" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=18;strokeWidth=2;" vertex="1" parent="PgKiKeDyfh7K38lJK2oe-12">
           <mxGeometry x="21.132095490716175" y="80" width="681.5076923076923" height="47" as="geometry" />
         </mxCell>
-        <mxCell id="PgKiKeDyfh7K38lJK2oe-15" value="基于访问特征识别的数据热度划分技术" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=18;strokeWidth=2;" vertex="1" parent="PgKiKeDyfh7K38lJK2oe-12">
+        <mxCell id="PgKiKeDyfh7K38lJK2oe-15" value="基于数据热度的广域副本技术" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=18;strokeWidth=2;" vertex="1" parent="PgKiKeDyfh7K38lJK2oe-12">
           <mxGeometry x="21.132095490716175" y="18" width="321.5076923076923" height="47" as="geometry" />
         </mxCell>
         <mxCell id="PgKiKeDyfh7K38lJK2oe-16" value="基于SSD和HDFS的分布式缓存技术" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=18;strokeWidth=2;" vertex="1" parent="PgKiKeDyfh7K38lJK2oe-12">
