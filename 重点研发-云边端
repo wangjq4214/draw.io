@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-25T08:25:00.596Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.0.0" etag="XdAWRSyPQeih3OQKB67_" version="21.3.3" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2023-05-25T08:30:12.374Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.0.0" etag="midNwlBRViEc6Do1nYME" version="21.3.3" type="github" pages="11">
   <diagram name="第 1 页" id="L4o_ePwlVXZFclz4sLev">
     <mxGraphModel dx="1979" dy="4683" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -3046,8 +3046,8 @@
         <mxCell id="StnbP9DWlu7WcyGWsgeF-29" value="&lt;b style=&quot;font-size: 24px;&quot;&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;资&lt;br style=&quot;font-size: 24px;&quot;&gt;源&lt;br style=&quot;font-size: 24px;&quot;&gt;管&lt;br style=&quot;font-size: 24px;&quot;&gt;理&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;" parent="1" vertex="1">
           <mxGeometry x="1010" y="257" width="50" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="StnbP9DWlu7WcyGWsgeF-30" value="&lt;b style=&quot;font-size: 24px;&quot;&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;数&lt;br&gt;据&lt;br&gt;通&lt;br style=&quot;font-size: 24px;&quot;&gt;信&lt;br style=&quot;font-size: 24px;&quot;&gt;基&lt;br style=&quot;font-size: 24px;&quot;&gt;础&lt;br style=&quot;font-size: 24px;&quot;&gt;能&lt;br style=&quot;font-size: 24px;&quot;&gt;力&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;" parent="1" vertex="1">
-          <mxGeometry x="260" y="190" width="50" height="240" as="geometry" />
+        <mxCell id="StnbP9DWlu7WcyGWsgeF-30" value="&lt;b style=&quot;font-size: 24px;&quot;&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;数&lt;br&gt;据&lt;br&gt;与&lt;br&gt;通&lt;br style=&quot;font-size: 24px;&quot;&gt;信&lt;br style=&quot;font-size: 24px;&quot;&gt;基&lt;br style=&quot;font-size: 24px;&quot;&gt;础&lt;br style=&quot;font-size: 24px;&quot;&gt;能&lt;br style=&quot;font-size: 24px;&quot;&gt;力&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;" parent="1" vertex="1">
+          <mxGeometry x="260" y="200" width="50" height="270" as="geometry" />
         </mxCell>
         <mxCell id="StnbP9DWlu7WcyGWsgeF-31" value="&lt;b style=&quot;font-size: 24px;&quot;&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;数据协同&lt;br&gt;服务&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;" parent="1" vertex="1">
           <mxGeometry x="601" y="624" width="120" height="70" as="geometry" />
