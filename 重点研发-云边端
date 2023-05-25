@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-25T08:12:52.021Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.0.0" etag="JxBcxH2ImsIe0TqBM7yh" version="21.3.2" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2023-05-25T08:13:07.195Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.0.0" etag="fwUb04YaDDzHTFlVnKe1" version="21.3.2" type="github" pages="11">
   <diagram name="第 1 页" id="L4o_ePwlVXZFclz4sLev">
     <mxGraphModel dx="1979" dy="4683" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -3340,18 +3340,6 @@
         <mxCell id="StnbP9DWlu7WcyGWsgeF-46" value="存算协同调度" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fontStyle=1;strokeWidth=2;arcSize=12;" parent="1" vertex="1">
           <mxGeometry x="225.44" y="526" width="170" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="RAq3C7SwMaoVWaB5jVWY-78" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="211" y="-3" width="899" height="140" as="geometry" />
-        </mxCell>
-        <mxCell id="StnbP9DWlu7WcyGWsgeF-80" value="五、应用验证" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeWidth=2;fontSize=24;verticalAlign=top;fontStyle=1;spacingBottom=2;fillColor=#d5d5d5;strokeColor=#666666;fontColor=#333333;arcSize=9;" parent="RAq3C7SwMaoVWaB5jVWY-78" vertex="1">
-          <mxGeometry y="10" width="899" height="130" as="geometry" />
-        </mxCell>
-        <mxCell id="StnbP9DWlu7WcyGWsgeF-82" value="智能制造" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fontStyle=1;strokeWidth=2;" parent="RAq3C7SwMaoVWaB5jVWY-78" vertex="1">
-          <mxGeometry x="8.995037273695406" y="63" width="425.0862619808307" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="StnbP9DWlu7WcyGWsgeF-83" value="智慧交通" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fontStyle=1;strokeWidth=2;" parent="RAq3C7SwMaoVWaB5jVWY-78" vertex="1">
-          <mxGeometry x="479.00062832800853" y="63" width="407.37433439829607" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="StnbP9DWlu7WcyGWsgeF-93" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fontSize=24;verticalAlign=bottom;fontStyle=1;spacingBottom=3;strokeWidth=2;arcSize=6;" parent="1" vertex="1">
           <mxGeometry x="211" y="793.048597883598" width="900" height="229" as="geometry" />
         </mxCell>
@@ -3420,6 +3408,15 @@
         </mxCell>
         <mxCell id="StnbP9DWlu7WcyGWsgeF-71" value="智能自适应部署" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fontStyle=1;strokeWidth=2;arcSize=7;" parent="1" vertex="1">
           <mxGeometry x="455.77" y="221.36" width="410.45" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="StnbP9DWlu7WcyGWsgeF-80" value="五、应用验证" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeWidth=2;fontSize=24;verticalAlign=top;fontStyle=1;spacingBottom=2;fillColor=#d5d5d5;strokeColor=#666666;fontColor=#333333;arcSize=9;" parent="1" vertex="1">
+          <mxGeometry x="211" y="7" width="899" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="StnbP9DWlu7WcyGWsgeF-82" value="智能制造" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fontStyle=1;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="219.9950372736954" y="60" width="425.0862619808307" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="StnbP9DWlu7WcyGWsgeF-83" value="智慧交通" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fontStyle=1;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="690.0006283280086" y="60" width="407.37433439829607" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
