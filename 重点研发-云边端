@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-26T11:17:24.355Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.0.0" etag="RUCskufy5Q9txDo0SUCd" version="21.3.4" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2023-05-26T11:17:57.054Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.0.0" etag="VLnFBSbyYoUbLF0Wfp6N" version="21.3.4" type="github" pages="12">
   <diagram name="第 1 页" id="L4o_ePwlVXZFclz4sLev">
     <mxGraphModel dx="1979" dy="4683" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -3560,8 +3560,8 @@
         <mxCell id="_eFI3rP4MPYlqIqKV4vL-37" value="四、去中心化任务管理平台" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeWidth=2;fontSize=24;verticalAlign=bottom;fontStyle=1;spacingBottom=2;fillColor=#d5d5d5;strokeColor=#666666;fontColor=#333333;arcSize=7;" parent="1" vertex="1">
           <mxGeometry x="441" y="201" width="440" height="242" as="geometry" />
         </mxCell>
-        <mxCell id="_eFI3rP4MPYlqIqKV4vL-38" value="&lt;b style=&quot;font-size: 24px;&quot;&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;任务管理&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;" parent="1" vertex="1">
-          <mxGeometry x="660.0010256410256" y="150" width="120" height="40" as="geometry" />
+        <mxCell id="_eFI3rP4MPYlqIqKV4vL-38" value="&lt;b style=&quot;font-size: 24px;&quot;&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;任务管理能力&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;" parent="1" vertex="1">
+          <mxGeometry x="654.0010256410256" y="150" width="170" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_eFI3rP4MPYlqIqKV4vL-39" value="多端运行统一编程框架" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fontStyle=1;strokeWidth=2;arcSize=12;" parent="1" vertex="1">
           <mxGeometry x="457.46" y="353.36" width="408" height="52" as="geometry" />
