@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-26T06:20:00.073Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.50" etag="CBSSmTnbo5mTKnY_PpO4" version="21.3.4" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2023-05-26T06:26:54.109Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.50" etag="F4oveELO4PmnLS5uDFDd" version="21.3.4" type="github" pages="12">
   <diagram name="第 1 页" id="L4o_ePwlVXZFclz4sLev">
     <mxGraphModel dx="4024" dy="5891" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -3422,7 +3422,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="kgThCQRcIFhjSSk8Ayjf" name="第 12 页">
-    <mxGraphModel dx="1437" dy="851" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2515" dy="1490" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3498,7 +3498,7 @@
           <mxGeometry x="211" y="510" width="390" height="230" as="geometry" />
         </mxCell>
         <mxCell id="_eFI3rP4MPYlqIqKV4vL-17" value="跨域虚拟&lt;br&gt;存储空间" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="470" y="630" width="116" height="70" as="geometry" />
+          <mxGeometry x="470.55" y="619" width="116" height="80" as="geometry" />
         </mxCell>
         <mxCell id="_eFI3rP4MPYlqIqKV4vL-18" value="分布式训练通信调度" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fontStyle=1;strokeWidth=2;arcSize=12;spacingLeft=1;spacingBottom=1;" vertex="1" parent="1">
           <mxGeometry x="416.55" y="526" width="170" height="80" as="geometry" />
@@ -3585,10 +3585,10 @@
           <mxGeometry x="690.0006283280086" y="60" width="407.37433439829607" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_eFI3rP4MPYlqIqKV4vL-46" value="通信总线" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fontStyle=1;strokeWidth=2;fillColor=#00FFFF;" vertex="1" parent="1">
-          <mxGeometry x="225.44" y="630" width="116" height="70" as="geometry" />
+          <mxGeometry x="227" y="619" width="116" height="80" as="geometry" />
         </mxCell>
         <mxCell id="_eFI3rP4MPYlqIqKV4vL-47" value="数据总线" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fontStyle=1;strokeWidth=2;fillColor=#66FFFF;" vertex="1" parent="1">
-          <mxGeometry x="348" y="630" width="116" height="70" as="geometry" />
+          <mxGeometry x="349" y="619" width="116" height="80" as="geometry" />
         </mxCell>
         <mxCell id="_eFI3rP4MPYlqIqKV4vL-48" value="端设备统一管理引擎" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fontStyle=1;strokeWidth=2;arcSize=12;spacingLeft=1;spacingBottom=1;fillColor=#00FFFF;" vertex="1" parent="1">
           <mxGeometry x="1040" y="526" width="60" height="174" as="geometry" />
