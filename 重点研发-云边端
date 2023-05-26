@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-26T06:19:09.646Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.50" etag="jbM5WxA5zxXXKU8L8L8j" version="21.3.4" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2023-05-26T06:19:46.100Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.50" etag="C6Vpku3Iyy3MHV9nfYnV" version="21.3.4" type="github" pages="12">
   <diagram name="第 1 页" id="L4o_ePwlVXZFclz4sLev">
     <mxGraphModel dx="4024" dy="5891" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -3462,8 +3462,8 @@
             <mxPoint x="440.0025" y="426" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_eFI3rP4MPYlqIqKV4vL-8" value="&lt;b style=&quot;font-size: 24px;&quot;&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;资&lt;br style=&quot;font-size: 24px;&quot;&gt;源&lt;br style=&quot;font-size: 24px;&quot;&gt;管&lt;br style=&quot;font-size: 24px;&quot;&gt;理&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;" vertex="1" parent="1">
-          <mxGeometry x="1010" y="257" width="50" height="130" as="geometry" />
+        <mxCell id="_eFI3rP4MPYlqIqKV4vL-8" value="&lt;b style=&quot;font-size: 24px;&quot;&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;资&lt;br style=&quot;font-size: 24px;&quot;&gt;源&lt;br style=&quot;font-size: 24px;&quot;&gt;管&lt;br style=&quot;font-size: 24px;&quot;&gt;理&lt;br&gt;能&lt;br&gt;力&lt;br&gt;&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="1010" y="227" width="50" height="190" as="geometry" />
         </mxCell>
         <mxCell id="_eFI3rP4MPYlqIqKV4vL-9" value="&lt;b style=&quot;font-size: 24px;&quot;&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;数&lt;br&gt;据&lt;br&gt;与&lt;br&gt;通&lt;br style=&quot;font-size: 24px;&quot;&gt;信&lt;br style=&quot;font-size: 24px;&quot;&gt;基&lt;br style=&quot;font-size: 24px;&quot;&gt;础&lt;br style=&quot;font-size: 24px;&quot;&gt;能&lt;br style=&quot;font-size: 24px;&quot;&gt;力&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="260" y="200" width="50" height="270" as="geometry" />
