@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-05-26T11:17:57.054Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.0.0" etag="VLnFBSbyYoUbLF0Wfp6N" version="21.3.4" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2023-05-27T03:33:46.988Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.50" etag="xRYbTu0RtrJUck-V1oTL" version="21.3.4" type="github" pages="12">
   <diagram name="第 1 页" id="L4o_ePwlVXZFclz4sLev">
-    <mxGraphModel dx="1979" dy="4683" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1006" dy="4103" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1824,7 +1824,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="TyVz0DJ_V80fcL-fX5c7" name="第 8 页">
-    <mxGraphModel dx="1215" dy="2872" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="-648" dy="1765" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3422,7 +3422,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="kgThCQRcIFhjSSk8Ayjf" name="第 12 页">
-    <mxGraphModel dx="1979" dy="1176" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3173" dy="1324" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3498,7 +3498,7 @@
           <mxGeometry x="211" y="510" width="390" height="230" as="geometry" />
         </mxCell>
         <mxCell id="_eFI3rP4MPYlqIqKV4vL-17" value="跨域虚拟&lt;br&gt;存储空间" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fontStyle=1;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="470.55" y="619" width="116" height="80" as="geometry" />
+          <mxGeometry x="443.55" y="619" width="116" height="80" as="geometry" />
         </mxCell>
         <mxCell id="_eFI3rP4MPYlqIqKV4vL-18" value="分布式训练&lt;br&gt;通信调度" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fontStyle=1;strokeWidth=2;arcSize=12;spacingLeft=1;spacingBottom=1;" parent="1" vertex="1">
           <mxGeometry x="416.55" y="526" width="170" height="80" as="geometry" />
@@ -3579,10 +3579,7 @@
           <mxGeometry x="211.18499999999995" y="7" width="899" height="130" as="geometry" />
         </mxCell>
         <mxCell id="_eFI3rP4MPYlqIqKV4vL-46" value="通信隧道" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fontStyle=1;strokeWidth=2;fillColor=#00FFFF;" parent="1" vertex="1">
-          <mxGeometry x="227" y="619" width="116" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="_eFI3rP4MPYlqIqKV4vL-47" value="数据隧道" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fontStyle=1;strokeWidth=2;fillColor=#66FFFF;" parent="1" vertex="1">
-          <mxGeometry x="349" y="619" width="116" height="80" as="geometry" />
+          <mxGeometry x="270" y="619" width="116" height="80" as="geometry" />
         </mxCell>
         <mxCell id="_eFI3rP4MPYlqIqKV4vL-48" value="端设备统一管理引擎" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fontStyle=1;strokeWidth=2;arcSize=12;spacingLeft=1;spacingBottom=1;fillColor=#00FFFF;" parent="1" vertex="1">
           <mxGeometry x="1040" y="526" width="59.37" height="179" as="geometry" />
@@ -3614,7 +3611,7 @@
         <mxCell id="_eFI3rP4MPYlqIqKV4vL-56" value="&lt;b&gt;资源&lt;br&gt;布局信息&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;" parent="1" vertex="1">
           <mxGeometry x="601.46" y="567" width="120" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="tsEJuIoQ8Kko6BYQm4Zl-1" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="tsEJuIoQ8Kko6BYQm4Zl-1" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="221.99503727369535" y="60" width="877.3799254526092" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_eFI3rP4MPYlqIqKV4vL-44" value="智能制造" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fontStyle=1;strokeWidth=2;" parent="tsEJuIoQ8Kko6BYQm4Zl-1" vertex="1">
