@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-28T06:55:08.115Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.0.0" etag="bIH-WTAVL8DVKifW1uMs" version="21.3.4" type="github" pages="13">
+<mxfile host="app.diagrams.net" modified="2023-05-28T07:00:53.544Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.0.0" etag="Qgxwlx6QPPy8mal5HARt" version="21.3.4" type="github" pages="13">
   <diagram name="第 1 页" id="L4o_ePwlVXZFclz4sLev">
     <mxGraphModel dx="1979" dy="4683" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -3637,8 +3637,8 @@
             <mxPoint x="210.00500000000045" y="735" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rwHXB8lBvq-fGMTGr4Ia-4" value="&lt;b style=&quot;font-size: 24px;&quot;&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;存算网资源&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;" parent="1" vertex="1">
-          <mxGeometry x="740" y="900" width="140" height="40" as="geometry" />
+        <mxCell id="rwHXB8lBvq-fGMTGr4Ia-4" value="&lt;b style=&quot;font-size: 24px;&quot;&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;存储、网络和计算资源&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;" parent="1" vertex="1">
+          <mxGeometry x="710" y="860" width="260" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rwHXB8lBvq-fGMTGr4Ia-3" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.359;entryY=1;entryDx=0;entryDy=0;strokeWidth=3;fontSize=24;exitX=0.759;exitY=0.001;exitDx=0;exitDy=0;exitPerimeter=0;entryPerimeter=0;" parent="1" source="rwHXB8lBvq-fGMTGr4Ia-20" target="rwHXB8lBvq-fGMTGr4Ia-32" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -3665,11 +3665,11 @@
             <mxPoint x="250.0025" y="419" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rwHXB8lBvq-fGMTGr4Ia-8" value="&lt;b style=&quot;font-size: 24px;&quot;&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;资&lt;br style=&quot;font-size: 24px;&quot;&gt;源&lt;br style=&quot;font-size: 24px;&quot;&gt;管&lt;br style=&quot;font-size: 24px;&quot;&gt;理&lt;br&gt;能&lt;br&gt;力&lt;br&gt;&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;" parent="1" vertex="1">
+        <mxCell id="rwHXB8lBvq-fGMTGr4Ia-8" value="&lt;b style=&quot;font-size: 24px;&quot;&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;资&lt;br style=&quot;font-size: 24px;&quot;&gt;源&lt;br style=&quot;font-size: 24px;&quot;&gt;管&lt;br style=&quot;font-size: 24px;&quot;&gt;理&lt;br&gt;服&lt;br&gt;务&lt;br&gt;&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;" parent="1" vertex="1">
           <mxGeometry x="839.6600000000001" y="220" width="50" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="rwHXB8lBvq-fGMTGr4Ia-9" value="&lt;b style=&quot;font-size: 24px;&quot;&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;数&lt;br&gt;据&lt;br&gt;与&lt;br&gt;通&lt;br style=&quot;font-size: 24px;&quot;&gt;信&lt;br style=&quot;font-size: 24px;&quot;&gt;基&lt;br style=&quot;font-size: 24px;&quot;&gt;础&lt;br style=&quot;font-size: 24px;&quot;&gt;能&lt;br style=&quot;font-size: 24px;&quot;&gt;力&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;" parent="1" vertex="1">
-          <mxGeometry x="70" y="193" width="50" height="270" as="geometry" />
+        <mxCell id="rwHXB8lBvq-fGMTGr4Ia-9" value="&lt;b style=&quot;font-size: 24px;&quot;&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;数&lt;br&gt;据&lt;br&gt;与&lt;br&gt;通&lt;br style=&quot;font-size: 24px;&quot;&gt;信&lt;br style=&quot;font-size: 24px;&quot;&gt;基&lt;br style=&quot;font-size: 24px;&quot;&gt;础&lt;br&gt;服&lt;br&gt;务&lt;br&gt;&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;" parent="1" vertex="1">
+          <mxGeometry x="53.09" y="180" width="50" height="270" as="geometry" />
         </mxCell>
         <mxCell id="rwHXB8lBvq-fGMTGr4Ia-10" value="&lt;b style=&quot;font-size: 24px;&quot;&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;数据协同&lt;br&gt;服务&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;" parent="1" vertex="1">
           <mxGeometry x="410.5" y="674" width="120" height="70" as="geometry" />
@@ -3773,7 +3773,7 @@
         <mxCell id="rwHXB8lBvq-fGMTGr4Ia-37" value="四、去中心化任务管理平台" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeWidth=2;fontSize=24;verticalAlign=bottom;fontStyle=1;spacingBottom=2;fillColor=#d5d5d5;strokeColor=#666666;fontColor=#333333;arcSize=7;" parent="1" vertex="1">
           <mxGeometry x="251" y="150" width="439" height="286" as="geometry" />
         </mxCell>
-        <mxCell id="rwHXB8lBvq-fGMTGr4Ia-38" value="&lt;b style=&quot;font-size: 24px;&quot;&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;任务管理能力&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;" parent="1" vertex="1">
+        <mxCell id="rwHXB8lBvq-fGMTGr4Ia-38" value="&lt;b style=&quot;font-size: 24px;&quot;&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;任务管理服务&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;" parent="1" vertex="1">
           <mxGeometry x="469.5910256410258" y="110" width="170" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rwHXB8lBvq-fGMTGr4Ia-39" value="多端运行统一编程框架" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fontStyle=1;strokeWidth=2;arcSize=12;" parent="1" vertex="1">
@@ -3806,8 +3806,8 @@
             <mxPoint x="157.40999999999997" y="503" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rwHXB8lBvq-fGMTGr4Ia-48" value="&lt;b style=&quot;font-size: 24px;&quot;&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;数据访问&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;" parent="1" vertex="1">
-          <mxGeometry x="145" y="433" width="120" height="40" as="geometry" />
+        <mxCell id="rwHXB8lBvq-fGMTGr4Ia-48" value="&lt;b style=&quot;font-size: 24px;&quot;&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;数据视图访问&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;" parent="1" vertex="1">
+          <mxGeometry x="98.25" y="425" width="170" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rwHXB8lBvq-fGMTGr4Ia-49" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=3;fontSize=24;entryX=0.576;entryY=0.003;entryDx=0;entryDy=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;endFill=1;startArrow=none;startFill=0;entryPerimeter=0;" parent="1" target="rwHXB8lBvq-fGMTGr4Ia-32" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
