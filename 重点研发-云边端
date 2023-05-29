@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-29T08:43:51.804Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.0.0" etag="KTdpl2CYbyctXjs87cTV" version="21.3.5" type="github" pages="13">
+<mxfile host="app.diagrams.net" modified="2023-05-29T08:53:31.500Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.0.0" etag="fHlFUIwill0h5xE9ePnK" version="21.3.5" type="github" pages="13">
   <diagram name="第 1 页" id="L4o_ePwlVXZFclz4sLev">
     <mxGraphModel dx="1979" dy="4683" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -4059,7 +4059,7 @@
         <mxCell id="e80jbUs_l5vt1kyUylv6-3" value="跨域虚拟存储空间" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="3110" y="667.55" width="320" height="68.45" as="geometry" />
         </mxCell>
-        <mxCell id="e80jbUs_l5vt1kyUylv6-4" value="分布式训练&lt;br&gt;通信调度" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fontStyle=1;strokeWidth=2;arcSize=12;spacingLeft=1;spacingBottom=1;" vertex="1" parent="1">
+        <mxCell id="e80jbUs_l5vt1kyUylv6-4" value="分布式训练通信调度" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fontStyle=1;strokeWidth=2;arcSize=12;spacingLeft=1;spacingBottom=1;" vertex="1" parent="1">
           <mxGeometry x="2700" y="552" width="320" height="65" as="geometry" />
         </mxCell>
         <mxCell id="e80jbUs_l5vt1kyUylv6-5" value="存算协同调度" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fontStyle=1;strokeWidth=2;arcSize=12;" vertex="1" parent="1">
