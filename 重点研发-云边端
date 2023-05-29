@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-29T03:25:57.070Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.0.0" etag="eZMBeEmEbkAgzXrPa1Wa" version="21.3.5" type="github" pages="13">
+<mxfile host="app.diagrams.net" modified="2023-05-29T03:27:22.103Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.0.0" etag="HPjOMaDDl4aiEmnJw_Tu" version="21.3.5" type="github" pages="13">
   <diagram name="第 1 页" id="L4o_ePwlVXZFclz4sLev">
     <mxGraphModel dx="1979" dy="4683" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -3764,7 +3764,7 @@
             <mxPoint x="575" y="630" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rwHXB8lBvq-fGMTGr4Ia-52" value="&lt;b&gt;资源布局&lt;br&gt;信息&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;" parent="1" vertex="1">
+        <mxCell id="rwHXB8lBvq-fGMTGr4Ia-52" value="&lt;b&gt;资源协同&lt;br&gt;服务&lt;br&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;" parent="1" vertex="1">
           <mxGeometry x="400.00000000000006" y="579" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="rwHXB8lBvq-fGMTGr4Ia-53" value="" style="group" parent="1" vertex="1" connectable="0">
