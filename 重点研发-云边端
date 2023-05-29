@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-29T08:42:19.621Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.0.0" etag="0HfsQsQCxi_5hPkjHmvf" version="21.3.5" type="github" pages="13">
+<mxfile host="app.diagrams.net" modified="2023-05-29T08:42:44.534Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.0.0" etag="T8SyY1uM-D9yxMULc69m" version="21.3.5" type="github" pages="13">
   <diagram name="第 1 页" id="L4o_ePwlVXZFclz4sLev">
     <mxGraphModel dx="1979" dy="4683" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -4098,7 +4098,13 @@
           <mxGeometry x="3270" y="750" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="e80jbUs_l5vt1kyUylv6-19" value="提供通信能力" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="2860" y="750" width="150" height="30" as="geometry" />
+          <mxGeometry x="2710" y="750" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="e80jbUs_l5vt1kyUylv6-20" value="提供数据视图" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="3270" y="629" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="e80jbUs_l5vt1kyUylv6-21" value="提供数据视图" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="2710" y="629" width="150" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
