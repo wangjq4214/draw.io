@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-29T03:28:43.969Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.0.0" etag="eh5eVm2HugrwT-jcUCB0" version="21.3.5" type="github" pages="13">
+<mxfile host="app.diagrams.net" modified="2023-05-29T03:29:16.057Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.0.0" etag="SxU7GWt4QfPme1mypdwv" version="21.3.5" type="github" pages="13">
   <diagram name="第 1 页" id="L4o_ePwlVXZFclz4sLev">
     <mxGraphModel dx="1979" dy="4683" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -3860,8 +3860,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="wSTuqofOH-LCrIWuPda8-3" value="&lt;b style=&quot;font-size: 24px;&quot;&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;存储、网络和计算资源&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;" vertex="1" parent="1">
-          <mxGeometry x="1539.5900000000001" y="825" width="260" height="40" as="geometry" />
+        <mxCell id="wSTuqofOH-LCrIWuPda8-3" value="&lt;b style=&quot;font-size: 24px;&quot;&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;云边端资源&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="1654.0000000000002" y="825" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wSTuqofOH-LCrIWuPda8-4" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeWidth=3;fontSize=24;exitX=0.789;exitY=0.001;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="wSTuqofOH-LCrIWuPda8-50" target="wSTuqofOH-LCrIWuPda8-42">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -3984,8 +3984,8 @@
         <mxCell id="wSTuqofOH-LCrIWuPda8-39" value="分布式训练&lt;br&gt;计算框架" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fontStyle=1;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="1071.19" y="598.5" width="180" height="65" as="geometry" />
         </mxCell>
-        <mxCell id="wSTuqofOH-LCrIWuPda8-40" value="存储与网络资源" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="1269" y="830" width="188.16" height="30" as="geometry" />
+        <mxCell id="wSTuqofOH-LCrIWuPda8-40" value="云边端资源" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1270.01" y="830" width="135.08" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wSTuqofOH-LCrIWuPda8-41" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="1601.38" y="513" width="401" height="307" as="geometry" />
