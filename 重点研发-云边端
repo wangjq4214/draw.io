@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-30T12:31:21.961Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.0.0" etag="ocXs0L0Onu9WwkaYqTEV" version="21.3.5" type="github" pages="14">
+<mxfile host="app.diagrams.net" modified="2023-05-30T13:40:11.413Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.0.0" etag="x9m3e1ON1HNoXuLWTxSb" version="21.3.5" type="github" pages="14">
   <diagram name="第 1 页" id="L4o_ePwlVXZFclz4sLev">
     <mxGraphModel dx="1979" dy="4683" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -4292,7 +4292,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="I3IDxuofVSOUulWOXdMC" name="第 14 页">
-    <mxGraphModel dx="1152" dy="2345" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1885" dy="2289" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4497,6 +4497,33 @@
         </mxCell>
         <mxCell id="ADrGquzBKpFYP_pL4U5f-56" value="多模型协同任务编排" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fontStyle=1;strokeWidth=2;container=0;" vertex="1" parent="1">
           <mxGeometry x="2012.6879730265837" y="835.3025661375661" width="267.1626906084499" height="47.301587301587304" as="geometry" />
+        </mxCell>
+        <mxCell id="ADrGquzBKpFYP_pL4U5f-59" value="研究内容" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dde0f5;strokeColor=none;arcSize=9;fontSize=24;fontStyle=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="-210.5" width="190" height="1160" as="geometry" />
+        </mxCell>
+        <mxCell id="ADrGquzBKpFYP_pL4U5f-60" value="可形变计算结构、可重构互连存储架构、多模型协同任务编排" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeWidth=2;fontSize=24;verticalAlign=middle;fontStyle=1;spacingBottom=2;arcSize=9;" vertex="1" parent="1">
+          <mxGeometry x="1093" y="-162" width="165" height="165" as="geometry" />
+        </mxCell>
+        <mxCell id="ADrGquzBKpFYP_pL4U5f-61" value="跨域虚拟存储空间构建、广域存算协同调度与分布式训练通信调度" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeWidth=2;fontSize=24;verticalAlign=middle;fontStyle=1;spacingBottom=2;arcSize=9;" vertex="1" parent="1">
+          <mxGeometry x="1093" y="40" width="165" height="165" as="geometry" />
+        </mxCell>
+        <mxCell id="ADrGquzBKpFYP_pL4U5f-62" value="算网存异构资源的融合和实时感知、异构资源的多维度统一抽象与广域协同管理" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeWidth=2;fontSize=24;verticalAlign=middle;fontStyle=1;spacingBottom=2;arcSize=9;" vertex="1" parent="1">
+          <mxGeometry x="1092.5" y="250" width="165" height="185" as="geometry" />
+        </mxCell>
+        <mxCell id="ADrGquzBKpFYP_pL4U5f-63" value="广域异构动态环境分布式任务管理框架、智能自适应部署、动态互调用与热迁移、多端运行统一编程模式" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeWidth=2;fontSize=24;verticalAlign=middle;fontStyle=1;spacingBottom=2;arcSize=9;" vertex="1" parent="1">
+          <mxGeometry x="1092.5" y="480" width="165" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="ADrGquzBKpFYP_pL4U5f-64" value="智能制造、智慧交通等典型应用验证" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeWidth=2;fontSize=24;verticalAlign=middle;fontStyle=1;spacingBottom=2;arcSize=9;" vertex="1" parent="1">
+          <mxGeometry x="1092.5" y="766.45" width="165" height="165" as="geometry" />
+        </mxCell>
+        <mxCell id="ADrGquzBKpFYP_pL4U5f-65" value="科学问题" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dde0f5;strokeColor=none;arcSize=9;fontSize=24;fontStyle=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="810" y="-210.5" width="190" height="1160" as="geometry" />
+        </mxCell>
+        <mxCell id="ADrGquzBKpFYP_pL4U5f-66" value="跨云边端协同应用迫切需要定制芯粒、跨域分布式计算、一体化高效资源管理、去中心化任务管理的云边端协同芯粒结构和系统软件" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeWidth=2;fontSize=22;verticalAlign=bottom;fontStyle=1;spacingBottom=2;arcSize=9;align=center;spacing=4;" vertex="1" parent="1">
+          <mxGeometry x="822.5" y="-162" width="165" height="282" as="geometry" />
+        </mxCell>
+        <mxCell id="ADrGquzBKpFYP_pL4U5f-67" value="应用需求" style="text;html=1;strokeColor=none;fillColor=#FF8000;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=24;fontStyle=1;shadow=0;arcSize=50;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="822.5" y="-162" width="165" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
