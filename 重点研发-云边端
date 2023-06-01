@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-01T02:44:53.171Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.0.0" etag="KwQoIhR97ETCj7yjnelW" version="21.3.5" type="github" pages="14">
+<mxfile host="app.diagrams.net" modified="2023-06-01T02:45:33.989Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.0.0" etag="Dq1JHOD78i7StrHt3-4Q" version="21.3.5" type="github" pages="14">
   <diagram name="第 1 页" id="L4o_ePwlVXZFclz4sLev">
     <mxGraphModel dx="1979" dy="4683" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -4579,83 +4579,86 @@
         <mxCell id="ADrGquzBKpFYP_pL4U5f-82" value="预期效果" style="text;html=1;strokeColor=none;fillColor=#99CCFF;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=24;fontStyle=1;shadow=0;arcSize=50;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="822.5" y="806" width="165" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="kAR9X9wcNFrxkvMmTkeS-22" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=19.23076923076923;endSize=8.319230769230769;endWidth=41.42011834319526;strokeWidth=3;fillColor=default;" edge="1" parent="1">
+        <mxCell id="kAR9X9wcNFrxkvMmTkeS-34" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-185" y="-310" width="895" height="700" as="geometry" />
+        </mxCell>
+        <mxCell id="kAR9X9wcNFrxkvMmTkeS-22" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=19.23076923076923;endSize=8.319230769230769;endWidth=41.42011834319526;strokeWidth=3;fillColor=default;" edge="1" parent="kAR9X9wcNFrxkvMmTkeS-34">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="196.99999999999955" y="-203.84946236559335" as="sourcePoint" />
-            <mxPoint x="197" y="-156" as="targetPoint" />
+            <mxPoint x="455.8533333333328" y="93.46588219381718" as="sourcePoint" />
+            <mxPoint x="455.85333333333335" y="135.59748427672955" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kAR9X9wcNFrxkvMmTkeS-23" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=19.23076923076923;endSize=8.319230769230769;endWidth=41.42011834319526;strokeWidth=3;fillColor=default;" edge="1" parent="1">
+        <mxCell id="kAR9X9wcNFrxkvMmTkeS-23" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=19.23076923076923;endSize=8.319230769230769;endWidth=41.42011834319526;strokeWidth=3;fillColor=default;" edge="1" parent="kAR9X9wcNFrxkvMmTkeS-34">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="196.99999999999955" y="27.00053763440664" as="sourcePoint" />
-            <mxPoint x="197" y="74.85" as="targetPoint" />
+            <mxPoint x="455.8533333333328" y="296.73003313721347" as="sourcePoint" />
+            <mxPoint x="455.85333333333335" y="338.86163522012583" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kAR9X9wcNFrxkvMmTkeS-29" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=19.23076923076923;endSize=8.319230769230769;endWidth=41.42011834319526;strokeWidth=3;fillColor=default;" edge="1" parent="1">
+        <mxCell id="kAR9X9wcNFrxkvMmTkeS-29" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=19.23076923076923;endSize=8.319230769230769;endWidth=41.42011834319526;strokeWidth=3;fillColor=default;" edge="1" parent="kAR9X9wcNFrxkvMmTkeS-34">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="196.99999999999955" y="304.15053763440665" as="sourcePoint" />
-            <mxPoint x="197" y="352" as="targetPoint" />
+            <mxPoint x="455.8533333333328" y="540.7614796780939" as="sourcePoint" />
+            <mxPoint x="455.85333333333335" y="582.8930817610063" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kAR9X9wcNFrxkvMmTkeS-30" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-185" y="363" width="750" height="122" as="geometry" />
+        <mxCell id="kAR9X9wcNFrxkvMmTkeS-30" value="" style="group" vertex="1" connectable="0" parent="kAR9X9wcNFrxkvMmTkeS-34">
+          <mxGeometry y="592.5786163522013" width="895" height="107.42138364779875" as="geometry" />
         </mxCell>
         <mxCell id="kAR9X9wcNFrxkvMmTkeS-12" value="研究目标" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=2;fontSize=22;verticalAlign=bottom;fontStyle=1;spacingBottom=2;arcSize=9;align=center;spacing=4;fillColor=#3399FF;" vertex="1" parent="kAR9X9wcNFrxkvMmTkeS-30">
-          <mxGeometry width="750" height="122" as="geometry" />
+          <mxGeometry width="895" height="107.42138364779875" as="geometry" />
         </mxCell>
         <mxCell id="kAR9X9wcNFrxkvMmTkeS-13" value="&lt;div&gt;突破面向云边端协同的芯粒结构与系统软件构建关键技术&lt;/div&gt;&lt;div&gt;形成面向云边端协同的芯粒结构与系统软件，在典型场景开展应用验证&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=2;fontSize=22;verticalAlign=middle;fontStyle=1;spacingBottom=2;arcSize=9;align=center;spacing=4;" vertex="1" parent="kAR9X9wcNFrxkvMmTkeS-30">
-          <mxGeometry x="10" y="10" width="730" height="72" as="geometry" />
+          <mxGeometry x="11.933333333333334" y="8.80503144654088" width="871.1333333333333" height="63.396226415094354" as="geometry" />
         </mxCell>
-        <mxCell id="kAR9X9wcNFrxkvMmTkeS-31" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-185" y="83" width="750" height="215" as="geometry" />
+        <mxCell id="kAR9X9wcNFrxkvMmTkeS-31" value="" style="group" vertex="1" connectable="0" parent="kAR9X9wcNFrxkvMmTkeS-34">
+          <mxGeometry y="346.0377358490566" width="895" height="189.30817610062894" as="geometry" />
         </mxCell>
         <mxCell id="kAR9X9wcNFrxkvMmTkeS-9" value="关键技术" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=2;fontSize=22;verticalAlign=bottom;fontStyle=1;spacingBottom=2;arcSize=9;align=center;spacing=4;fillColor=#66B2FF;" vertex="1" parent="kAR9X9wcNFrxkvMmTkeS-31">
-          <mxGeometry width="750" height="215" as="geometry" />
+          <mxGeometry width="895" height="189.30817610062894" as="geometry" />
         </mxCell>
         <mxCell id="kAR9X9wcNFrxkvMmTkeS-28" value="" style="group" vertex="1" connectable="0" parent="kAR9X9wcNFrxkvMmTkeS-31">
-          <mxGeometry x="7.625" y="7" width="734.75" height="170" as="geometry" />
+          <mxGeometry x="9.099166666666667" y="6.163522012578617" width="876.8016666666667" height="149.685534591195" as="geometry" />
         </mxCell>
         <mxCell id="kAR9X9wcNFrxkvMmTkeS-24" value="可形变计算结构、可重构互连存储架构、多模型协同任务编排" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=2;fontSize=21;verticalAlign=middle;fontStyle=1;spacingBottom=2;arcSize=9;" vertex="1" parent="kAR9X9wcNFrxkvMmTkeS-28">
-          <mxGeometry width="155" height="170" as="geometry" />
+          <mxGeometry width="184.96666666666667" height="149.685534591195" as="geometry" />
         </mxCell>
         <mxCell id="kAR9X9wcNFrxkvMmTkeS-25" value="跨域虚拟存储空间构建、广域存算协同调度与分布式训练通信调度" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=2;fontSize=21;verticalAlign=middle;fontStyle=1;spacingBottom=2;arcSize=9;" vertex="1" parent="kAR9X9wcNFrxkvMmTkeS-28">
-          <mxGeometry x="193" width="155" height="170" as="geometry" />
+          <mxGeometry x="230.31333333333333" width="184.96666666666667" height="149.685534591195" as="geometry" />
         </mxCell>
         <mxCell id="kAR9X9wcNFrxkvMmTkeS-26" value="算网存异构资源的融合和实时感知、异构资源的多维度统一抽象与广域协同管理" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=2;fontSize=21;verticalAlign=middle;fontStyle=1;spacingBottom=2;arcSize=9;" vertex="1" parent="kAR9X9wcNFrxkvMmTkeS-28">
-          <mxGeometry x="387" width="155" height="170" as="geometry" />
+          <mxGeometry x="461.82" width="184.96666666666667" height="149.685534591195" as="geometry" />
         </mxCell>
         <mxCell id="kAR9X9wcNFrxkvMmTkeS-27" value="分布式任务管理框架、智能自适应部署、动态互调用与热迁移、多端运行统一编程模式" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=2;fontSize=21;verticalAlign=middle;fontStyle=1;spacingBottom=2;arcSize=9;" vertex="1" parent="kAR9X9wcNFrxkvMmTkeS-28">
-          <mxGeometry x="579.75" width="155" height="170" as="geometry" />
+          <mxGeometry x="691.835" width="184.96666666666667" height="149.685534591195" as="geometry" />
         </mxCell>
-        <mxCell id="kAR9X9wcNFrxkvMmTkeS-32" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-185" y="-150" width="750" height="170" as="geometry" />
+        <mxCell id="kAR9X9wcNFrxkvMmTkeS-32" value="" style="group" vertex="1" connectable="0" parent="kAR9X9wcNFrxkvMmTkeS-34">
+          <mxGeometry y="140.88050314465409" width="895" height="149.685534591195" as="geometry" />
         </mxCell>
         <mxCell id="kAR9X9wcNFrxkvMmTkeS-6" value="科学问题" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=2;fontSize=22;verticalAlign=bottom;fontStyle=1;spacingBottom=2;arcSize=9;align=center;spacing=4;fillColor=#99CCFF;" vertex="1" parent="kAR9X9wcNFrxkvMmTkeS-32">
-          <mxGeometry width="750" height="170" as="geometry" />
+          <mxGeometry width="895" height="149.685534591195" as="geometry" />
         </mxCell>
         <mxCell id="kAR9X9wcNFrxkvMmTkeS-15" value="1.如何设计面向云边端协同的关键领域定制芯粒结构" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=2;fontSize=22;verticalAlign=middle;fontStyle=1;spacingBottom=2;arcSize=9;align=center;spacing=4;" vertex="1" parent="kAR9X9wcNFrxkvMmTkeS-32">
-          <mxGeometry x="10" y="13" width="155" height="112" as="geometry" />
+          <mxGeometry x="11.933333333333334" y="11.446540880503147" width="184.96666666666667" height="98.61635220125788" as="geometry" />
         </mxCell>
         <mxCell id="kAR9X9wcNFrxkvMmTkeS-16" value="2.如何构建面向云边端协同的跨域分布式计算基础架构" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=2;fontSize=22;verticalAlign=middle;fontStyle=1;spacingBottom=2;arcSize=9;align=center;spacing=4;" vertex="1" parent="kAR9X9wcNFrxkvMmTkeS-32">
-          <mxGeometry x="201.5" y="8" width="155" height="122" as="geometry" />
+          <mxGeometry x="240.45666666666668" y="7.0440251572327055" width="184.96666666666667" height="107.42138364779876" as="geometry" />
         </mxCell>
         <mxCell id="kAR9X9wcNFrxkvMmTkeS-17" value="3.如何实现面向云边端协同的一体化高效资源管理" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=2;fontSize=22;verticalAlign=middle;fontStyle=1;spacingBottom=2;arcSize=9;align=center;spacing=4;" vertex="1" parent="kAR9X9wcNFrxkvMmTkeS-32">
-          <mxGeometry x="393.5" y="13" width="155" height="112" as="geometry" />
+          <mxGeometry x="469.57666666666665" y="11.446540880503147" width="184.96666666666667" height="98.61635220125788" as="geometry" />
         </mxCell>
         <mxCell id="kAR9X9wcNFrxkvMmTkeS-18" value="4.如何实现面向云边端协同的去中心化任务管理" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=2;fontSize=22;verticalAlign=middle;fontStyle=1;spacingBottom=2;arcSize=9;align=center;spacing=4;" vertex="1" parent="kAR9X9wcNFrxkvMmTkeS-32">
-          <mxGeometry x="585" y="13" width="155" height="112" as="geometry" />
+          <mxGeometry x="698.1" y="11.446540880503147" width="184.96666666666667" height="98.61635220125788" as="geometry" />
         </mxCell>
-        <mxCell id="kAR9X9wcNFrxkvMmTkeS-33" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-185" y="-310" width="750" height="100" as="geometry" />
+        <mxCell id="kAR9X9wcNFrxkvMmTkeS-33" value="" style="group" vertex="1" connectable="0" parent="kAR9X9wcNFrxkvMmTkeS-34">
+          <mxGeometry width="895" height="88.05031446540882" as="geometry" />
         </mxCell>
         <mxCell id="kAR9X9wcNFrxkvMmTkeS-2" value="国家战略" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=2;fontSize=22;verticalAlign=bottom;fontStyle=1;spacingBottom=2;arcSize=9;align=center;spacing=4;fillColor=#CCE5FF;" vertex="1" parent="kAR9X9wcNFrxkvMmTkeS-33">
-          <mxGeometry width="750" height="100" as="geometry" />
+          <mxGeometry width="895" height="88.05031446540882" as="geometry" />
         </mxCell>
         <mxCell id="kAR9X9wcNFrxkvMmTkeS-3" value="新一代人工智能发展规划" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=2;fontSize=22;verticalAlign=middle;fontStyle=1;spacingBottom=2;arcSize=9;align=center;spacing=4;" vertex="1" parent="kAR9X9wcNFrxkvMmTkeS-33">
-          <mxGeometry x="7.5" y="10" width="345" height="50" as="geometry" />
+          <mxGeometry x="8.95" y="8.80503144654088" width="411.7" height="44.02515723270441" as="geometry" />
         </mxCell>
         <mxCell id="kAR9X9wcNFrxkvMmTkeS-4" value="“十四五”数字经济发展规划" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=2;fontSize=22;verticalAlign=middle;fontStyle=1;spacingBottom=2;arcSize=9;align=center;spacing=4;" vertex="1" parent="kAR9X9wcNFrxkvMmTkeS-33">
-          <mxGeometry x="397.5" y="10" width="345" height="50" as="geometry" />
+          <mxGeometry x="474.35" y="8.80503144654088" width="411.7" height="44.02515723270441" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
