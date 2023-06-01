@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-01T06:02:35.462Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.0.0" etag="WKL3H-_1ZvhajKUSOVAj" version="21.3.5" type="github" pages="14">
+<mxfile host="app.diagrams.net" modified="2023-06-01T06:03:08.240Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.0.0" etag="ov0TnrDdvvFwlU2boJ05" version="21.3.5" type="github" pages="14">
   <diagram name="第 1 页" id="L4o_ePwlVXZFclz4sLev">
     <mxGraphModel dx="1979" dy="4683" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -4687,7 +4687,7 @@
         <mxCell id="HZyA5QhAcqdJ_mSat4kC-6" value="研究目标" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=2;fontSize=22;verticalAlign=bottom;fontStyle=1;spacingBottom=2;arcSize=9;align=center;spacing=4;fillColor=#3399FF;" vertex="1" parent="HZyA5QhAcqdJ_mSat4kC-5">
           <mxGeometry width="895" height="107.42138364779875" as="geometry" />
         </mxCell>
-        <mxCell id="HZyA5QhAcqdJ_mSat4kC-7" value="&lt;div&gt;突破面向云边端协同的芯粒结构与系统软件构建关键技术&lt;/div&gt;&lt;div&gt;形成面向云边端协同的芯粒结构与系统软件，在典型场景开展应用验证&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=2;fontSize=22;verticalAlign=middle;fontStyle=1;spacingBottom=2;arcSize=9;align=center;spacing=4;" vertex="1" parent="HZyA5QhAcqdJ_mSat4kC-5">
+        <mxCell id="HZyA5QhAcqdJ_mSat4kC-7" value="形成面向云边端协同的芯粒结构与系统软件&lt;br&gt;并在典型场景中开展应用验证" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=2;fontSize=22;verticalAlign=middle;fontStyle=1;spacingBottom=2;arcSize=9;align=center;spacing=4;" vertex="1" parent="HZyA5QhAcqdJ_mSat4kC-5">
           <mxGeometry x="11.933333333333334" y="8.80503144654088" width="871.1333333333333" height="63.396226415094354" as="geometry" />
         </mxCell>
         <mxCell id="HZyA5QhAcqdJ_mSat4kC-15" value="" style="group" vertex="1" connectable="0" parent="HZyA5QhAcqdJ_mSat4kC-25">
