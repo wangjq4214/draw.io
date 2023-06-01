@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-01T06:03:08.240Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.0.0" etag="ov0TnrDdvvFwlU2boJ05" version="21.3.5" type="github" pages="14">
+<mxfile host="app.diagrams.net" modified="2023-06-01T06:07:19.035Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.0.0" etag="HF6NumoPDA_WNM0wR4KV" version="21.3.5" type="github" pages="14">
   <diagram name="第 1 页" id="L4o_ePwlVXZFclz4sLev">
     <mxGraphModel dx="1979" dy="4683" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -4660,29 +4660,26 @@
         <mxCell id="kAR9X9wcNFrxkvMmTkeS-4" value="“十四五”数字经济发展规划" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=2;fontSize=22;verticalAlign=middle;fontStyle=1;spacingBottom=2;arcSize=9;align=center;spacing=4;" parent="kAR9X9wcNFrxkvMmTkeS-33" vertex="1">
           <mxGeometry x="474.35" y="8.80503144654088" width="411.7" height="44.02515723270441" as="geometry" />
         </mxCell>
-        <mxCell id="HZyA5QhAcqdJ_mSat4kC-25" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-1480" y="-290" width="895" height="615" as="geometry" />
-        </mxCell>
-        <mxCell id="HZyA5QhAcqdJ_mSat4kC-2" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=19.23076923076923;endSize=8.319230769230769;endWidth=41.42011834319526;strokeWidth=3;fillColor=default;" edge="1" parent="HZyA5QhAcqdJ_mSat4kC-25">
+        <mxCell id="HZyA5QhAcqdJ_mSat4kC-2" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=19.23076923076923;endSize=8.319230769230769;endWidth=41.42011834319526;strokeWidth=3;fillColor=default;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="455.8533333333328" y="93.46588219381718" as="sourcePoint" />
-            <mxPoint x="455.85333333333347" y="135.59748427672955" as="targetPoint" />
+            <mxPoint x="-1024.1466666666672" y="-196.53411780618282" as="sourcePoint" />
+            <mxPoint x="-1024.1466666666665" y="-154.40251572327045" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HZyA5QhAcqdJ_mSat4kC-3" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=19.23076923076923;endSize=8.319230769230769;endWidth=41.42011834319526;strokeWidth=3;fillColor=default;" edge="1" parent="HZyA5QhAcqdJ_mSat4kC-25">
+        <mxCell id="HZyA5QhAcqdJ_mSat4kC-3" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=19.23076923076923;endSize=8.319230769230769;endWidth=41.42011834319526;strokeWidth=3;fillColor=default;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="455.8533333333328" y="296.73003313721347" as="sourcePoint" />
-            <mxPoint x="455.85333333333347" y="338.86163522012583" as="targetPoint" />
+            <mxPoint x="-1024.1466666666672" y="57.73003313721347" as="sourcePoint" />
+            <mxPoint x="-1024.1466666666665" y="99.86163522012583" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HZyA5QhAcqdJ_mSat4kC-4" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=19.23076923076923;endSize=8.319230769230769;endWidth=41.42011834319526;strokeWidth=3;fillColor=default;" edge="1" parent="HZyA5QhAcqdJ_mSat4kC-25">
+        <mxCell id="HZyA5QhAcqdJ_mSat4kC-4" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=19.23076923076923;endSize=8.319230769230769;endWidth=41.42011834319526;strokeWidth=3;fillColor=default;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="455.8533333333328" y="455.7614796780939" as="sourcePoint" />
-            <mxPoint x="455.85333333333347" y="497.89308176100633" as="targetPoint" />
+            <mxPoint x="-1024.1466666666672" y="216.7614796780939" as="sourcePoint" />
+            <mxPoint x="-1024.1466666666665" y="258.89308176100633" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HZyA5QhAcqdJ_mSat4kC-5" value="" style="group" vertex="1" connectable="0" parent="HZyA5QhAcqdJ_mSat4kC-25">
-          <mxGeometry y="507.57861635220127" width="895" height="107.42138364779875" as="geometry" />
+        <mxCell id="HZyA5QhAcqdJ_mSat4kC-5" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-1480" y="268.57861635220127" width="895" height="107.42138364779875" as="geometry" />
         </mxCell>
         <mxCell id="HZyA5QhAcqdJ_mSat4kC-6" value="研究目标" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=2;fontSize=22;verticalAlign=bottom;fontStyle=1;spacingBottom=2;arcSize=9;align=center;spacing=4;fillColor=#3399FF;" vertex="1" parent="HZyA5QhAcqdJ_mSat4kC-5">
           <mxGeometry width="895" height="107.42138364779875" as="geometry" />
@@ -4690,26 +4687,8 @@
         <mxCell id="HZyA5QhAcqdJ_mSat4kC-7" value="形成面向云边端协同的芯粒结构与系统软件&lt;br&gt;并在典型场景中开展应用验证" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=2;fontSize=22;verticalAlign=middle;fontStyle=1;spacingBottom=2;arcSize=9;align=center;spacing=4;" vertex="1" parent="HZyA5QhAcqdJ_mSat4kC-5">
           <mxGeometry x="11.933333333333334" y="8.80503144654088" width="871.1333333333333" height="63.396226415094354" as="geometry" />
         </mxCell>
-        <mxCell id="HZyA5QhAcqdJ_mSat4kC-15" value="" style="group" vertex="1" connectable="0" parent="HZyA5QhAcqdJ_mSat4kC-25">
-          <mxGeometry y="140.88050314465409" width="895" height="149.685534591195" as="geometry" />
-        </mxCell>
-        <mxCell id="HZyA5QhAcqdJ_mSat4kC-16" value="科学问题" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=2;fontSize=22;verticalAlign=bottom;fontStyle=1;spacingBottom=2;arcSize=9;align=center;spacing=4;fillColor=#99CCFF;" vertex="1" parent="HZyA5QhAcqdJ_mSat4kC-15">
-          <mxGeometry width="895" height="149.685534591195" as="geometry" />
-        </mxCell>
-        <mxCell id="HZyA5QhAcqdJ_mSat4kC-17" value="如何解决关键领域定制芯粒结构设计" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=2;fontSize=22;verticalAlign=middle;fontStyle=1;spacingBottom=2;arcSize=9;align=center;spacing=4;" vertex="1" parent="HZyA5QhAcqdJ_mSat4kC-15">
-          <mxGeometry x="11.933333333333334" y="11.446540880503147" width="184.96666666666667" height="98.61635220125788" as="geometry" />
-        </mxCell>
-        <mxCell id="HZyA5QhAcqdJ_mSat4kC-18" value="如何解决跨域分布式计算基础架构&lt;br&gt;构建" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=2;fontSize=22;verticalAlign=middle;fontStyle=1;spacingBottom=2;arcSize=9;align=center;spacing=4;" vertex="1" parent="HZyA5QhAcqdJ_mSat4kC-15">
-          <mxGeometry x="240.45666666666668" y="7.0440251572327055" width="184.96666666666667" height="107.42138364779876" as="geometry" />
-        </mxCell>
-        <mxCell id="HZyA5QhAcqdJ_mSat4kC-19" value="如何解决一体化高效资源管理" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=2;fontSize=22;verticalAlign=middle;fontStyle=1;spacingBottom=2;arcSize=9;align=center;spacing=4;" vertex="1" parent="HZyA5QhAcqdJ_mSat4kC-15">
-          <mxGeometry x="469.57666666666665" y="11.446540880503147" width="184.96666666666667" height="98.61635220125788" as="geometry" />
-        </mxCell>
-        <mxCell id="HZyA5QhAcqdJ_mSat4kC-20" value="如何实现去中心化任务调度" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=2;fontSize=22;verticalAlign=middle;fontStyle=1;spacingBottom=2;arcSize=9;align=center;spacing=4;" vertex="1" parent="HZyA5QhAcqdJ_mSat4kC-15">
-          <mxGeometry x="698.1" y="11.446540880503147" width="184.96666666666667" height="98.61635220125788" as="geometry" />
-        </mxCell>
-        <mxCell id="HZyA5QhAcqdJ_mSat4kC-21" value="" style="group" vertex="1" connectable="0" parent="HZyA5QhAcqdJ_mSat4kC-25">
-          <mxGeometry width="895" height="88.05031446540882" as="geometry" />
+        <mxCell id="HZyA5QhAcqdJ_mSat4kC-21" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-1480" y="-290" width="895" height="88.05031446540882" as="geometry" />
         </mxCell>
         <mxCell id="HZyA5QhAcqdJ_mSat4kC-22" value="国家战略" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=2;fontSize=22;verticalAlign=bottom;fontStyle=1;spacingBottom=2;arcSize=9;align=center;spacing=4;fillColor=#CCE5FF;" vertex="1" parent="HZyA5QhAcqdJ_mSat4kC-21">
           <mxGeometry width="895" height="88.05031446540882" as="geometry" />
@@ -4720,11 +4699,11 @@
         <mxCell id="HZyA5QhAcqdJ_mSat4kC-24" value="“十四五”数字经济发展规划" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=2;fontSize=22;verticalAlign=middle;fontStyle=1;spacingBottom=2;arcSize=9;align=center;spacing=4;" vertex="1" parent="HZyA5QhAcqdJ_mSat4kC-21">
           <mxGeometry x="474.35" y="8.80503144654088" width="411.7" height="44.02515723270441" as="geometry" />
         </mxCell>
-        <mxCell id="HZyA5QhAcqdJ_mSat4kC-9" value="关键技术" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=2;fontSize=22;verticalAlign=bottom;fontStyle=1;spacingBottom=2;arcSize=9;align=center;spacing=4;fillColor=#66B2FF;" vertex="1" parent="HZyA5QhAcqdJ_mSat4kC-25">
-          <mxGeometry y="346.04" width="895" height="103.96" as="geometry" />
+        <mxCell id="HZyA5QhAcqdJ_mSat4kC-9" value="关键技术" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=2;fontSize=22;verticalAlign=bottom;fontStyle=1;spacingBottom=2;arcSize=9;align=center;spacing=4;fillColor=#66B2FF;" vertex="1" parent="1">
+          <mxGeometry x="-1480" y="107.04000000000002" width="895" height="103.96" as="geometry" />
         </mxCell>
-        <mxCell id="HZyA5QhAcqdJ_mSat4kC-10" value="" style="group" vertex="1" connectable="0" parent="HZyA5QhAcqdJ_mSat4kC-25">
-          <mxGeometry x="9.099999999999909" y="350.08" width="876.8" height="59.92" as="geometry" />
+        <mxCell id="HZyA5QhAcqdJ_mSat4kC-10" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-1470.9" y="116.07999999999998" width="876.8" height="59.92" as="geometry" />
         </mxCell>
         <mxCell id="HZyA5QhAcqdJ_mSat4kC-11" value="支持多类神经网络协同计算芯粒结构" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=2;fontSize=21;verticalAlign=middle;fontStyle=1;spacingBottom=2;arcSize=9;" vertex="1" parent="HZyA5QhAcqdJ_mSat4kC-10">
           <mxGeometry width="184.9663150731541" height="59.92" as="geometry" />
@@ -4737,6 +4716,24 @@
         </mxCell>
         <mxCell id="HZyA5QhAcqdJ_mSat4kC-14" value="去中心化任务管理" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=2;fontSize=21;verticalAlign=middle;fontStyle=1;spacingBottom=2;arcSize=9;" vertex="1" parent="HZyA5QhAcqdJ_mSat4kC-10">
           <mxGeometry x="691.8336849268459" width="184.9663150731541" height="59.92" as="geometry" />
+        </mxCell>
+        <mxCell id="HZyA5QhAcqdJ_mSat4kC-16" value="科学问题" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=2;fontSize=22;verticalAlign=bottom;fontStyle=1;spacingBottom=2;arcSize=9;align=center;spacing=4;fillColor=#99CCFF;" vertex="1" parent="1">
+          <mxGeometry x="-1480" y="-149.12" width="895" height="201" as="geometry" />
+        </mxCell>
+        <mxCell id="HZyA5QhAcqdJ_mSat4kC-17" value="如何解决关键领域定制芯粒结构设计" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=2;fontSize=22;verticalAlign=middle;fontStyle=1;spacingBottom=2;arcSize=9;align=center;spacing=4;" vertex="1" parent="1">
+          <mxGeometry x="-1468.0666666666666" y="-75.56295597484278" width="185" height="92" as="geometry" />
+        </mxCell>
+        <mxCell id="HZyA5QhAcqdJ_mSat4kC-18" value="如何解决跨域分布式计算基础架构&lt;br&gt;构建" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=2;fontSize=22;verticalAlign=middle;fontStyle=1;spacingBottom=2;arcSize=9;align=center;spacing=4;" vertex="1" parent="1">
+          <mxGeometry x="-1239" y="-75.56295597484278" width="185" height="92" as="geometry" />
+        </mxCell>
+        <mxCell id="HZyA5QhAcqdJ_mSat4kC-19" value="如何解决一体化高效资源管理" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=2;fontSize=22;verticalAlign=middle;fontStyle=1;spacingBottom=2;arcSize=9;align=center;spacing=4;" vertex="1" parent="1">
+          <mxGeometry x="-1011" y="-75.56295597484278" width="185" height="92" as="geometry" />
+        </mxCell>
+        <mxCell id="HZyA5QhAcqdJ_mSat4kC-20" value="如何实现去中心化任务调度" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=2;fontSize=22;verticalAlign=middle;fontStyle=1;spacingBottom=2;arcSize=9;align=center;spacing=4;" vertex="1" parent="1">
+          <mxGeometry x="-781.9" y="-75.56295597484278" width="185" height="92" as="geometry" />
+        </mxCell>
+        <mxCell id="HZyA5QhAcqdJ_mSat4kC-26" value="如何构建面向云边端协同的芯粒结构与系统软件" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=2;fontSize=22;verticalAlign=middle;fontStyle=1;spacingBottom=2;arcSize=9;align=center;spacing=4;" vertex="1" parent="1">
+          <mxGeometry x="-1468.07" y="-140" width="871.13" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
