@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-06T08:16:10.874Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.0.0" etag="pk8ifHXHdIi15klxVXF-" version="21.3.6" type="github" pages="14">
+<mxfile host="app.diagrams.net" modified="2023-06-06T08:21:22.614Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.0.0" etag="RXPuiqmwON70xVDdzYwU" version="21.3.6" type="github" pages="14">
   <diagram name="第 1 页" id="L4o_ePwlVXZFclz4sLev">
     <mxGraphModel dx="1979" dy="4683" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -4491,7 +4491,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="I3IDxuofVSOUulWOXdMC" name="第 14 页">
-    <mxGraphModel dx="3633" dy="2345" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2596" dy="1729" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -5014,6 +5014,35 @@
         </mxCell>
         <mxCell id="RMc-MV51YOFAY9MuCCEw-23" value="如何构建面向云边端协同的跨域分布式计算基础架构" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=2;fontSize=22;verticalAlign=middle;fontStyle=1;spacingBottom=2;arcSize=9;align=center;spacing=4;" vertex="1" parent="RMc-MV51YOFAY9MuCCEw-17">
           <mxGeometry x="11.930000000000064" y="9.120000000000005" width="871.13" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="qy7eUwtJ4BQCfdqPv4NF-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.71;exitY=-0.003;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitPerimeter=0;shape=flexArrow;strokeWidth=2;" edge="1" parent="1" source="qW947_6bIHNWieuNUeDl-1" target="qW947_6bIHNWieuNUeDl-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qW947_6bIHNWieuNUeDl-1" value="云边端协同的跨域分布式计算基础架构" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-420" y="970" width="620" height="79.5" as="geometry" />
+        </mxCell>
+        <mxCell id="qy7eUwtJ4BQCfdqPv4NF-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=2;endArrow=none;endFill=0;startArrow=classic;startFill=1;shape=flexArrow;" edge="1" parent="1" source="qW947_6bIHNWieuNUeDl-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-300" y="970" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qW947_6bIHNWieuNUeDl-3" value="典型应用" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-420" y="806" width="240" height="79.5" as="geometry" />
+        </mxCell>
+        <mxCell id="qW947_6bIHNWieuNUeDl-4" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fontStyle=1;strokeWidth=2;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="-160" y="806" width="360" height="79.5" as="geometry" />
+        </mxCell>
+        <mxCell id="qW947_6bIHNWieuNUeDl-5" value="去中心化任务管理平台" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="30" y="815.75" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qy7eUwtJ4BQCfdqPv4NF-1" value="一体化资源高效管理系统" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-150" y="815.75" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qy7eUwtJ4BQCfdqPv4NF-5" value="SDK" style="text;html=1;strokeColor=none;fillColor=default;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-330" y="920" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qy7eUwtJ4BQCfdqPv4NF-6" value="Restful、Fuse" style="text;html=1;strokeColor=none;fillColor=default;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-50" y="920" width="140" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
