@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-01T12:14:07.614Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.0.0" etag="Z4vabX22XC1mDT38YvvI" version="21.3.6" type="github" pages="14">
+<mxfile host="app.diagrams.net" modified="2023-06-06T08:16:10.874Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.0.0" etag="pk8ifHXHdIi15klxVXF-" version="21.3.6" type="github" pages="14">
   <diagram name="第 1 页" id="L4o_ePwlVXZFclz4sLev">
     <mxGraphModel dx="1979" dy="4683" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -3624,7 +3624,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="RKMl8s3jUzmE_pIRKXe6" name="第 13 页">
-    <mxGraphModel dx="4481" dy="2849" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3633" dy="2345" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4475,7 +4475,7 @@
         <mxCell id="rwHXB8lBvq-fGMTGr4Ia-55" value="智慧交通" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fontStyle=1;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="493.69062832800853" y="23" width="407.37433439829607" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="zipwE7lyf6C_F9hr9kkQ-1" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="zipwE7lyf6C_F9hr9kkQ-1" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="-1040.0049627263047" y="30" width="905.4355910543134" height="60" as="geometry" />
         </mxCell>
         <mxCell id="75BPzZ1ucuGV1wIfg8Mv-31" value="智能制造" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fontStyle=1;strokeWidth=2;" parent="zipwE7lyf6C_F9hr9kkQ-1" vertex="1">
@@ -4491,7 +4491,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="I3IDxuofVSOUulWOXdMC" name="第 14 页">
-    <mxGraphModel dx="3982" dy="2553" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3633" dy="2345" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4935,6 +4935,84 @@
           <mxGeometry x="698.1" y="73.55704402515723" width="185" height="92" as="geometry" />
         </mxCell>
         <mxCell id="HZyA5QhAcqdJ_mSat4kC-26" value="如何构建面向云边端协同的芯粒结构与系统软件" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=2;fontSize=22;verticalAlign=middle;fontStyle=1;spacingBottom=2;arcSize=9;align=center;spacing=4;" parent="HZyA5QhAcqdJ_mSat4kC-27" vertex="1">
+          <mxGeometry x="11.930000000000064" y="9.120000000000005" width="871.13" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="RMc-MV51YOFAY9MuCCEw-1" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=19.23076923076923;endSize=8.319230769230769;endWidth=41.42011834319526;strokeWidth=3;fillColor=default;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-1022.9166666666672" y="523.4658821938172" as="sourcePoint" />
+            <mxPoint x="-1022.9166666666665" y="565.5974842767296" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RMc-MV51YOFAY9MuCCEw-2" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=19.23076923076923;endSize=8.319230769230769;endWidth=41.42011834319526;strokeWidth=3;fillColor=default;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-1022.9166666666672" y="777.7300331372135" as="sourcePoint" />
+            <mxPoint x="-1022.9166666666665" y="819.8616352201259" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RMc-MV51YOFAY9MuCCEw-3" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=19.23076923076923;endSize=8.319230769230769;endWidth=41.42011834319526;strokeWidth=3;fillColor=default;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-1022.9166666666672" y="936.7614796780939" as="sourcePoint" />
+            <mxPoint x="-1022.9166666666665" y="978.8930817610063" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RMc-MV51YOFAY9MuCCEw-4" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-1470" y="988.5786163522013" width="895" height="107.42138364779875" as="geometry" />
+        </mxCell>
+        <mxCell id="RMc-MV51YOFAY9MuCCEw-5" value="研究目标" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=2;fontSize=22;verticalAlign=bottom;fontStyle=1;spacingBottom=2;arcSize=9;align=center;spacing=4;fillColor=#3399FF;" vertex="1" parent="RMc-MV51YOFAY9MuCCEw-4">
+          <mxGeometry width="895" height="107.42138364779875" as="geometry" />
+        </mxCell>
+        <mxCell id="RMc-MV51YOFAY9MuCCEw-6" value="形成云边端协同的跨域分布式计算基础架构&lt;br&gt;并向其他课题提供数据协同和分布式计算基础服务" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=2;fontSize=22;verticalAlign=middle;fontStyle=1;spacingBottom=2;arcSize=9;align=center;spacing=4;" vertex="1" parent="RMc-MV51YOFAY9MuCCEw-4">
+          <mxGeometry x="11.933333333333334" y="8.80503144654088" width="871.1333333333333" height="63.396226415094354" as="geometry" />
+        </mxCell>
+        <mxCell id="RMc-MV51YOFAY9MuCCEw-7" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-1470" y="430" width="895" height="88.05031446540882" as="geometry" />
+        </mxCell>
+        <mxCell id="RMc-MV51YOFAY9MuCCEw-8" value="国家战略" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=2;fontSize=22;verticalAlign=bottom;fontStyle=1;spacingBottom=2;arcSize=9;align=center;spacing=4;fillColor=#CCE5FF;" vertex="1" parent="RMc-MV51YOFAY9MuCCEw-7">
+          <mxGeometry width="895" height="88.05031446540882" as="geometry" />
+        </mxCell>
+        <mxCell id="RMc-MV51YOFAY9MuCCEw-9" value="新一代人工智能发展规划" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=2;fontSize=22;verticalAlign=middle;fontStyle=1;spacingBottom=2;arcSize=9;align=center;spacing=4;" vertex="1" parent="RMc-MV51YOFAY9MuCCEw-7">
+          <mxGeometry x="8.95" y="8.80503144654088" width="411.7" height="44.02515723270441" as="geometry" />
+        </mxCell>
+        <mxCell id="RMc-MV51YOFAY9MuCCEw-10" value="“十四五”数字经济发展规划" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=2;fontSize=22;verticalAlign=middle;fontStyle=1;spacingBottom=2;arcSize=9;align=center;spacing=4;" vertex="1" parent="RMc-MV51YOFAY9MuCCEw-7">
+          <mxGeometry x="474.35" y="8.80503144654088" width="411.7" height="44.02515723270441" as="geometry" />
+        </mxCell>
+        <mxCell id="RMc-MV51YOFAY9MuCCEw-11" value="关键技术" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=2;fontSize=22;verticalAlign=bottom;fontStyle=1;spacingBottom=2;arcSize=9;align=center;spacing=4;fillColor=#66B2FF;" vertex="1" parent="1">
+          <mxGeometry x="-1470" y="827.04" width="895" height="103.96" as="geometry" />
+        </mxCell>
+        <mxCell id="RMc-MV51YOFAY9MuCCEw-12" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-1460.9" y="836.0799999999999" width="876.8" height="59.92" as="geometry" />
+        </mxCell>
+        <mxCell id="RMc-MV51YOFAY9MuCCEw-13" value="跨域虚拟存储空间关键技术" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=2;fontSize=21;verticalAlign=middle;fontStyle=1;spacingBottom=2;arcSize=9;" vertex="1" parent="RMc-MV51YOFAY9MuCCEw-12">
+          <mxGeometry width="184.9663150731541" height="59.92" as="geometry" />
+        </mxCell>
+        <mxCell id="RMc-MV51YOFAY9MuCCEw-14" value="广域存算协同调度方案" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=2;fontSize=21;verticalAlign=middle;fontStyle=1;spacingBottom=2;arcSize=9;" vertex="1" parent="RMc-MV51YOFAY9MuCCEw-12">
+          <mxGeometry x="230.31289554270157" width="184.9663150731541" height="59.92" as="geometry" />
+        </mxCell>
+        <mxCell id="RMc-MV51YOFAY9MuCCEw-15" value="分布式训练计算基础引擎" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=2;fontSize=21;verticalAlign=middle;fontStyle=1;spacingBottom=2;arcSize=9;" vertex="1" parent="RMc-MV51YOFAY9MuCCEw-12">
+          <mxGeometry x="461.81912215039125" width="184.9663150731541" height="59.92" as="geometry" />
+        </mxCell>
+        <mxCell id="RMc-MV51YOFAY9MuCCEw-16" value="分布式训练通信调度优化方法" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=2;fontSize=21;verticalAlign=middle;fontStyle=1;spacingBottom=2;arcSize=9;" vertex="1" parent="RMc-MV51YOFAY9MuCCEw-12">
+          <mxGeometry x="691.8336849268459" width="184.9663150731541" height="59.92" as="geometry" />
+        </mxCell>
+        <mxCell id="RMc-MV51YOFAY9MuCCEw-17" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-1470" y="570.88" width="895" height="201" as="geometry" />
+        </mxCell>
+        <mxCell id="RMc-MV51YOFAY9MuCCEw-18" value="科学问题" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=2;fontSize=22;verticalAlign=bottom;fontStyle=1;spacingBottom=2;arcSize=9;align=center;spacing=4;fillColor=#99CCFF;" vertex="1" parent="RMc-MV51YOFAY9MuCCEw-17">
+          <mxGeometry width="895" height="201" as="geometry" />
+        </mxCell>
+        <mxCell id="RMc-MV51YOFAY9MuCCEw-19" value="如何设计并实现跨域虚拟存储空间" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=2;fontSize=22;verticalAlign=middle;fontStyle=1;spacingBottom=2;arcSize=9;align=center;spacing=4;" vertex="1" parent="RMc-MV51YOFAY9MuCCEw-17">
+          <mxGeometry x="11.933333333333394" y="73.55704402515723" width="185" height="92" as="geometry" />
+        </mxCell>
+        <mxCell id="RMc-MV51YOFAY9MuCCEw-20" value="如何实现高效的存算协同调度" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=2;fontSize=22;verticalAlign=middle;fontStyle=1;spacingBottom=2;arcSize=9;align=center;spacing=4;" vertex="1" parent="RMc-MV51YOFAY9MuCCEw-17">
+          <mxGeometry x="241" y="73.55704402515723" width="185" height="92" as="geometry" />
+        </mxCell>
+        <mxCell id="RMc-MV51YOFAY9MuCCEw-21" value="如何构建分布式训练计算框架" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=2;fontSize=22;verticalAlign=middle;fontStyle=1;spacingBottom=2;arcSize=9;align=center;spacing=4;" vertex="1" parent="RMc-MV51YOFAY9MuCCEw-17">
+          <mxGeometry x="469" y="73.55704402515723" width="185" height="92" as="geometry" />
+        </mxCell>
+        <mxCell id="RMc-MV51YOFAY9MuCCEw-22" value="如何实现分布式训练通信调度" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=2;fontSize=22;verticalAlign=middle;fontStyle=1;spacingBottom=2;arcSize=9;align=center;spacing=4;" vertex="1" parent="RMc-MV51YOFAY9MuCCEw-17">
+          <mxGeometry x="698.1" y="73.55704402515723" width="185" height="92" as="geometry" />
+        </mxCell>
+        <mxCell id="RMc-MV51YOFAY9MuCCEw-23" value="如何构建面向云边端协同的跨域分布式计算基础架构" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=2;fontSize=22;verticalAlign=middle;fontStyle=1;spacingBottom=2;arcSize=9;align=center;spacing=4;" vertex="1" parent="RMc-MV51YOFAY9MuCCEw-17">
           <mxGeometry x="11.930000000000064" y="9.120000000000005" width="871.13" height="50" as="geometry" />
         </mxCell>
       </root>
