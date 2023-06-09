@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-09T15:29:53.517Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.0.0" etag="RLzNQa1lRn4ximaMcOxd" version="21.3.7" type="github" pages="16">
+<mxfile host="app.diagrams.net" modified="2023-06-09T15:30:17.097Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.0.0" etag="yGC6YxFJ-RqNtj4xBUOv" version="21.3.7" type="github" pages="16">
   <diagram name="第 1 页" id="L4o_ePwlVXZFclz4sLev">
     <mxGraphModel dx="1979" dy="4683" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -5682,7 +5682,7 @@
         <mxCell id="e24uVV2iGM1O6dkm5MYX-30" value="用户" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;dashed=1;arcSize=3;fontStyle=1;fontSize=24;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="1037.25" y="-365" width="231.5" height="219" as="geometry" />
         </mxCell>
-        <mxCell id="e24uVV2iGM1O6dkm5MYX-31" value="百度网讯" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="e24uVV2iGM1O6dkm5MYX-31" value="百度" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1044.5" y="-323" width="217" height="50" as="geometry" />
         </mxCell>
         <mxCell id="e24uVV2iGM1O6dkm5MYX-32" value="联想智慧工厂" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
@@ -5691,7 +5691,7 @@
         <mxCell id="e24uVV2iGM1O6dkm5MYX-33" value="国家电网" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1044.5" y="-206" width="217" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="e24uVV2iGM1O6dkm5MYX-34" value="百度网讯" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="e24uVV2iGM1O6dkm5MYX-34" value="百度" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1043.75" y="-474" width="217" height="50" as="geometry" />
         </mxCell>
         <mxCell id="e24uVV2iGM1O6dkm5MYX-35" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=19.23076923076923;endSize=8.319230769230769;endWidth=41.42011834319526;strokeWidth=3;fillColor=default;" edge="1" parent="1">
