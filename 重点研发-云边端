@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-10T04:45:28.656Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.37" etag="ukjWc3p8Z8m2vWH9D_zF" version="21.3.7" type="github" pages="16">
+<mxfile host="app.diagrams.net" modified="2023-06-10T04:48:02.998Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.37" etag="AjZXbrN3_FntGKCs3IST" version="21.3.7" type="github" pages="16">
   <diagram name="第 1 页" id="L4o_ePwlVXZFclz4sLev">
     <mxGraphModel dx="493" dy="4383" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -5558,7 +5558,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="VQTnGYW-ZZ3W2BK2i6gZ" name="第 16 页">
-    <mxGraphModel dx="639" dy="2921" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1117" dy="4673" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -5634,7 +5634,7 @@
         <mxCell id="e24uVV2iGM1O6dkm5MYX-12" value="应用大规模验证" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeWidth=2;fontSize=28;verticalAlign=top;fontStyle=1;spacingBottom=2;fillColor=#d5d5d5;strokeColor=#666666;fontColor=#333333;arcSize=9;" parent="1" vertex="1">
           <mxGeometry x="1389.995" y="-1015" width="940.0000000000001" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="e24uVV2iGM1O6dkm5MYX-13" value="国家电网输电智慧全景" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fontStyle=1;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="e24uVV2iGM1O6dkm5MYX-13" value="电网输电智慧全景" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fontStyle=1;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="1407.62" y="-959" width="272.38" height="60" as="geometry" />
         </mxCell>
         <mxCell id="e24uVV2iGM1O6dkm5MYX-14" value="智能网联车路协同" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fontStyle=1;strokeWidth=2;" parent="1" vertex="1">
