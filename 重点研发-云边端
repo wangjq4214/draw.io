@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-12T12:09:46.292Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.37" etag="0WrnkSCS1TM_ilt7KkE8" version="21.3.8" type="github" pages="16">
+<mxfile host="app.diagrams.net" modified="2023-06-12T12:16:36.789Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.37" etag="rclQrVFFSyAcnqDMQqHy" version="21.3.8" type="github" pages="16">
   <diagram name="第 1 页" id="L4o_ePwlVXZFclz4sLev">
     <mxGraphModel dx="1246" dy="4103" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -4491,7 +4491,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="I3IDxuofVSOUulWOXdMC" name="第 14 页">
-    <mxGraphModel dx="3505" dy="2100" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3252" dy="2100" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -5192,94 +5192,94 @@
           <mxGeometry x="-330" y="1810" width="310" height="170" as="geometry" />
         </mxCell>
         <mxCell id="JMX28Oawn5op_rjkP0Cr-16" value="面向云边端协同的关键领域定制芯粒结构（课题一）" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-295" y="1860" width="240" height="100" as="geometry" />
+          <mxGeometry x="-302.5" y="1855" width="255" height="110" as="geometry" />
         </mxCell>
         <mxCell id="JMX28Oawn5op_rjkP0Cr-17" value="面向云边端协同的一体化高效资源管理系统（课题三）" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-760" y="1540" width="310" height="170" as="geometry" />
+          <mxGeometry x="-827" y="1540" width="310" height="170" as="geometry" />
         </mxCell>
         <mxCell id="JMX28Oawn5op_rjkP0Cr-18" value="&lt;div&gt;面向云边端协同的去中心化任务管理平台（课题四）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="103.5" y="1540" width="310" height="170" as="geometry" />
+          <mxGeometry x="150" y="1540" width="310" height="170" as="geometry" />
         </mxCell>
         <mxCell id="JMX28Oawn5op_rjkP0Cr-19" value="在典型的云边端协同场景中开展应用验证（课题五）" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-330" y="1270" width="310" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="JMX28Oawn5op_rjkP0Cr-20" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.677;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=3;exitX=0.68;exitY=0.005;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="JMX28Oawn5op_rjkP0Cr-2" target="JMX28Oawn5op_rjkP0Cr-19">
+        <mxCell id="JMX28Oawn5op_rjkP0Cr-20" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.677;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=3;exitX=0.68;exitY=0.005;exitDx=0;exitDy=0;exitPerimeter=0;fontSize=22;" edge="1" parent="1" source="JMX28Oawn5op_rjkP0Cr-2" target="JMX28Oawn5op_rjkP0Cr-19">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-120" y="1540" as="sourcePoint" />
             <mxPoint x="-70" y="1490" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JMX28Oawn5op_rjkP0Cr-21" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.416;entryY=-0.004;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.418;exitY=1.003;exitDx=0;exitDy=0;exitPerimeter=0;strokeWidth=3;" edge="1" parent="1" source="JMX28Oawn5op_rjkP0Cr-19" target="JMX28Oawn5op_rjkP0Cr-2">
+        <mxCell id="JMX28Oawn5op_rjkP0Cr-21" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.416;entryY=-0.004;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.418;exitY=1.003;exitDx=0;exitDy=0;exitPerimeter=0;strokeWidth=3;fontSize=22;" edge="1" parent="1" source="JMX28Oawn5op_rjkP0Cr-19" target="JMX28Oawn5op_rjkP0Cr-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-110" y="1550" as="sourcePoint" />
             <mxPoint x="-110" y="1450" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JMX28Oawn5op_rjkP0Cr-23" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.677;entryY=0.991;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=3;" edge="1" parent="1" target="JMX28Oawn5op_rjkP0Cr-2">
+        <mxCell id="JMX28Oawn5op_rjkP0Cr-23" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.677;entryY=0.991;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=3;fontSize=22;" edge="1" parent="1" target="JMX28Oawn5op_rjkP0Cr-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-120" y="1810" as="sourcePoint" />
             <mxPoint x="-70" y="1760" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JMX28Oawn5op_rjkP0Cr-24" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.416;entryY=-0.004;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=3;exitX=0.422;exitY=0.997;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="JMX28Oawn5op_rjkP0Cr-2">
+        <mxCell id="JMX28Oawn5op_rjkP0Cr-24" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.416;entryY=-0.004;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=3;exitX=0.422;exitY=0.997;exitDx=0;exitDy=0;exitPerimeter=0;fontSize=22;" edge="1" parent="1" source="JMX28Oawn5op_rjkP0Cr-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-200" y="1710" as="sourcePoint" />
             <mxPoint x="-200" y="1808" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JMX28Oawn5op_rjkP0Cr-25" value="" style="endArrow=classic;html=1;rounded=0;entryX=1.007;entryY=0.354;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=3;exitX=0;exitY=0.354;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="JMX28Oawn5op_rjkP0Cr-18" target="JMX28Oawn5op_rjkP0Cr-2">
+        <mxCell id="JMX28Oawn5op_rjkP0Cr-25" value="" style="endArrow=classic;html=1;rounded=0;entryX=1.007;entryY=0.354;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=3;exitX=0;exitY=0.354;exitDx=0;exitDy=0;exitPerimeter=0;fontSize=22;" edge="1" parent="1" source="JMX28Oawn5op_rjkP0Cr-18" target="JMX28Oawn5op_rjkP0Cr-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="70" y="1762" as="sourcePoint" />
             <mxPoint x="70" y="1660" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JMX28Oawn5op_rjkP0Cr-26" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.579;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=3;exitX=1.007;exitY=0.587;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="JMX28Oawn5op_rjkP0Cr-2" target="JMX28Oawn5op_rjkP0Cr-18">
+        <mxCell id="JMX28Oawn5op_rjkP0Cr-26" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.579;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=3;exitX=1.007;exitY=0.587;exitDx=0;exitDy=0;exitPerimeter=0;fontSize=22;" edge="1" parent="1" source="JMX28Oawn5op_rjkP0Cr-2" target="JMX28Oawn5op_rjkP0Cr-18">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="114" y="1700" as="sourcePoint" />
             <mxPoint x="-8" y="1700" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JMX28Oawn5op_rjkP0Cr-27" value="" style="endArrow=classic;html=1;rounded=0;entryX=1.003;entryY=0.358;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=3;exitX=-0.01;exitY=0.358;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="JMX28Oawn5op_rjkP0Cr-2" target="JMX28Oawn5op_rjkP0Cr-17">
+        <mxCell id="JMX28Oawn5op_rjkP0Cr-27" value="" style="endArrow=classic;html=1;rounded=0;entryX=1.003;entryY=0.358;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=3;exitX=-0.01;exitY=0.358;exitDx=0;exitDy=0;exitPerimeter=0;fontSize=22;" edge="1" parent="1" source="JMX28Oawn5op_rjkP0Cr-2" target="JMX28Oawn5op_rjkP0Cr-17">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-330" y="1601" as="sourcePoint" />
             <mxPoint x="-8" y="1610" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JMX28Oawn5op_rjkP0Cr-28" value="" style="endArrow=classic;html=1;rounded=0;entryX=-0.007;entryY=0.587;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=3;exitX=1.008;exitY=0.579;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="JMX28Oawn5op_rjkP0Cr-17" target="JMX28Oawn5op_rjkP0Cr-2">
+        <mxCell id="JMX28Oawn5op_rjkP0Cr-28" value="" style="endArrow=classic;html=1;rounded=0;entryX=-0.007;entryY=0.587;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=3;exitX=1.008;exitY=0.579;exitDx=0;exitDy=0;exitPerimeter=0;fontSize=22;" edge="1" parent="1" source="JMX28Oawn5op_rjkP0Cr-17" target="JMX28Oawn5op_rjkP0Cr-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-354" y="1710" as="sourcePoint" />
             <mxPoint x="-473" y="1710" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JMX28Oawn5op_rjkP0Cr-29" value="&lt;b&gt;基础计算框架&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-115" y="1460" width="75" height="30" as="geometry" />
+        <mxCell id="JMX28Oawn5op_rjkP0Cr-29" value="&lt;b style=&quot;font-size: 22px;&quot;&gt;基础计算框架&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="-115" y="1460" width="165" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="JMX28Oawn5op_rjkP0Cr-30" value="&lt;b&gt;全局存储共享访问&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-115" y="1490" width="75" height="30" as="geometry" />
+        <mxCell id="JMX28Oawn5op_rjkP0Cr-30" value="&lt;b style=&quot;font-size: 22px;&quot;&gt;全局存储共享访问&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="-115" y="1490" width="185" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="JMX28Oawn5op_rjkP0Cr-31" value="&lt;b&gt;全局存储共享访问&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry y="1650" width="75" height="30" as="geometry" />
+        <mxCell id="JMX28Oawn5op_rjkP0Cr-31" value="&lt;b style=&quot;font-size: 22px;&quot;&gt;全局存储共享访问&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="-30" y="1650" width="190" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="JMX28Oawn5op_rjkP0Cr-32" value="&lt;b&gt;全局数据布局&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry y="1680" width="75" height="30" as="geometry" />
+        <mxCell id="JMX28Oawn5op_rjkP0Cr-32" value="&lt;b style=&quot;font-size: 22px;&quot;&gt;全局数据布局&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="-10" y="1680" width="150" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="JMX28Oawn5op_rjkP0Cr-33" value="&lt;b&gt;任务调度决策&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry y="1564" width="75" height="30" as="geometry" />
+        <mxCell id="JMX28Oawn5op_rjkP0Cr-33" value="&lt;b style=&quot;font-size: 22px;&quot;&gt;任务调度决策&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="-10" y="1564" width="150" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="JMX28Oawn5op_rjkP0Cr-34" value="&lt;b&gt;芯粒结构系统适配&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-115" y="1754" width="75" height="30" as="geometry" />
+        <mxCell id="JMX28Oawn5op_rjkP0Cr-34" value="&lt;b style=&quot;font-size: 22px;&quot;&gt;云边端存储资源&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="-115" y="1754" width="125" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="JMX28Oawn5op_rjkP0Cr-35" value="&lt;b&gt;全局存储&lt;br&gt;资源管理&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-280" y="1754" width="75" height="30" as="geometry" />
+        <mxCell id="JMX28Oawn5op_rjkP0Cr-35" value="&lt;b style=&quot;font-size: 22px;&quot;&gt;全局存储&lt;br style=&quot;font-size: 22px;&quot;&gt;资源管理&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="-330" y="1754" width="155" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="JMX28Oawn5op_rjkP0Cr-36" value="&lt;b&gt;全局存储共享访问&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-430" y="1564" width="75" height="30" as="geometry" />
+        <mxCell id="JMX28Oawn5op_rjkP0Cr-36" value="&lt;b style=&quot;font-size: 22px;&quot;&gt;全局存储共享访问&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="-515" y="1564" width="185" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="JMX28Oawn5op_rjkP0Cr-37" value="&lt;b&gt;全局资源视图&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-430" y="1650" width="75" height="30" as="geometry" />
+        <mxCell id="JMX28Oawn5op_rjkP0Cr-37" value="&lt;b style=&quot;font-size: 22px;&quot;&gt;全局资源视图&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="-500" y="1650" width="155" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="JMX28Oawn5op_rjkP0Cr-38" value="&lt;b&gt;存储资源访问&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-280" y="1470" width="75" height="30" as="geometry" />
+        <mxCell id="JMX28Oawn5op_rjkP0Cr-38" value="&lt;b style=&quot;font-size: 22px;&quot;&gt;存储资源访问&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="-310" y="1470" width="105" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
